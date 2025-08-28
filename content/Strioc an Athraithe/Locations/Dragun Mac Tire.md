@@ -1,0 +1,37 @@
+#country #city
+> [!infobox]
+> # Dragún Mac Tíre
+> ![[guildsketch.png|200]]
+> ###### General Info
+> |  |  |
+> |  ----|  ----|
+> | **Region** | [[Strioc an Athraithe]] |
+> | **Size** | City-State |
+> | **Trades** | [[Adventurers]], Mercenaries |
+> | **Government** | Oligarchy |
+> | **Religion** | Diverse |
+
+Dragún Mac Tíre (Pronounced *Dragoon Mack Teer-uh*) is the heart of [[Antir]]'s [[Adventurers#The Adventurer's Guild|Adventurer's Guilds]]. Located in the [[Strioc an Athraithe]] near the border to [[The Silent Woods]], the city is built up around the guild headquarters in the center of town.
+
+# Government
+The city is run by a council of Guildhearts (senior members of the Guild), led by guild founders Rosaline and Kastenia Valentine.
+
+# Locations
+**The Adventurer's Guild Headquarters**
+
+# People
+**Rosaline and Kastenia Valentine** - Founders of the guild. The sorcerous twins still lead the organization, but have not made a public appearance in many years.
+
+# History 
+**1168 BR**
+The combined creep of the Silent Woods and the thinning barrier between realms invited all manner of bizarre creatures and even more bizarre forms of devastation. One such region was home to a small village, where twin elven girls lived, unaware that the slow infestation of outside forces would soon shape their destiny. On one terrible night, just as summer was to come to a close, their village was caught in the crossfires of a battle between fae courts –  salvation came in the form of a group of heroes, led by the legendary Corsair Molossus Valerie Bouchard and Scalemaster Darios O’Mael, who fought desperately to drive them back. Though the invaders were repelled, much of the village lay in ruin. The twin girls, now orphaned, had lost everything.
+
+The heroes took them in, not just as wards, but as family – guiding them through their grief, training them in the ways of battle and survival, renewing their strength to keep going. And as the twins grew, so too did the fire for adventure in their hearts.
+
+With delicate control over the fae-touched magic flowing within them, the sisters swore to dedicate their lives to protecting Antir – just as their mentors had before them. From their vow, the first adventurer’s guild was born.
+
+With Valerie and Darios’ guidance and patronage, the first adventurer’s guild was established 1168 BR, bordering between Stríoc an Athraithe and the Silent Woods. Branches of the guild then arose along the borders of the Silent Woods – except on the side of Alturon, where the kingdom’s own forces held the line. Its mission was simple: to protect and serve the people. From there, the guild spread across the continent, bringing aid to the people far and wide.
+
+The twins and their companions retraced the paths of their mentors, returning to villages that had once been saved by the legendary heroes. They recruited from among the survivors – those who had seen devastation firsthand. Some joined with a thirst for vengeance and peril, others with a desire to rebuild and protect. Yet for all their services, the guilds asked for nothing in return except one promise: to spread word of their mission and reignite hope in the hearts of the Antirians. 
+
+Today, Dragún Mac Tíre remains the headquarters for all guild activity across the continent, anchored by a formidable city-state of the same name that continues to spread outward. It has drawn youthful, passionate, and powerful individuals from across the realm, earning a reputation as an energetic, bustling city where dreamers go to stake their claim in history. The founding twins continue to oversee much of the city and have become figures akin to its queens.

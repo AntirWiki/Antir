@@ -1,0 +1,13 @@
+#character 
+#city 
+#country 
+#creature 
+#delete 
+#god 
+#group 
+#incomplete 
+#location 
+#lore 
+#pc 
+#private 
+#story 

@@ -1,0 +1,1 @@
+`dice:[[NPC Generator#^adjective]]` `dice:[[NPC Generator#^ancestry]]` `dice:[[NPC Generator#^gender]]`

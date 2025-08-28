@@ -1,0 +1,36 @@
+#location
+```leaflet
+id: Antir
+image: [[Antir Map.jpg]]
+height: 700px
+defaultZoom: 8
+scale: 400
+unit: miles
+darkmode: true
+marker: Kingdom,-2,1.1206020392688525,Holy Kingdom,,,
+marker: Kingdom,-0.89396762140454885,2.4625386550886582,Zauberei,,,
+marker: Region,-1.2404573979240263,1.9042920215887091,Strioc an Athraithe,,,
+marker: Kingdom,-3,0.8761067317265221,Blackwing,,,
+marker: Region,-2.4890221830105562,2.410043325446694,Riverlands,,,
+marker: City,-0.2602783203125,2.68,Owl Nation,,,
+marker: Region,-3.71524658203125,0.5540625,Taluvhas,,,
+marker: Forest,-0.42462158203125,1.5,Great Forest,,,
+marker: Region,-3.441436767578125,2.55908203125,Archipelago,,,
+
+```
+
+Antir is a large continent that is home to several nations and many peoples. The climate is largely temperate, except for the desert in the southern reaches of the continent.
+
+It is bordered to the north by the [[Great Forest]], to the south by [[Taluvhas]], and to the east by the land of the giants.
+
+# History
+In the ancient past Antir was home to the [[Drakos Empire]] before its complete collapse and the extinction of its people. After this, the dead empire's demi-gods - the [[Dragon|Dragons]] - took over rule of the continent for centuries, if not millennia. During this time, the only mortal residents were servants of the dragons and the beastfolk settlements along the outskirts.
+
+This ended when a group of mortals arrived from the north after fleeing the [[Valley of Cold Sun]]. These people, desperate for a new home, fought the dragons for their territory. Due to the dragons' inability to work together and the adaptability and ingenuity of mortals, the dragons were driven into the southern mountains and beyond. This marked the year 0 BR and the founding of the Kingdom of Antir. The kingdom eventually spread to fill the entire continent except for the deadly and unmappable [[Riverlands]] to the southeast.
+
+The Great Kingdom era would last until 1100 BR, when political strife led to the secession of [[Zauberei]] and [[Catsi Crossing]]. They were followed about a century later by [[Blackwing]], leading to the near-total collapse of the [[Holy Kingdom]].
+
+The kingdom eventually recovered, managing to reclaim all its lost lands except those in the aforementioned countries and within the shifting realms of [[Strioc an Athraithe]].
+
+
+
