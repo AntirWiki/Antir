@@ -1,9 +1,7 @@
 ---
-tags:
-  - country
 draft: true
 ---
-
+#country
 > [!infobox]
 > # South
 > ![[unknown.png|200]]
@@ -16,8 +14,6 @@ draft: true
 > | **Trades** | Military, Mining, Salt |
 > | **Government** | Military |
 > | **Religion** | [[Verita]] |
-
-ADD MAP
 
 *Si vis pacem, para bellum*
 

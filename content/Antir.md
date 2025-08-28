@@ -1,4 +1,6 @@
 #location
+
+%%
 ```leaflet
 id: Antir
 image: [[Antir Map.jpg]]
@@ -18,7 +20,7 @@ marker: Forest,-0.42462158203125,1.5,Great Forest,,,
 marker: Region,-3.441436767578125,2.55908203125,Archipelago,,,
 
 ```
-
+%%
 Antir is a large continent that is home to several nations and many peoples. The climate is largely temperate, except for the desert in the southern reaches of the continent.
 
 It is bordered to the north by the [[Great Forest]], to the south by [[Taluvhas]], and to the east by the land of the giants.

@@ -9,7 +9,7 @@
 > | **Size** | Large City |
 > | **Trades** | Varied |
 
-Alturon is the capital of the Holy Kingdom of Antir and the largest city in [[Antir]].
+Alturon is the capital of the Holy Kingdom of Antir and the largest city in [[Antir|Antir]]
 
 # Locations
 **The [[Sunlit Palace]]** is a beautiful palace in the center of the city, and is home to the Holy Kingdom's monarchs and religious leaders.
