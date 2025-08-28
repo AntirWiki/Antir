@@ -184,7 +184,7 @@ export function splitAnchor(link: string): [string, string] {
 
 export function slugTag(tag: string) {
   return tag
-    .split("/")
+    .split("/Antir/")
     .map((tagSegment) => sluggify(tagSegment))
     .join("/")
 }
