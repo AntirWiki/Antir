@@ -1,5 +1,7 @@
-#location
-
+---
+tags:
+  - location
+---
 %%
 ```leaflet
 id: Antir
@@ -21,9 +23,23 @@ marker: Region,-3.441436767578125,2.55908203125,Archipelago,,,
 
 ```
 %%
+![[Antir Map.jpg|right|600]]
 Antir is a large continent that is home to several nations and many peoples. The climate is largely temperate, except for the desert in the southern reaches of the continent.
 
-It is bordered to the north by the [[Great Forest]], to the south by [[Taluvhas]], and to the east by the land of the giants.
+It is bordered to the north by the [[Great Forest]], to the south by [[Taluvhas]], and to the east by the land of the [[giants]].
+
+# Locations
+The continent is divided into five main regions:
+
+[[Holy Kingdom|The Holy Kingdom of Antir]] in the northwest, a theocratic monarchy ruled by [[The Golden Saint]] of the goddess [[Lumina]].
+
+[[Strioc an Athraithe]] in the north, a chaotic collection of small nations plagued by uncontrollable fae magic.
+
+[[Zauberei]] in the northeast, a magical city-state that houses the nation's premier college.
+
+[[Blackwing]] in the south, controlled by the might of the [[Blackwing Legion]] and the priests of [[Verita]].
+
+[[Riverlands|The Riverlands]] in the east, an untamed land of monsters and shifting rivers.
 
 # History
 In the ancient past Antir was home to the [[Drakos Empire]] before its complete collapse and the extinction of its people. After this, the dead empire's demi-gods - the [[Dragon|Dragons]] - took over rule of the continent for centuries, if not millennia. During this time, the only mortal residents were servants of the dragons and the beastfolk settlements along the outskirts.

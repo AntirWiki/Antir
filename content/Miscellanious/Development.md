@@ -125,7 +125,7 @@ As chronicled by Hisuth Nightingale, Uso Tohko O’Hare, Spruce Leek, and Quilp 
 >[!caption|right]
 >
 >![[guild-sketch.png]]
->Artistic recreation of the original concept for Dragún Mac Tíre’s emblem, recognized as the first adventurer’s guild  (c. 1168)*
+>Artistic recreation of the original concept for Dragún Mac Tíre’s emblem, recognized as the first adventurer’s guild  (c. 1168)
 
 ## Foreword  
 Historians regard Cianan of Antir, the Wizard King, as the ruler whose brief yet tumultuous reign (c. 953 – 960 BR) marked a turning point that beckoned magical dangers upon the world. Prior to his rule, catastrophic otherworldly events were all but unheard of – or, if they had occurred, none lived to tell the tale.

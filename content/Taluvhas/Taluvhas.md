@@ -13,9 +13,9 @@ Bug people
 
 Anadi rebels?
 
-![[IMG_5160.jpeg]]
+![[ceremonial fungal mask.jpeg|300]]
 
-
+%%
 
 
 
