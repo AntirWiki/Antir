@@ -1,8 +1,10 @@
-#character #shattered-past 
-> [!infobox]
-> # Aisling of Antir
-> ![[aisling.webp|200]] <small>Image from https://oustomiaworld.fandom.com/wiki/Thevaull_Emberblade</small>
-> ###### General Info
+---
+tags:
+  - character
+  - shattered-past
+---
+>  ![[aisling.webp|200]] <small>Image from https://oustomiaworld.fandom.com/wiki/Thevaull_Emberblade</small>
+>
 > |  |  |
 > |  ----|  ----|
 > | **Ancestry** | Human (Quarter-[[Elf]]) |

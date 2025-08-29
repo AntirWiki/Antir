@@ -1,8 +1,10 @@
-#country
+---
+tags:
+  - country
+---
 > [!infobox]
-> # Name
+> ## Name
 > ![[unknown.png|200]]
-> ###### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Region** | ? |

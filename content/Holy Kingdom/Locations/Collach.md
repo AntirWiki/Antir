@@ -1,7 +1,7 @@
 #city #shattered-past 
 > [!infobox]
 > # Collach
-> ![[collach.png|200]]
+> ![[Collach.png|200]]
 > ###### General Info
 > |  |  |
 > |  ----|  ----|

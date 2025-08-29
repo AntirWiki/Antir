@@ -1,8 +1,10 @@
-#character
+---
+tags:
+  - character
+---
 > [!infobox]
-> # Name
+> ## Name
 > ![[unknown.png|200]]
-> ###### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Ancestry** | ? |
@@ -11,7 +13,7 @@
 > | **Home** | ? |
 > | **Occupation** | ? |
 > | **Status** | Alive/Deceased/Unknown |
-> ##### Relationships
+> ### Relationships
 > |  |  |
 > | ---- | ---- |
 > | Person | Relation |

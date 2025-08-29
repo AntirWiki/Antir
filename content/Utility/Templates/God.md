@@ -1,8 +1,10 @@
-#god
+---
+tags:
+  - god
+---
 > [!infobox]
-> # Name
+> ## Name
 > ![[unknown.png|200]]
-> ###### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Titles** | ? |
@@ -13,7 +15,7 @@
 > | **Followers** | ? |
 > | **Edicts** | ? |
 > | **Anathema** | ? |
-> ###### Devotee Benefits
+> ### Devotee Benefits
 > |  |  |
 > |  ----|  ----|
 > | **Divine Attribute** | ? |

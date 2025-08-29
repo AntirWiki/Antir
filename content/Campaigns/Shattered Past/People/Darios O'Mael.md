@@ -1,8 +1,8 @@
 #character #pc #shattered-past 
 > [!infobox]
-> # Name
+> # Darios O'Mael
 > ![[darios.png|200]]
-> ###### Darios O'Mael
+> ###### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Aliases** | "The Dragon", "Scalemaster" |

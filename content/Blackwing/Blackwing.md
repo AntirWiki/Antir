@@ -1,13 +1,11 @@
 ---
-draft: false
 tags:
   - country
   - incomplete
 ---
 > [!infobox]
-> # South
+> ## Blackwing
 > ![[unknown.png|200]]
-> ###### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Region** | Southern [[Antir]] |

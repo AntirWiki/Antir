@@ -1,8 +1,11 @@
-#character #shattered-past 
+---
+tags:
+  - character
+  - shattered-past
+---
 > [!infobox]
-> # Cianan of Antir
+> ## Cianan of Antir
 > ![[cianan.png|200]]
-> ###### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Ancestry** | Human (Quarter-[[Elf]]) |
@@ -11,7 +14,7 @@
 > | **Home** | [[Zauberei]] |
 > | **Occupation** | Headmaster (Formerly King) |
 > | **Status** | Unknown |
-> ##### Relationships
+> ### Relationships
 > |  |  |
 > | ---- | ---- |
 > | [[West Hemlocke]] | Husband |

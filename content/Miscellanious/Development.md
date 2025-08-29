@@ -121,10 +121,11 @@ Just like tradesfolk of any other profession, they form a Guild. The Adventurers
 
 A Brief History of Antir’s Adventuring Guilds
 
-As chronicled by Hisuth Nightingale, Uso Tohko O’Hare, Spruce Leek, and Quilp Bilmblebop; Scholars of Foxfire Academy![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe3AIeexqU0sQqnabO0edKtngI1G2Dlz2C5gBkVmct80GJ_v3_vjYloQJ23dMXmxaDYtwabVNysPd96gIlOvkHGs-nScNCHyayWd8ym_yN42MheM8GLdfT-tvw6FZ_Vp-gHPZWtxw?key=xtsbk5_3kcSpZJ9X-fZNLP5q)
-
----
-*Artistic recreation of the original concept for Dragún Mac Tíre’s emblem, recognized as the first adventurer’s guild  (c. 1168)*
+As chronicled by Hisuth Nightingale, Uso Tohko O’Hare, Spruce Leek, and Quilp Bilmblebop; Scholars of Foxfire Academy 
+>[!caption|right]
+>
+>![[guild-sketch.png]]
+>Artistic recreation of the original concept for Dragún Mac Tíre’s emblem, recognized as the first adventurer’s guild  (c. 1168)*
 
 ## Foreword  
 Historians regard Cianan of Antir, the Wizard King, as the ruler whose brief yet tumultuous reign (c. 953 – 960 BR) marked a turning point that beckoned magical dangers upon the world. Prior to his rule, catastrophic otherworldly events were all but unheard of – or, if they had occurred, none lived to tell the tale.
