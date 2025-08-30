@@ -166,7 +166,7 @@ a {
 }
 
 .page {
-  max-width: calc(#{map.get($breakpoints, desktop)} + 300px);
+  max-width: calc(#{map.get($breakpoints, desktop)} + 400px);
   margin: 0 auto;
   & article {
     & > h1 {
@@ -201,6 +201,7 @@ a {
     column-gap: #{map.get($desktopGrid, columnGap)};
     row-gap: #{map.get($desktopGrid, rowGap)};
     grid-template-areas: #{map.get($desktopGrid, templateAreas)};
+    font-size: 1.1rem;
 
     @media all and ($tablet) {
       grid-template-columns: #{map.get($tabletGrid, templateColumns)};
@@ -423,7 +424,7 @@ h3 {
 h4,
 h5,
 h6 {
-  font-size: 1rem;
+  font-size: 1.1rem;
   margin-top: 1.5rem;
   margin-bottom: 1rem;
 }
