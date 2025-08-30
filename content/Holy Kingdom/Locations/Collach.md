@@ -19,8 +19,9 @@ The town is named after its guardian, a great nature spirit that takes the form 
 # Locations
 
 # People
+%%
 - **Priest Alaran** is a preacher of [[Antiran Pantheon#**Soln**|Soln]]. He has been deaf and mute since birth, a condition that is seen as a mark of Soln's blessing. The priest offers guidance to the people of the town, and occasionally assists in hunts.
-
+%%
 # History
 [[Tooth and Claw]] visited Collach during their investigation of [[General Tanner]]. There they met [[Wisdom Sawyer]] and learned that the town's guardian spirit had been corrupted. 
 
