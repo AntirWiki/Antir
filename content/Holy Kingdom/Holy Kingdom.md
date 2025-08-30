@@ -16,7 +16,7 @@ tags:
 > | **Government** | Monarchy |
 > | **Religion** | [[Antiran Pantheon]] |
 
-PUT A BIG OL MAP HERE
+%%PUT A BIG OL MAP HERE%%
 
 The Holy Kingdom of Antir is the largest country in [[Antir]], controlling the northwest and central regions of the continent. It is a religious monarchy, its leaders and the majority of its people faithfully serving the [[Antiran Pantheon]] of gods, especially Lumina, goddess of light. 
 
