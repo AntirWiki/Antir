@@ -1,4 +1,7 @@
-#location
+---
+tags:
+  - location
+---
 ![[cold sun map.jpeg|right|600]]
 The Valley of the Cold Sun is an arctic region north of the [[Great Forest]]. The land is freezing cold, covered in near-constant snowfall.
 

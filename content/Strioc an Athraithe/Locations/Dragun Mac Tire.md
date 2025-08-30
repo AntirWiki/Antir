@@ -1,8 +1,12 @@
-#country #city
+---
+tags:
+  - city
+  - country
+---
 > [!infobox]
-> # Dragún Mac Tíre
+> ## Dragún Mac Tíre
 > ![[guildsketch.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Region** | [[Strioc an Athraithe]] |

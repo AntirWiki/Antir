@@ -1,4 +1,7 @@
-#lore
+---
+tags:
+  - lore
+---
 The Drakos (Plural, singular "Draku") were dragon-like people who lived in the lands of Antir long before the current settlers descended from the north. All that remains of their once-great empire are ruins.
 
 # Gods and Saints

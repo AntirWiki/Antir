@@ -1,4 +1,7 @@
-#location
+---
+tags:
+  - location
+---
 The Great Forest is a woodland north of [[Antir]] and south of the [[Valley of Cold Sun]]. It is almost entirely unexplored, except for for the southern outskirts which are known to the Antirans and home to several communities of Beastfolk.
 
 The deeper one travels into the Forest, the lower the ground elevation becomes. At the same rate, the trees grow taller to an eventually incredible degree, causing the forest canopy to appear almost completely flat from above.

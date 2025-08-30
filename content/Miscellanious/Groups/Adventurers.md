@@ -1,4 +1,8 @@
-#group #lore
+---
+tags:
+  - group
+  - lore
+---
 Each nation of Antir has its own stereotypes of Adventurers. In the [[Holy Kingdom]], adventurers are heroes that slay monsters and defeat villains for the good of all. In [[Zauberei]], they're like a crisis team that deal with strange beasts and magic gone wrong. For the [[Strioc an Athraithe]], adventurers are treated like specialty mercenaries. [[Blackwing]] treats adventurers as elite strike teams to deal with specific threats. 
 
 Despite these varied views of adventuring, an adventurer's work is more or less the same in any nation: dealing with threats that the local authority cannot or will not handle. Adventurers spend their days delving dungeons, hunting monsters, investigating mysteries, and doing any other odd task they can get paid for. 

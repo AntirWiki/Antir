@@ -1,9 +1,13 @@
-#incomplete #country #city
-
+---
+tags:
+  - incomplete
+  - country
+  - city
+---
 > [!infobox]
-> # Owl Nation
+> ## Owl Nation
 > ![[unknown.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Region** | Northeastern [[Antir]] |

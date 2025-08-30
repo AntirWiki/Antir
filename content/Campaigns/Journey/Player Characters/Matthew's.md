@@ -1,8 +1,16 @@
-#character #pc #private #journey
+---
+tags:
+  - character
+  - pc
+  - journey
+  - private
+  - incomplete
+draft: true
+---
 > [!infobox]
-> # Name
+> ## Name
 > ![[unknown.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Ancestry** | ? |
@@ -11,7 +19,7 @@
 > | **Home** | ? |
 > | **Occupation** | Adventurer |
 > | **Status** | Alive |
-> ##### Relationships
+> ### Relationships
 > |  |  |
 > | ---- | ---- |
 > | Person | Relation |

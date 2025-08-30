@@ -1,4 +1,7 @@
-#location
+---
+tags:
+  - location
+---
 > [!quote] Excerpt from 'The Hærfest Affairs'
 > As for Kyrillos… it is written to be impossible to truly destroy a Lich… especially one who almost tasted the power of a god… However, the mind is more easily persuaded than the form. The violent separation of the Lord from Lich was the final straw needed to rip back all the anchors and entangle them around Kyrillos’s own consciousness, reducing him to nonsentience. Scholars argue whether the unconscious overwhelming evil contained within the ever-smoldering remnants of that great oak in the tainted soil of the Silent Woods to the north of Alturon… is preferable to the mind of a former wizard tainted by necromancy that has a chance of being reasoned with. History has not given us time enough to tell, for now, that area is best to be avoided. While not a Lich nor a mobile force, A wrong and uncanny energy still emanates out from that tree. It seems that everything living that comes within its path unwinds into its base elements before returning to tell the tale. Birds spotted flying above it, wings falling off and plummeting into pieces of meat as they near its epicenter.
 

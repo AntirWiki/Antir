@@ -1,4 +1,7 @@
-#lore
+---
+tags:
+  - lore
+---
 The Black Autumn is a name for the autumn of 1077 BR, when the archfae known as [[The Autumn King]] and the [[lich]] [[Kyrillos]] attacked [[Alturon]], were defeated, and created [[The Silent Woods]]. 
 
 >[!quote] From "The Hærfest Affairs"

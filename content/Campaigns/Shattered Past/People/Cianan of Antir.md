@@ -6,6 +6,7 @@ tags:
 > [!infobox]
 > ## Cianan of Antir
 > ![[cianan.png|200]]
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Ancestry** | Human (Quarter-[[Elf]]) |
@@ -23,11 +24,11 @@ tags:
 >| [[Aisling of Antir]] | Sister |
 >| [[Zella Brightflower]] | Mentor |
 
-Cianan of Antir was the king of [[Antir]] from 953-960 BR. He is known for being the victor of the [[Three Kings War]] against his brothers [[Faolan of Antir]] and [[Lasairian of Antir]]. 
+Cianan of Antir was the king of [[Antir]] from 953-960 BR. He is known for being the victor of the [[Three Kings War]] against his brothers [[Faolan of Antir|Faolan]] and [[Lasairian of Antir|Lasairian]]. 
 
-He is also seen as the founder of modern wizardry thanks to his use of battlemages during the war and his founding of [[Foxfire Academy]] in [[Zauberei]], where he would become headmaster after abdicating the throne.
+He is also seen as the founder of modern wizardry thanks to his use of battlemages during the war and his founding of [[Foxfire Academy]] in [[Zauberei]], where he would become headmaster after abdicating the throne to his younger sister [[Aisling of Antir|Aisling]].
 
-He married his childhood friend and former royal guard [[West Hemlocke]].
+After his abdication, he married his childhood friend and former royal guard [[West Hemlocke]].
 
 He was the patron of [[Tooth and Claw]] immediately following the Three Kings War, and assisted them in defeating the dragon [[Dilitrius]]. He also helped fend off [[Ninyva O'Niamh]]'s attack on [[Alturon]] immediately following the dragon's assault.
 

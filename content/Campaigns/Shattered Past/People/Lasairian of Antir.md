@@ -1,8 +1,12 @@
-#character #shattered-past
+---
+tags:
+  - character
+  - shattered-past
+---
 > [!infobox]
-> # Lasairian of Antir
+> ## Lasairian of Antir
 > ![[unknown.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Ancestry** | Human (Quarter-[[Elf]])|
@@ -11,7 +15,7 @@
 > | **Home** | [[Blackwing]]|
 > | **Occupation** | King, General |
 > | **Status** | Deceased |
-> ##### Relationships
+> ### Relationships
 > |  |  |
 > | ---- | ---- |
 >| Ozymandias | Ally |

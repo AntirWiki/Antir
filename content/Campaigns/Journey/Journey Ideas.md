@@ -1,4 +1,9 @@
-#private
+---
+tags:
+  - private
+  - journey
+draft: true
+---
 Make initiative trackers for top of GM screen
 
 UNIQUE ENCOUNTER GOALS. NOT JUST KILLING THE ENEMY!

@@ -1,4 +1,7 @@
-#lore
+---
+tags:
+  - lore
+---
 *Book by Mage [[Zella Brightflower]], 949 BR*
 
 ... I will admit, when I am alone and fancy a pastime--one that allows me to temporarily forget my place in the Foxfire Tower--I take a walk to the Mirrorlake Clearing just outside the city wall attempt to measure the skies. Raeldan forbid a mother having a hobby or two when their child has grown enough feathers and leave the nest, so I kept this habit of mine away from the prying eyes of the stuffy academics within the Academy.

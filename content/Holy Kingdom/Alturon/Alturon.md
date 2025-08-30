@@ -1,8 +1,11 @@
-#city
+---
+tags:
+  - city
+---
 > [!infobox]
-> # Alturon
+> ## Alturon
 > ![[unknown.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Country** | [[Holy Kingdom]] |

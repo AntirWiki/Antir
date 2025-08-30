@@ -1,5 +1,8 @@
-#lore
-The planet (or something in it?) sort of naturally emanates magical energy, and living things (maybe their souls, maybe their minds, maybe both) subconsciously shape this energy.
+---
+tags:
+  - lore
+---
+The planet (or something in it?) sort of naturally emanates magical energy, and the souls of living things subconsciously shape this energy.
 
 So animals and plants tend to create animal/plant spirits, since they dont really have the capacity to conceptualize anything else.
 

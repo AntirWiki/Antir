@@ -1,8 +1,12 @@
-#city #shattered-past 
+---
+tags:
+  - city
+  - shattered-past
+---
 > [!infobox]
-> # Marigold
+> ## Marigold
 > ![[unknown.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Country** | [[Holy Kingdom]] |

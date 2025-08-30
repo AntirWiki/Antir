@@ -5,6 +5,7 @@ tags:
 > [!infobox]
 > ## Name
 > ![[unknown.png|200]]
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Region** | ? |
@@ -16,8 +17,8 @@ tags:
 
 Summary
 
-# Government
-
 # Locations
+
+# Government
 
 # People

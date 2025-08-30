@@ -1,3 +1,9 @@
+---
+tags:
+  - private
+  - journey
+draft: true
+---
 During periods of extended travel, characters will be in "Journey Mode":
 - 10 minute or 1 hour abilities, such as treat wounds, refocus, and repair require a long rest to complete
 - Daily abilities (including spell slots) only refresh after a full day's rest in a safe location (such as a town)

@@ -1,8 +1,11 @@
-#god
+---
+tags:
+  - god
+---
 > [!infobox]
-> # Verita
+> ## Verita
 > ![[unknown.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Titles** | Lucent Verita |
@@ -12,7 +15,7 @@
 > | **Followers** | Soldiers, Guards, Healers |
 > | **Edicts** | Fight for your cause, Keep oaths, Reveal falsehoods |
 > | **Anathema** | Lie, Surrender, Disobey orders |
-> ###### Devotee Benefits
+> ### Devotee Benefits
 > |  |  |
 > |  ----|  ----|
 > | **Divine Attribute** | Strength or Wisdom |

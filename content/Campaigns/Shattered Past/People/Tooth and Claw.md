@@ -1,4 +1,9 @@
-#group #pc #shattered-past 
+---
+tags:
+  - shattered-past
+  - group
+  - pc
+---
 "Tooth and Claw" was the stage name of a group gathered by [[Cianan of Antir]] to quell the unrest around [[Alturon]] following the [[Three Kings War]]. 
 
 The group consisted of royal bodyguard [[West Hemlocke]], prize fighter [[Valerie Bouchard]], former general [[Darios O'Mael]] and village Wisdom [[Ninyva O'Niamh]].

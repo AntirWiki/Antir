@@ -1,8 +1,16 @@
-#character #pc #private #journey
+---
+tags:
+  - character
+  - pc
+  - journey
+  - private
+  - incomplete
+draft: true
+---
 > [!infobox]
-> # Kirturok Stonehoof
+> ## Kirturok Stonehoof
 >![[RockFace.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Ancestry** | [[Minotaur]] |
@@ -11,7 +19,7 @@
 > | **Home** | ? |
 > | **Occupation** | Adventurer |
 > | **Status** | Alive |
-> ##### Relationships
+> ### Relationships
 > |  |  |
 > | ---- | ---- |
 > | Person | Relation |

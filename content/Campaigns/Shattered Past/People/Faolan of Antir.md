@@ -1,8 +1,12 @@
-#character #shattered-past 
+---
+tags:
+  - character
+  - shattered-past
+---
 > [!infobox]
-> # Faolan of Antir
+> ## Faolan of Antir
 > ![[unknown.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Ancestry** | Human (Quarter-[[Elf]])|
@@ -11,7 +15,7 @@
 > | **Home** |[[Alturon]]|
 > | **Occupation** | King |
 > | **Status** | Deceased |
-> ##### Relationships
+> ### Relationships
 > |  |  |
 > | ---- | ---- |
 > | [[Cianan of Antir]] | Brother |

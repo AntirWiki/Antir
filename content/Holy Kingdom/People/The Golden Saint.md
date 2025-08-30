@@ -1,8 +1,11 @@
-#character
+---
+tags:
+  - character
+---
 > [!infobox]
-> # Áine of Antir
+> ## Áine of Antir
 > ![[daniel-conway-broken-kintsugi.jpg|250]] https://conway.artstation.com/projects/nWOyo
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Titles** | The Golden Saint |

@@ -1,5 +1,8 @@
-#location
-Foxfire Academy is an institution of arcane education in the heart of [[Zauberei]]. It is the largest college of its kind in [[Antir]]. 
+---
+tags:
+  - location
+---
+Foxfire Academy is an institution of arcane education in the heart of [[Zauberei]]. It is the largest college of its kind in [[Antir]].
 
 # People
 Headmistress - A former warmage apprentice from the south. Rumor has it that in her youth, she performed some great and terrible act of magic that earned her a dishonorable discharge from the military and a full scholarship to Foxfire.

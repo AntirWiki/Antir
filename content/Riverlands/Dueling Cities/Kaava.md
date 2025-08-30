@@ -1,13 +1,16 @@
-#city
+---
+tags:
+  - city
+---
 > [!infobox]
-> # Kaava
+> ## Kaava
 > ![[unknown.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Region** | [[Riverlands]] |
 > | **Size** | Medium |
-> | **Trades** | ? |
+> | **Trades** | Boats, Fish, Shipping |
 
 Kaava is one of the Dueling Cities located south of the [[Riverlands]] in [[Antir]].
 

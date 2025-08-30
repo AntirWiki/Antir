@@ -1,8 +1,12 @@
-#character #shattered-past
+---
+tags:
+  - character
+  - shattered-past
+---
 > [!infobox]
-> # Wind Whispers Through Leaves
+> ## Wind Whispers Through Leaves
 > ![[unknown.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Ancestry** | Leshy |

@@ -1,8 +1,11 @@
-#city
+---
+tags:
+  - city
+---
 > [!infobox]
-> # Luscgard
+> ## Luscgard
 > ![[unknown.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Country** | [[Zauberei]] |

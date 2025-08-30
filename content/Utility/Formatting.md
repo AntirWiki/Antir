@@ -6,18 +6,20 @@ https://help.obsidian.md/Editing+and+formatting/Callouts
 Note
 
 >[!quote]
->quote
+> quote
 
 >[!Tip]
 
 >[!success]
 
->[!fail] 
+>[!fail]
+
+>[!aside]
+>Woah it's to the side
 
 ~~strikethru~~
 ==highlight==
 - [ ] Checkbox
 <u>underline</u> 
-
 
 ![[Special Formatting.png]]

@@ -1,8 +1,11 @@
-#god
+---
+tags:
+  - god
+---
 > [!infobox]
-> # Ognisko
+> ## Ognisko
 > ![[unknown.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Titles** | Firemaster |
@@ -12,7 +15,7 @@
 > | **Followers** | Alchemists, Tinkerers, Goblins |
 > | **Edicts** | Take risks, experiment, learn new things |
 > | **Anathema** | Prevent progress, destroy technology or information |
-> ###### Devotee Benefits
+> ### Devotee Benefits
 > |  |  |
 > |  ----|  ----|
 > | **Divine Attribute** | Intelligence or Constitution |

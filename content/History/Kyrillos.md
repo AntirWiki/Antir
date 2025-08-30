@@ -1,8 +1,12 @@
-#character #shattered-past 
+---
+tags:
+  - character
+  - shattered-past
+---
 > [!infobox]
-> # Kyrillos
+> ## Kyrillos
 > ![[Kyrillos.jpeg|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Ancestry** | Drakos (Undead)|
@@ -10,7 +14,7 @@
 > | **Gender** | Male |
 > | **Home** | [[The Silent Woods]], formerly [[Luscgard]], formerly [[Drakos Empire]] |
 > | **Status** | Imprisoned |
-> ##### Relationships
+> ### Relationships
 > |  |  |
 > | ---- | ---- |
 > | [[The Autumn King]] | Master |

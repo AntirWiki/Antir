@@ -1,8 +1,12 @@
-#character #shattered-past 
+---
+tags:
+  - character
+  - shattered-past
+---
 > [!infobox]
-> # Yvonne Silvershield
+> ## Yvonne Silvershield
 > ![[unknown.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Ancestry** | [[Dwarf]] |
@@ -11,7 +15,7 @@
 > | **Home** | [[Alturon]] |
 > | **Occupation** | Soldier |
 > | **Status** | Unknown |
-> ##### Relationships
+> ### Relationships
 > |  |  |
 > | ---- | ---- |
 > | [[Faolan of Antir]] | King |
@@ -23,7 +27,7 @@ Upon learning that [[Cianan of Antir]] was responsible for Faolan's death, she b
 
 She was spared execution thanks to pleas from the adventurers, and instead imprisoned in exchange for information on her co-conspirators.
 
-Her surname comes from her time as Faolan's guard. Late in the war, their camp was attacked in the night by [[Lasairian of Antir]]'s black [[dragon]] companion Ozymandias. When the dragon's acid ate away her shield, she instead took up a silver serving tray - and the magically-dampening properties of silver made it immune to the dragon's breath. Using this tray alone, she held back the dragon long enough for her king to don his armor and arm himself to slay the beast. From that day forward she wielded a silver-plated shield.
+Her surname comes from her time as Faolan's guard. Late in the war, their camp was attacked in the night by [[Lasairian of Antir]]'s black [[dragon]] companion Ozymandias. When the dragon's acid ate away her shield, she instead took up a silver serving tray - and the magically-disruptive properties of silver made it immune to the dragon's breath. Using this tray alone, she held back the dragon long enough for her king to don his armor and arm himself to slay the beast. From that day forward she wielded a silver-plated shield.
 
 # Description
 Yvonne has the short and stocky build typical to dwarves, with copper skin and braided blonde hair. Unlike most dwarves, she wore no beard - perhaps in an attempt to appeal to Faolan's human tastes.

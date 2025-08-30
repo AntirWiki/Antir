@@ -1,8 +1,13 @@
-#character #pc #shattered-past 
+---
+tags:
+  - character
+  - shattered-past
+  - pc
+---
 > [!infobox]
-> # Ninyva O'Niamh
+> ## Ninyva O'Niamh
 > ![[Nini.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Ancestry** | Human |
@@ -11,6 +16,13 @@
 > | **Home** | [[Alturon]], formerly [[Catsi Crossing]] |
 > | **Occupation** | Wisdom, Adventurer |
 > | **Status** | Unknown |
+> ### Relationships
+> |  |  |
+> | ---- | ---- |
+>| [[Valerie Bouchard]] | Friend |
+> | [[Darios O'Mael]] | Ally |
+> | [[The Catsi]] | Patron |
+>| [[The Autumn King]] | Patron |
 
 
 Ninyva "Nini" O'Niamh is the former Wisdom of [[Catsi Crossing]], Witch of [[The Catsi]], founder of the [[Catsi Coven]], and former member of [[Tooth and Claw]].

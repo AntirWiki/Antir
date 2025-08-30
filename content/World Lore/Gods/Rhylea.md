@@ -1,8 +1,11 @@
-#god
+---
+tags:
+  - god
+---
 > [!infobox]
-> # Rhylea
+> ## Rhylea
 > ![[unknown.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Titles** | ? |
@@ -13,7 +16,7 @@
 > | **Followers** | Spies, Assassins, Thieves |
 > | **Edicts** | Keep secrets, remain inconspicuous |
 > | **Anathema** | Gain a (true) reputation, reveal hidden information |
-> ###### Devotee Benefits
+> ### Devotee Benefits
 > |  |  |
 > |  ----|  ----|
 > | **Divine Attribute** | Dexterity or Charisma |

@@ -1,7 +1,8 @@
-#private
-Island archipelago in the bay below the riverlands
-	Ruthlessly mercantile?
-
+---
+tags:
+  - private
+draft: true
+---
 Gnome business magnate/noble who's bleaching but can't let go of their position/power
 
 Dragon who considers national economy their hoard 

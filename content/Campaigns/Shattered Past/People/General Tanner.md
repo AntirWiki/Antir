@@ -1,8 +1,12 @@
-#character #shattered-past 
+---
+tags:
+  - character
+  - shattered-past
+---
 > [!infobox]
-> # General Tanner
+> ## General Tanner
 > ![[unknown.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Ancestry** | Human |
@@ -11,7 +15,7 @@
 > | **Home** | [[Blackwing]] |
 > | **Occupation** | General |
 > | **Status** | Deceased |
-> ##### Relationships
+> ### Relationships
 > |  |  |
 > | ---- | ---- |
 > | [[Lasairian of Antir]] | Commander |

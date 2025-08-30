@@ -1,5 +1,9 @@
-#private
-
+---
+tags:
+  - private
+  - journey
+draft: true
+---
 In the silent woods
 
 Necromancers friend gets trapped - comes back later as kyrilos’ thrall? Major antagonist?

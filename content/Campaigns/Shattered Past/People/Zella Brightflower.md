@@ -1,8 +1,12 @@
-#character #shattered-past 
+---
+tags:
+  - character
+  - shattered-past
+---
 > [!infobox]
-> # Zella Brightflower
+> ## Zella Brightflower
 > ![[Zella.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Ancestry** | [[Gnome]] |
@@ -11,7 +15,7 @@
 > | **Home** | [[Zauberei]] |
 > | **Occupation** | Wizard |
 > | **Status** | Unknown |
-> ##### Relationships
+> ### Relationships
 > |  |  |
 > | ---- | ---- |
 > | [[West Hemlocke]] | Son |

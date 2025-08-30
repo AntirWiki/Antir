@@ -1,4 +1,7 @@
-#group
+---
+tags:
+  - group
+---
 The Orphic Keepers, known in some circles as simply "The Keepers", are a death cult that serve as assassins for hire in and around the [[Holy Kingdom]]. 
 
 # History

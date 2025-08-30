@@ -3,8 +3,10 @@ tags:
   - character
   - shattered-past
 ---
+>[!infobox]
+>## Aisling of Antir
 >  ![[aisling.webp|200]] <small>Image from https://oustomiaworld.fandom.com/wiki/Thevaull_Emberblade</small>
->
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Ancestry** | Human (Quarter-[[Elf]]) |
@@ -13,7 +15,7 @@ tags:
 > | **Home** | [[Alturon]] |
 > | **Occupation** | Queen |
 > | **Status** | Deceased |
-> ##### Relationships
+> ### Relationships
 > |  |  |
 > | ---- | ---- |
 > | [[Cianan of Antir]] | Brother |

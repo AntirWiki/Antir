@@ -1,5 +1,7 @@
-#lore
-
+---
+tags:
+  - lore
+---
 When a being with a soul believes in something, that belief is impressed upon the Aether that flows through them. When that Aether leaves them and enters the world, it retains that "impression". A collection of Aether with similar "impressions" from this process can then collect together and form an intelligent being - a Spirt.
 
 The type of spirit it becomes depends on the nature of that impression, as described in the sections below.

@@ -1,4 +1,7 @@
-#creature
+---
+tags:
+  - creature
+---
 Dragons are massive reptilian creatures native to the continent of [[Antir]]. They are varied in form, but most are able to fly in some way and all possess a breath weapon, the exact nature of which varies greatly.
 
 They are immortal, steadily growing as they age. Young dragons are about a dozen feet in length, and elder dragons have been recorded at over 30 feet long.

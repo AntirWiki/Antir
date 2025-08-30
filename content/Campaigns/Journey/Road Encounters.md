@@ -1,4 +1,9 @@
-#private 
+---
+tags:
+  - private
+  - journey
+draft: true
+---
 Stumbling upon a secret cache (smuggling? secret note? valuables whose owner comes looking?)
 
 Meeting other adventurers, mercenaries, bards, or even a circus

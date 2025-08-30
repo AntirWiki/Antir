@@ -1,5 +1,8 @@
-#private 
-
+---
+tags:
+  - private
+draft: true
+---
 Nobles in Zauberei using Cianan's lack of funding to bribe him
 	Send him servants too
 

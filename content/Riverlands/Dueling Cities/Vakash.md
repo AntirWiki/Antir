@@ -1,13 +1,16 @@
-#city
+---
+tags:
+  - city
+---
 > [!infobox]
-> # Name
+> ## Vakash
 > ![[unknown.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Country** | ? |
-> | **Size** | ? |
-> | **Trades** | ? |
+> | **Region** | [[Riverlands]] |
+> | **Size** | Medium |
+> | **Trades** | Boats, fish, shipping |
 
 Vakash is one of the Dueling Cities located south of the [[Riverlands]] in [[Antir]]. 
 

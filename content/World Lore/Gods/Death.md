@@ -1,15 +1,29 @@
-#god
+---
+tags:
+  - god
+---
 > [!infobox]
-> # Death
+> ## Death
 > ![[horse skull.jpg|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Titles** | The White Mare |
 > | **Domains** | Death |
 > | **Region** | [[Antir]] |
-> | **Symbol** | Horses |
+> | **Symbol** | Horses, especially horse skulls |
 > | **Followers** | Gravekeepers, Healers |
+> | **Edicts** | Comfort the dying, honor the dead, destroy undead |
+> | **Anathema** | Defile a corpse, unnaturally delay death |
+> ### Devotee Benefits
+> |  |  |
+> |  ----|  ----|
+> | **Divine Attribute** | Wisdom |
+> | **Divine Font** | Heal or Harm|
+> | **Sanctification** | None |
+> | **Divine Skill** | Medicine |
+> | **Favored Weapon** | ? |
+> | **Cleric Spells** | ? ? ?|
 
 Death operates differently from other gods. Perhaps because all living things have a concept of death, it is not influenced by mortal minds the way other great spirits are. It manifests as a horse - or some other riding beast - in all of its appearances. For the past few centuries, it has also been accompanied by a [[Death and Her Rider|Rider]] - a figure in cavalier's armor who rides on its back or walks alongside it.
 

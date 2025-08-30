@@ -1,4 +1,7 @@
-#lore 
+---
+tags:
+  - lore
+---
 >"Remember, it can all be lies"
 >"Why pay attention if it could all be lies?"
 >"Because truth is just the lie that happened."

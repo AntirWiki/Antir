@@ -1,4 +1,7 @@
-#group
+---
+tags:
+  - group
+---
 The Catsi Coven is a collection of witches, wisdoms, and other rural elders founded by [[Ninyva O'Niamh]] in 953 BR. It has since grown to become a loose governing body over all primal casters in [[Antir]], meeting once per decade in [[Catsi Crossing]] during a gathering known as the Eldritch Assembly.
 
 # Members

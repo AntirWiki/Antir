@@ -1,4 +1,8 @@
-#private
+---
+tags:
+  - private
+draft: true
+---
 Threat so big it's multiple parts with their own initiatives and HP
 
 Skeleton/corpse shaped dungeon

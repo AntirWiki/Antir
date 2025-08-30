@@ -1,8 +1,12 @@
-#city #shattered-past 
+---
+tags:
+  - city
+  - shattered-past
+---
 > [!infobox]
-> # Crab Cove
+> ## Crab Cove
 > ![[unknown.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Country** | [[Holy Kingdom]] |

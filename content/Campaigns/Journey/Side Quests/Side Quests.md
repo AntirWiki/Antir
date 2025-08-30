@@ -1,3 +1,9 @@
+---
+tags:
+  - private
+  - journey
+draft: true
+---
 Party escorting people between locations
 
 Loss of supplies from animals/bandits/disaster, threat of starvation ([[Food Hoard]])

@@ -1,4 +1,8 @@
-#city #journey
+---
+tags:
+  - city
+  - journey
+---
 > [!infobox]
 > # Elmhollow
 > ![[unknown.png|200]]

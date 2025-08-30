@@ -1,4 +1,8 @@
-#lore #story
+---
+tags:
+  - lore
+  - story
+---
 In Tir na Nog, the realm of spirits, perspective is everything. They feywild in particular is known as the realm of exaggeration and extremes, taking the things mortals perceive and heightening them to a near-unrecognizable degree. 
 
 When the Lord of Gilded Leaves, archfey member of the Spring Court, gains not one but *two* new perspectives, it changes him on a fundamental level. 

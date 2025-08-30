@@ -1,5 +1,8 @@
-#incomplete #location
-
+---
+tags:
+  - location
+  - incomplete
+---
 Strioc an Athraithe (pronounced "Stree-awk on Arr-ruh-hey" in common Antiran), often known simply as Athraithe, is a region in northern [[Antir]] with an unusually strong connection to [[Tir na Nog]]. 
 
 The region's name translates to "The Stripe of Change" in Sylvan. It is unknown who coined the name, but it came into common use some time after the [[Black Autumn]] of 1077 BR.

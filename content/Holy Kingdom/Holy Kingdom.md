@@ -1,8 +1,12 @@
-#country
+---
+tags:
+  - country
+  - incomplete
+---
 > [!infobox]
-> # Holy Kingdom of Antir
+> ## Holy Kingdom of Antir
 > ![[unknown.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Region** | Central/Northern [[Antir]] |
@@ -12,11 +16,21 @@
 > | **Government** | Monarchy |
 > | **Religion** | [[Antiran Pantheon]] |
 
-#incomplete PUT A BIG OL MAP HERE
+PUT A BIG OL MAP HERE
 
 The Holy Kingdom of Antir is the largest country in [[Antir]], controlling the northwest and central regions of the continent. It is a religious monarchy, its leaders and the majority of its people faithfully serving the [[Antiran Pantheon]] of gods, especially Lumina, goddess of light. 
 
 The Holy Kingdom, previously referred to only as the Kingdom of Antir, dominated the entire continent during the Great Kingdom era (except for the ungovernable [[Riverlands]]). Political fractures starting in 1100 BR led to a significant reduction in territory until a series of crusades reclaimed a significant portion of their former lands.
+
+# Locations
+## Cities
+- [[Alturon]], the capital city.
+- [[Collach]], a hunting town south of Alturon.
+- [[Dun na Fal]], a fortress town west of Alturon.
+- [[Marigold]], a town on the eastern border.
+- [[Crab Cove]], a beach town.
+## Other
+- [[The Silent Woods]], a cursed forest.
 
 # Government
 Historically, the royal family of Antir serves as both the political and religious leaders of the Holy Kingdom. They trace their ancestry back to the leaders of the mortal armies during the Dragon Wars. The royals are served by both priests and landowning nobles, the two factions frequently clashing in attempts to seize more influence. Given their dual leadership over kingdom and faith, the royal administration is often referred to as the "Church and Throne".

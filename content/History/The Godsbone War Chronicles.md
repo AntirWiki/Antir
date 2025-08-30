@@ -1,4 +1,7 @@
-#lore
+---
+tags:
+  - lore
+---
 > [!quote] "Dominion," author unknown, translated from a tablet written in Taluvi.
 > And death shall have no dominion.
 > Dead men naked they shall be one

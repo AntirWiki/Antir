@@ -1,8 +1,13 @@
-#character #pc #shattered-past 
+---
+tags:
+  - character
+  - shattered-past
+  - pc
+---
 > [!infobox]
-> # Darios O'Mael
+> ## Darios O'Mael
 > ![[darios.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Aliases** | "The Dragon", "Scalemaster" |
@@ -12,7 +17,7 @@
 > | **Home** | Nomadic, formerly [[Blackwing]] |
 > | **Occupation** | Adventurer, Former General |
 > | **Status** | Unknown |
-> ##### Relationships
+> ### Relationships
 > |  |  |
 > | ---- | ---- |
 > | [[Valerie Bouchard]] | Companion |

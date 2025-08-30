@@ -1,4 +1,8 @@
-#country #city
+---
+tags:
+  - country
+  - city
+---
 > [!infobox]
 > # Zauberei
 > ![[zauberei skyline.png|200]]

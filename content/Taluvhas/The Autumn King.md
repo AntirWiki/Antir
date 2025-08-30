@@ -1,8 +1,11 @@
-#character
+---
+tags:
+  - character
+---
 > [!infobox]
-> # The Autumn King
+> ## The Autumn King
 > ![[unknown.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Ancestry** | Fae |
@@ -11,7 +14,7 @@
 > | **Home** | [[Taluvhas]], formerly [[Marigold]] |
 > | **Occupation** | Monarch |
 > | **Status** | Alive |
-> ##### Relationships
+> ### Relationships
 > |  |  |
 > | ---- | ---- |
 > | [[Kyrillos]] | Servant |

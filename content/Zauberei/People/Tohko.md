@@ -1,4 +1,7 @@
-#character
+---
+tags:
+  - character
+---
 > [!infobox]
 > # Tohko
 > ![[unknown.png|200]]

@@ -1,3 +1,7 @@
+---
+tags:
+  - lore
+---
 Below is a list of languages found in and around the continent of [[Antir]] (and their Earth counterparts).
 
 **Antiran** (*English*) - The common tongue of the continent, which has numerous dialects that are mostly inter-intelligible.

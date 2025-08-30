@@ -1,4 +1,9 @@
-#private
+---
+tags:
+  - private
+  - journey
+draft: true
+---
 # Discord Polls
 It's finally almost time to start making characters and planning this campaign, but first I want to set some baselines.
 

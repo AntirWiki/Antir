@@ -26,12 +26,12 @@ marker: Region,-3.441436767578125,2.55908203125,Archipelago,,,
 ![[Antir Map.jpg|right|600]]
 Antir is a large continent that is home to several nations and many peoples. The climate is largely temperate, except for the desert in the southern reaches of the continent.
 
-It is bordered to the north by the [[Great Forest]], to the south by [[Taluvhas]], and to the east by the land of the [[giants]].
+It is bordered to the north by the [[Great Forest]], to the south by [[Taluvhas]], and to the east by the land of the [[Giants]]. There is also a small [[Archipelago]] off the southern coast.
 
 # Locations
 The continent is divided into five main regions:
 
-[[Holy Kingdom|The Holy Kingdom of Antir]] in the northwest, a theocratic monarchy ruled by [[The Golden Saint]] of the goddess [[Lumina]].
+[[Holy Kingdom|The Holy Kingdom of Antir]] in the west, a theocratic monarchy ruled by [[The Golden Saint]] of the goddess [[Lumina]].
 
 [[Strioc an Athraithe]] in the north, a chaotic collection of small nations plagued by uncontrollable fae magic.
 

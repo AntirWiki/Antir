@@ -1,8 +1,12 @@
-#character #shattered-past 
+---
+tags:
+  - character
+  - shattered-past
+---
 > [!infobox]
-> # Dilitrius
+> ## Dilitrius
 > ![[unknown.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Ancestry** | [[Dragon]] |
@@ -11,7 +15,7 @@
 > | **Home** | [[Blackwing]] |
 > | **Occupation** | Warlord |
 > | **Status** | Deceased |
-> ##### Relationships
+> ### Relationships
 > |  |  |
 > | ---- | ---- |
 > | [[Lasairian of Antir]] | Ally |

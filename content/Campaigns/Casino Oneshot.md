@@ -4,7 +4,6 @@ tags:
   - private
   - incomplete
 ---
-
 The Golden Crane - the biggest casino in Alturon
 
 Owner is a luck god who feeds on the prayers of the gamblers inside - golden crane idols are scattered throughout the building

@@ -1,8 +1,11 @@
-#character
+---
+tags:
+  - character
+---
 > [!infobox]
-> # Story
+> ## Story
 > ![[Story.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Ancestry** | Fae |

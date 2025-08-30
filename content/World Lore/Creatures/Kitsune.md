@@ -1,4 +1,7 @@
-#creature 
+---
+tags:
+  - creature
+---
 Kitsune are a group of fox-like beastfolk. Small in number, their origin is unknown, and they do not have any major population centers. Often nomadic, kitsune can be found dispersed all across Antir.
 
 They are unique among beastfolk for their innate transformation abilities. Most Kitsune can change at will between two of three forms - human, fox, and a mix of the two. Why any given kitsune only has access to two forms rather than all three is unknown.

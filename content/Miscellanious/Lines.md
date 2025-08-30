@@ -1,4 +1,8 @@
-#private 
+---
+tags:
+  - private
+draft: true
+---
 When she believed, it was the harsh inevitability of a bullet going down the barrel of a gun
 
 ![[knight meme.jpeg|500]]

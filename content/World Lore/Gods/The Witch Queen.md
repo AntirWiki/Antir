@@ -1,9 +1,11 @@
-#god
-
+---
+tags:
+  - god
+---
 > [!infobox]
-> # The Witch Queen
+> ## The Witch Queen
 > ![[Witch Queen.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Titles** | The First Witch |
@@ -13,7 +15,7 @@
 > | **Followers** | Witches |
 > | **Edicts** | Destroy arcane magic,  ? |
 > | **Anathema** | Use arcana, destroy nature |
-> ###### Devotee Benefits
+> ### Devotee Benefits
 > |  |  |
 > |  ----|  ----|
 > | **Divine Attribute** | Intelligence or Wisdom |

@@ -1,8 +1,12 @@
-#city #country
+---
+tags:
+  - city
+  - country
+---
 > [!infobox]
-> # Catsi Crossing
+> ## Catsi Crossing
 > ![[unknown.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Region** | [[Strioc an Athraithe]] |

@@ -1,4 +1,8 @@
-#lore
+---
+tags:
+  - lore
+  - location
+---
 Tir na Nog, commonly known as the Spirit Realm or the Land of Spirits, is the collective name for the planes of reality occupied by spirits. 
 
 The planes of Tir na Nog are not other places - they exist as layers on top of what mortals refer to as "reality". Shifting between these planes is not an act of creating a portal, but rather adjusting one's paradigm of reality so they perceive and occupy space on another "layer". In simpler terms, one does not move forward into Tir na Nog - one moves sideways.

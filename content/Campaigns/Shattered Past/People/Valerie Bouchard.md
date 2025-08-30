@@ -1,8 +1,13 @@
-#character #pc #shattered-past 
+---
+tags:
+  - character
+  - shattered-past
+  - pc
+---
 > [!infobox]
-> # Mx. Valerie Bouchard
+> ## Mx. Valerie Bouchard
 > ![[val.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Aliases** | "Butcher", "The Wolf", "Corsair Molossus" |
@@ -12,7 +17,7 @@
 > | **Home** | Nomadic, formerly [[Alturon]] |
 > | **Occupation** | Adventurer, Privateer, Formerly prize fighter |
 > | **Status** | Unknown |
-> ##### Relationships
+> ### Relationships
 > |  |  |
 > | ---- | ---- |
 > | [[Darios O'Mael]] | Companion |

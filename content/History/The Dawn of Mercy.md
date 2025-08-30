@@ -1,5 +1,7 @@
-#lore
-
+---
+tags:
+  - lore
+---
 ***Excerpt from the Book of Light, Chapter Five***
 *Translated from Celestial*
 

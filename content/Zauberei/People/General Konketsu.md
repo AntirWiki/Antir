@@ -1,4 +1,7 @@
-#character
+---
+tags:
+  - character
+---
 > [!infobox]
 > # Lie Konketsu
 > ![[unknown.png|200]]

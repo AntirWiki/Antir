@@ -1,8 +1,11 @@
-#god
+---
+tags:
+  - god
+---
 > [!infobox]
-> # Lumina
+> ## Lumina
 > ![[unknown.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Titles** | Lucent Lumina |
@@ -13,7 +16,7 @@
 > | **Followers** | Antiran royal family, healers, most citizens of the Holy Kingdom |
 > | **Edicts** | Provide aid to the sick and wounded, be merciful, be honest |
 > | **Anathema** | Be cruel, deny healing to the needy, mislead others |
-> ###### Devotee Benefits
+> ### Devotee Benefits
 > |  |  |
 > |  ----|  ----|
 > | **Divine Attribute** | Wisdom or Constitution |
@@ -23,7 +26,7 @@
 > | **Favored Weapon** | ? |
 > | **Cleric Spells** | ? ? ?|
 
-Lumina is the goddess of light and mercy in the [[Holy Kingdom|Holy Kingdom of Antir]]. She is the head of the [[Antiran Pantheon]] and the patron goddess of the royal family and, by extension, the entire kingdom.
+Lumina is the goddess of light and mercy in the [[Holy Kingdom|Holy Kingdom of Antir]]. She is the head of the [[Antiran Pantheon]] and the patron goddess of the royal family.
 
 She was once an aspect of the goddess Lucent until the 1020 BR schism between Lumina and [[Verita]] divided the goddess in two.
 
