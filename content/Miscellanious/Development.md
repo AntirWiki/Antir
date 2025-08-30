@@ -296,8 +296,6 @@ We the People of the Southern Deserts of Antir, in Order to form a perfect Leagu
 ... It seems that these bones absorb light. I was studying them under candlelight, and noticed that the glow was subdued when I hold the piece closer to the light. Perhaps this material is magical in nature, somehow?...
 
 # 1270
-#lore
-
 **The Dawn of Mercy**
 
 ***Excerpt from the Book of Light, Chapter Five***
@@ -336,12 +334,11 @@ The soldiers, all prior allegiances forgot, united as one under the Sanctified M
  * *Translator's note: Apologies for the religion, professor, but this seems to be the only recorded account of the Monarch's sanctification in the entire Kingdom. We can thank the Scriptorum for that. The bias is clear, of course - most notably in the final paragraph, where no mention is made that the Crusade ceased at Blackwing's northern border and the boundaries of the Strioc an Athraithe. It seems zealotry could only do so much against white powder and heat stroke, or fae magic and monster attacks. Requesting additional funding to conduct interviews within the Kingdom; some veterans of the Dawn of Mercy yet live, and may be willing to give firsthand accounts. -Jelen Vyri, Foxfire Department of Applied Theology*
 
 # **1275**
-Matthew (Demons/cults)
-
 While the eyes of the continent turn towards the Holy Kingdom, what sinister forces go unseen? Shadows form behind the shining crusaders, in the basements of Foxfire, between the trees of Athraithe, in forgotten Legion armories, and countless more places across Antir. What lurks there? Who serves it? Do the people of Antir fear it, or live in blissful ignorance?
 
 # **1325**
-cat (something nature/beastfolk?)
+?
+%%cat (something nature/beastfolk?)
 
 The Shining Crusade ends not with a bang, but with a resigned sigh. Too many deaths to the heat of the desert and the monsters of the fae-woods lead the Church and Throne to cut their losses, recall troops, and make peace with their neighbors. With weary hearts from a half-century of war, the nation sits back to digest what it’s consumed: every acre between the Great Forest and the desert, from the coast to Athraithe, is once again under the rule of the Holy Kingdom of Antir. 
 
@@ -349,7 +346,7 @@ But while the borders change, the people do not. They still have to deal with de
 
 Cat: What kind of folk traditions are alive in Antir? What stories are told around Legion campfires? What festivals are held in Alturon neighborhoods? Who dances in the Zauberan countryside? What rituals are performed in Athraithe groves?
 
-(DM cat: The first question (about folk traditions) is the real prompt, all the rest are just examples of the kinda stuff you could write about. You definitely don't have to answer any of those unless you feel particularly inspired to, you can write about anything you want - a bunch of different stuff across the continent, or just the traditions in a certain region, or even just one or two specific practices if u want to go super in depth. You can talk about folk tales or festivals or rituals or whatever you want.)
+(DM cat: The first question (about folk traditions) is the real prompt, all the rest are just examples of the kinda stuff you could write about. You definitely don't have to answer any of those unless you feel particularly inspired to, you can write about anything you want - a bunch of different stuff across the continent, or just the traditions in a certain region, or even just one or two specific practices if u want to go super in depth. You can talk about folk tales or festivals or rituals or whatever you want.)%%
 
 # **1375**
 Modern Day
