@@ -4,9 +4,9 @@ tags:
   - journey
 ---
 > [!infobox]
-> # Elmhollow
+> ## Elmhollow
 > ![[unknown.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Country** | [[Strioc an Athraithe]] |
