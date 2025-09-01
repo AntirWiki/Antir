@@ -28,7 +28,7 @@ In the Great Kingdom era, Alturon was the capital of the unified Kingdom of Anti
 During the [[Three Kings War]], it served as the base of operations for King [[Faolan of Antir]]. It eventually became the joint headquarters of Faolan and [[Cianan of Antir]] when they were allied in the latter half of the war. After the death of Faolan, Cianan took the throne until his abdication to their younger sister [[Aisling of Antir]].
 
 ## Siege of 953
-Immediately following the conclusion of the Three Kings War a plot was executed by surviving dragon [[Dilitrius]] and his thrall [[General Tanner]] to usurp royal control of the kingdom. Rebels, mercenaries, and members of the late [[Lasairian of Antir]]'s army were smuggled into the city by the [[Orphic Keepers]] and, a little over a year after the war's conclusion, attacked. 
+Shortly following the conclusion of the Three Kings War a plot was executed by surviving dragon [[Dilitrius]] and his thrall [[General Tanner]] to usurp royal control of the kingdom. Rebels, mercenaries, and members of the late [[Lasairian of Antir]]'s army were smuggled into the city by the [[Orphic Keepers]] and, a little over a year after the war's conclusion, attacked. 
 
 The attack caused destruction throughout the city, but was halted when [[Tooth and Claw]] defeated Dilitrius, allowing Cianan to take control of the dragon and force him to announce a surrender.
 
