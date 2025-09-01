@@ -16,7 +16,7 @@ Werewolves, also known as Lycanthropes, are a type of wolf-like beastfolk native
 
 My labor is almost done. Countless years scouring the country for bits and pieces of parchment and oral records whispered quietly so the wind wouldn’t hear. I have finally finished it. The Tale of the Feral God rests fully in my hands and I may finally have the keys to severing our connection. I hate how much I’m wrestling with the idea. I don’t fear death, I’ve lived more than enough in my time and could use the relaxation, I think what I fear more is starting over again if it leaves me alone with my thoughts. Perhaps I will be able to repair the damage and right what has been done. There grows a strange, stockholmed comfort in knowing you are always heard, whether you like or not. Regardless, the history shall be known and the restless dead shall howl desperately no more in the back of my mind. 
 
-## TALE OF THE FERAL GOD: A BRIEF CHRONICLE OF LUPINOTUUM INSANIA
+## Tale of the Feral God: A Brief Chronicle of Lupinotuum Insania
 Author’s note: As comprehensive as recorded history and my limits allow. 
 
 The wolf-kin were a bestfolk tribe like any other, known by the name Lycan. They, like most beastfolk, had only a single form - a bipedal figure, furred and wolf-headed. They worshipped a god whose name, if it ever had one, is now unknown. A god of the hunt and the wilds. A being of nature and instinct itself who greatly distrusted "civilized" cultures and preferred the untamed ferocity of the northern woods. When the Antirans first arrived in the area, the lycan paid them no mind. But eventually their territories began to grow, and encroach uncomfortably close to their isolated settlements. The lycan feared this, and entreated their god for aid. 
@@ -35,7 +35,7 @@ For those left after the Night of The Broken Moon, as it would come to be known,
 
 A prophecy self-fulfilled, the Lycan became the sub-human monsters they were rumored to have always been. Either roaming the remaining woods and giving into the feral fear, forever trapped in a hulking form of fur and teeth, personality lost deep within…or as branded humanoids forced into servitude for the bloody jobs nobody else wanted to take. The brand forever visible and a sign of a loose canon that needed to be kept on a tight leash by a gloved hand. Never trusted to feel the warmth of a loving touch. Beaters, brutes, assassins, gravediggers, contracted killers. Kept far away from the eyes of common society, and of eachother. Their reputation for senseless wolfish brutality and push into the nocturnal underbelly of society, working by moonlight, is where the term “lunacy” arose in common slang. The wolf mark was an imperfect solution. Powerful enough to suppress the spread of the curse and its bodily consequences, but not the source. It was a cage too small for its inhabitor. A design made for a beast without compassion. A perpetuator of the negative cycle. Solitary confinement always furthers insanity. A pacing dog’s tightly wound spring. A ticking time bomb waiting to go off.
 
-## MY WORK WITH LUPINOTUUM INSANIA
+## My Work with Lupinotuum Insania
 _Journal date: unknown._ 
 
 **-presumably written from within her room at the canopy of The Howling Tree**
