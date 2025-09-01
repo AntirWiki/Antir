@@ -19,7 +19,7 @@ tags:
 > |  |  |
 > | ---- | ---- |
 > | [[Faolan of Antir]] | King |
-> | [[Valerie Bouchard]] | ??? |
+> | [[Valerie Bouchard]] | ? |
 
 Yvonne Silvershield was the captain of [[Faolan of Antir]]'s guard during the [[Three Kings War]]. She had a powerful infatuation with her king, and was left purposeless when he died.
 

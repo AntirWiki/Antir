@@ -22,7 +22,7 @@ tags:
 > | ---- | ---- |
 > | [[Darios O'Mael]] | Companion |
 > | [[Ninyva O'Niamh]] | Friend |
-> | [[Yvonne Silvershield]] | Companion? |
+> | [[Yvonne Silvershield]] | ? |
 
 *-Of Bloody Fist and Brutal Heart-*
 
