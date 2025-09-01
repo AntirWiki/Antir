@@ -11,7 +11,7 @@ tags:
 > |  |  |
 > |  ----|  ----|
 > | **Aliases** | "Butcher", "The Wolf", "Corsair Molossus" |
-> | **Ancestry** | [[Elf]] (Lycanthrope) |
+> | **Ancestry** | [[Elf]] ([[Werewolf]]) |
 > | **Age** | ? |
 > | **Gender** | ? (She/her) |
 > | **Home** | Nomadic, formerly [[Alturon]] |
@@ -22,6 +22,7 @@ tags:
 > | ---- | ---- |
 > | [[Darios O'Mael]] | Companion |
 > | [[Ninyva O'Niamh]] | Friend |
+> | [[Yvonne Silvershield]] | Companion? |
 
 *-Of Bloody Fist and Brutal Heart-*
 

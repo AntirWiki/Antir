@@ -1,6 +1,8 @@
 ---
 tags:
   - creature
+aliases:
+  - Moondancers
 ---
 ![[Owl Woman.png|right|400]]
 The owlkin (also known as Owlfolk or Moondancers) are an ancestry of beastfolk native to the mountains north of Antir. The vast majority of owlkin reside in the [[Owl Nation]].

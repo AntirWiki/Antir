@@ -1,6 +1,8 @@
 ---
 tags:
   - creature
+aliases:
+  - Halflings
 ---
 ![[halflings.png|500]]
 

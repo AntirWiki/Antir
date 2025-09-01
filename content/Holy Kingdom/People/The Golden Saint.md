@@ -1,6 +1,9 @@
 ---
 tags:
   - character
+aliases:
+  - Aine of Antir
+  - The Sanctified Monarch
 ---
 > [!infobox]
 > ## Áine of Antir

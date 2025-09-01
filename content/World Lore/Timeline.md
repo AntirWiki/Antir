@@ -10,14 +10,21 @@ The Lost Empire Era
 - The Drakos Empire collapses and its people are driven to extinction. The dragons rule over a continent mostly devoid of mortals.
 
 The Dragon Wars
-- Antirans migrate south through the [[Great Forest]] and encounter the dragons. After decades of brutal conflict, the persistence, adaptability, and group coordination of the Antirans lets them drive the dragons over the southern mountains and into [[Taluvhas]]
+- Antirans migrate south through the [[Great Forest]] and encounter the dragons. After decades of brutal conflict, the persistence, adaptability, and group coordination of the Antirans lets them drive the dragons over the southern mountains and into [[Taluvhas]].
 
 0 - 1099 BR The Great Kingdom Era
-- The entire continent is united under the Kingdom of Antir. This era ends a century after the Three Kings War when [[Zauberei]] declares its independence, soon followed by Catsi Crossing in the fae-warped [[Strioc an Athraithe]].
+- The entire continent is united under the Kingdom of Antir. 
+- 946-953: The [[Three Kings War]] is fought between brothers [[Lasairian of Antir|Lasairian]], [[Faolan of Antir|Faolan]], and [[Cianan of Antir]]. Cianan emerges victorious but with poor support.
+- 953: Remnants of Lasairian's army undermine the kingdom, culminating in the [[Alturon#Siege of 953|Siege of Alturon]]. They are stopped by [[Tooth and Claw]].
+- 960: Cianan abdicates the throne to his sister [[Aisling of Antir]], who unifies the church and throne.
+- 1021: Bishop Felim rebels against Aisling, causing the goddess Lucent to schism into [[Lumina]] and [[Verita]].
+- 1077: [[The Autumn King]], fused with the lich [[Kyrillos]], rises and attacks Alturon. The lich is sealed in [[The Silent Woods]] and the King is banished from Antir.
 
-1100-1351 BR ???
-- The [[Holy Kingdom]] slowly breaks apart, leading to the formation of [[Blackwing]] and countless successor states. 
-- 1270 BR: [[The Golden Saint]] ascends to sainthood, beginning the shining crusade.
+1100-1351 BR The Fractured Era
+- 1100: [[Zauberei]] declares its independence from the Kingdom, soon followed by [[Catsi Crossing]] in the fae-warped [[Strioc an Athraithe]].
+- 1168: [[Adventurers#The Adventurer's Guild|The Adventurer's Guild]] is founded in [[Dragun Mac Tire]] and quickly spreads across the continent.
+- 1217: [[Blackwing]] declares its independence from the [[Holy Kingdom]], causing the kingdom to shatter into dozens of smaller states.
+- 1270 BR: [[The Golden Saint]] is sanctified, beginning the Shining Crusade. Kingdom armies begin retaking all land north of Blackwing and west of Athraithe.
 
 1352 BR-Present (1372) (Name pending)
 - Era begins at the conclusion of the Shining Crusade, as borders (except those in the chaotic Athraithe) solidify.

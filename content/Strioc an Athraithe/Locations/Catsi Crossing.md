@@ -17,9 +17,9 @@ tags:
 
 Catsi Crossing is a city-state located within [[Strioc an Athraithe]] in central [[Antir]]. It is the gathering place for all of Antir's witches and other primal casters, including the [[Catsi Coven]]. 
 
-It is also the center of the fae energies that permeate Strioc an Athraithe. The impacts of the fae have even warped the buildings of Catsi Crossing, causing the buildings that already existed to bend and change into bizarre, unnatural shapes, and caused many structures with seemingly no practical usage to appear. The long-term residents are also often subject to these mutations.
+It is also the center of the fae energies that permeate Strioc an Athraithe. The impacts of the fae have even warped the architecture of Catsi Crossing, causing the buildings that already existed to bend and change into bizarre unnatural shapes, and causing many structures with seemingly no practical usage to appear. The long-term residents are also often subject to strange mutations.
 
-The town is made up of colorful stone and wood buildings, windmills, and various buildings for coven activities.
+The city is made up of colorful stone and wood buildings, windmills, and various buildings for coven activities.
 
 # Government
 Catsi Crossing is led by the Catsi Coven, who meet in full once per decade in the town to direct the primal casters of Antir.

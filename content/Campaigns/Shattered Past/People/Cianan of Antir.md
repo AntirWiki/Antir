@@ -24,7 +24,7 @@ tags:
 >| [[Aisling of Antir]] | Sister |
 >| [[Zella Brightflower]] | Mentor |
 
-Cianan of Antir was the king of [[Antir]] from 953-960 BR. He is known for being the victor of the [[Three Kings War]] against his brothers [[Faolan of Antir|Faolan]] and [[Lasairian of Antir|Lasairian]]. 
+Cianan of Antir (pronounced Kee-nun) was the king of [[Antir]] from 953-960 BR. He is known for being the victor of the [[Three Kings War]] against his brothers [[Faolan of Antir|Faolan]] and [[Lasairian of Antir|Lasairian]]. 
 
 He is also seen as the founder of modern wizardry thanks to his use of battlemages during the war and his founding of [[Foxfire Academy]] in [[Zauberei]], where he would become headmaster after abdicating the throne to his younger sister [[Aisling of Antir|Aisling]].
 

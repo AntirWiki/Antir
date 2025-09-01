@@ -1,6 +1,8 @@
 ---
 tags:
   - creature
+aliases:
+  - Liches
 ---
 A lich is a spellcaster who has undergone a terrible ritual to bind their soul to the mortal plane and allow the infinite regeneration of their undead body, making themselves effectively immortal.
 

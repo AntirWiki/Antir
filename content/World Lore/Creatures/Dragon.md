@@ -1,6 +1,8 @@
 ---
 tags:
   - creature
+aliases:
+  - Dragons
 ---
 Dragons are massive reptilian creatures native to the continent of [[Antir]]. They are varied in form, but most are able to fly in some way and all possess a breath weapon, the exact nature of which varies greatly.
 

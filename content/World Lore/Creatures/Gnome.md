@@ -1,6 +1,8 @@
 ---
 tags:
   - creature
+aliases:
+  - Gnomes
 ---
 ![[gnomes.png|right|500]]
 Gnomes, while typically classified alongside "mortals", are actually immortal beings very close to fae in nature. 
