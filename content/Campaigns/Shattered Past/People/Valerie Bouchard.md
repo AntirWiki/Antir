@@ -26,7 +26,8 @@ tags:
 
 *-Of Bloody Fist and Brutal Heart-*
 
->[!quote] The pure, unbridled spite that burns within me at the thought of breaking your jaw with my bare fists, is what gets me up and into that ring as soon as the sun rises every single morning
+>[!quote] 
+>The pure, unbridled spite that burns within me at the thought of breaking your jaw with my bare fists, is what gets me up and into that ring as soon as the sun rises every single morning
 
 Valerie "Val" Bouchard is a famed adventurer, prize fighter, and former member of [[Tooth and Claw]]. Her travels with [[Darios O'Mael]] inspired the first career adventurers, and their exploits are still seen as the standard for all adventurers to live up to.
 
