@@ -19,7 +19,7 @@ tags:
 > | ---- | ---- |
 > | [[The Autumn King]] | Master |
 
-Kyrillos is a drakos [[lich]] who was sealed beneath [[Antir]] for millennia before his awakening in 953 BR. 
+Kyrillos is a drakos [[Lich]] who was sealed beneath [[Antir]] for millennia before his awakening in 953 BR. 
 
 He was a servant of [[The Autumn King]] from that point until the [[Black Autumn]], at which time his soul was imprisoned within a tree at the center of what would become [[The Silent Woods]].
 

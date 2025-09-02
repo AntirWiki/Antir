@@ -34,7 +34,7 @@ In the 973 BR, the archfae was discovered by [[Ninyva O'Niamh]] near the village
 
 He was known at this time as the Lord of Gilded Leaves, and was primarily a spirit of plants - particularly flowers, which filled his domain in the [[Tir na Nog#The Faewild|Faewild]].
 
-When encountered by Ninyva, he agreed to rewrite the spellbook of the [[lich]] [[Kyrillos]], in exchange for the lich's soul - housed inside the book, which was his reliquary. He changed the book of necromancy to one of plant-inspired soul magic, which was later used extensively by [[Cianan of Antir]].
+When encountered by Ninyva, he agreed to rewrite the spellbook of the [[Lich|lich]] [[Kyrillos]], in exchange for the lich's soul - housed inside the book, which was his reliquary. He changed the book of necromancy to one of plant-inspired soul magic, which was later used extensively by [[Cianan of Antir]].
 
 Later that year, he granted Ninyva incredible power in exchange for a portion of her soul, and an agreement that she would spread his influence.
 
