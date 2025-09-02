@@ -9,7 +9,7 @@ tags:
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | Drakos (Undead)|
+> | **Ancestry** | Draku ([[Lich]])|
 > | **Age** | ? |
 > | **Gender** | Male |
 > | **Home** | [[The Silent Woods]], formerly [[Luscgard]], formerly [[Drakos Empire]] |
@@ -28,7 +28,7 @@ During his encounter with [[Tooth and Claw]] in 953 BR, Kyrillos appeared as a d
 
 # History
 ## The Drakos Empire
-Murals on his tomb depict Kyrillos and his undead legions fighting against armies of Drakos, including their [[Dragon]] war-saints. He holds a great distain for the dragons, and his atheistic attitudes alongside his ambitions towards rule led to conflict with the Empire. When they were unable to fully kill him, the servants of the dragon-god Lucimater, goddess of light and flame, imprisoned him in his tomb in [[Luscgard]].
+Murals on his tomb depict Kyrillos and his undead legions fighting against armies of Drakos, including their [[Dragon]] war-saints. He holds a great distain for the dragons, and his atheistic attitudes alongside his ambitions towards rule led to conflict with the Empire. When they were unable to fully kill him, the servants of the dragon-god Lucimater, goddess of light and flame, imprisoned him in his tomb in what would later become [[Luscgard]].
 
 ## Awakening
 In 953 BR his tomb was discovered and unsealed by [[Yvonne Silvershield]], who sought to revive her liege [[Faolan of Antir]] using the magics in Kyrillos' spellbook. This roused the lich from his slumber, and he attacked Yvonne when she attempted to resurrect the dragon Ozymandias in an act of desperation.
