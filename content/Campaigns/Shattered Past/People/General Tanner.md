@@ -22,7 +22,7 @@ tags:
 > | [[Darios O'Mael]] | Ally (Former) |
 > | [[Dilitrius]]| Patron |
 
-General Tanner was a general of [[Lasairian of Antir]]'s army during the [[Three Kings War]]. He was the thrall of the [[Dragon]] [[Dilitrius]], who granted him the ability to turn into a bipedal half-dragon form.
+General Tanner was a leader in [[Lasairian of Antir]]'s army during the [[Three Kings War]]. He was the thrall of the [[Dragon]] [[Dilitrius]], who granted him the ability to turn into a bipedal half-dragon form.
 
 Tanner was killed by [[Tooth and Claw]] in 953 BR after attempting to start a coup against [[Cianan of Antir]] in [[Dun na Fal]].
 

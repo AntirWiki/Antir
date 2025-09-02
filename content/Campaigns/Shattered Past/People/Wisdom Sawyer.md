@@ -1,7 +1,7 @@
 ---
 tags:
-  - shattered-past
   - character
+  - shattered-past
 ---
 > [!infobox]
 > ## Sawyer
@@ -9,7 +9,7 @@ tags:
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | Half-Elf |
+> | **Ancestry** | Half-[[Elf]] |
 > | **Age** | 40 (In 953) |
 > | **Gender** | Male |
 > | **Home** | [[Collach]] |
