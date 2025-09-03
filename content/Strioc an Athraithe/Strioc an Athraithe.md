@@ -14,7 +14,3 @@ The region's name translates to "The Stripe of Change" in Sylvan. It is unknown 
 
 # History
 When the Autumn King was banished, and autumn itself was erased, and magic itself was splintered into the primal, arcane, and divine domains, one final effect covered the land, unbeknownst to those who would be most impacted. Stretching from the village of Marigold, where the Autumn King once held court, to Catsi Crossing, where the Witch Queen's heart was buried, formed the Strioc an Athraithe, a region where the barrier between the materium and Tir na Nog had been thinned.
-
---
-
-Faced with an encroaching Alturon, the remaining nations allied themselves. This, combined with their natural defenses in the terrain, allowed them to remain independent.

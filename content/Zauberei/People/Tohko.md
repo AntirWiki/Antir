@@ -18,4 +18,4 @@ tags:
 Tohko is the mayor of Zauberei.
 
 # Description
-A kitsune with white fur. He has a humanoid form, slender with pale skin and long dark hair, though they do not often use it.
+A kitsune with white fur. They have a humanoid form, slender with pale skin and long dark hair, though he does not often use it.
