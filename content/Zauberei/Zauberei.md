@@ -20,7 +20,7 @@ Zauberei is a city-state located in the northeastern corner of [[Antir]]. It is 
 # Government
 Zauberei is governed by a council of five notable individuals (or representatives of those offices):
 - Vox Populi, the city Mayor
-	- Currently Mayor Tohkoe, a Kitsune
+	- Currently Mayor [[Tohko]]
 - Vox Arcana, the headmaster of Foxfire Academy
 	- Currently Maryam LASTNAME, sister to the academy headmaster
 - Vox Aegis, the general of the military

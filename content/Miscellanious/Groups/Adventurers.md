@@ -12,7 +12,7 @@ Despite these varied views of adventuring, an adventurer's work is more or less 
 >Welcome to the adventurer's guild. We offer services to adventurers of all kinds, individual or in teams, from heroes to mercenaries, all across the continent. Wherever your journey takes you, we're there to support. Need a cheap meal and a bed in a strange city? We're in every town worth putting on a map. Need help negotiating your pay for a job? We have experts who can squeeze out every last copper. Looking for work? We keep postings of local jobs, all vetted and up to date. 
 >But most importantly, we've got a place with people who understand the life. If you're looking for advice, teammates, or just a chat with somebody who gets it, you'll find it here.
 >
->Membership is 1 gold per month, and we also take a small cut of negotiations and job postings from the guild. You'll also get a badge to prove to potential clients that you're endorsed by the guild.
+>Membership is 1 gold per month, and we also take a small cut of negotiations and job postings from the guild. You'll also get a badge to prove that you're official.
 
 The adventurer's guild is an organization that spans across Antir, offering community and support for adventurers of all types.
 

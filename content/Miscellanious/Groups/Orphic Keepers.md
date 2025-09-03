@@ -5,8 +5,8 @@ tags:
 The Orphic Keepers, known in some circles as simply "The Keepers", are a death cult that serve as assassins for hire in and around the [[Holy Kingdom]]. 
 
 # History
-950: Attempted assassination of Lord Archibald Tener Bouchard by Finnleth Silverfang. 
-953: Attempted assassination of King [[Cianan of Antir]] by Finnleth Silverfang.
+- 950: Attempted assassination of Lord Archibald Tener Bouchard by Finnleth Silverfang. 
+- 953: Attempted assassination of King [[Cianan of Antir]] by Finnleth Silverfang.
 
 # Known Members
 - Finnleth Archim Silverfang 
