@@ -31,6 +31,8 @@ tags:
 
 Valerie "Val" Bouchard is a famed adventurer, prize fighter, and former member of [[Tooth and Claw]]. Her travels with [[Darios O'Mael]] inspired the first career adventurers, and their exploits are still seen as the standard for all adventurers to live up to.
 
+She is a [[Werewolf]], and has a close connection to the Mad God of the Lycanthropes. She has worked extensively in researching her condition, seeking a way to tame its more dangerous aspects.
+
 She is the founder of the [[Packbrand Privateers]], and served as their leader for some time.
 
 # History
