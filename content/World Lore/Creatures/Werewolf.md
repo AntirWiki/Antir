@@ -10,6 +10,14 @@ aliases:
 ---
 Werewolves, also known as Lycanthropes, are a type of wolf-like beastfolk native to [[Antir]]. Like [[Kitsune]], they are able to change between a wolf-like form and that of another mortal ancestry. Uniquely, they are also able to transmit this ability (known as *Lupinotuum Insania*, or more commonly, *Lycanthropy*) to others through bites.
 
+# The Wolf God
+The god of the Lycan has no name, though some call it the Mad Wolf, or simply the Hunt. As of 960 BR, the wolf god was obsessed with transforming or killing all non-lycanthrope mortals. It could speak in the minds of lycanthropes that didn't possess the Weremark, urging them towards violence.
+
+# The Weremark
+The Weremark is a magical brand that inhibits the abilities of lycanthropes. Developed by [[Cianan of Antir]] and the Bouchard family of enchanters sometime around 940 BR, it was systematically placed on all known werewolves as an alternative to their extermination. The mark was always placed somewhere easily visible, such as the neck, face, or hands, as a warning to those around the lycanthrope.
+
+Werewolves bearing the mark cannot transform at will - instead, they transform compulsively during each full moon, when the Wolf God's power is strongest. This is also the only time they are able to transmit their condition. Marked lycanthropes also lose their connection to the Wolf God.
+
 # Taming of the Mad Wolf
 >_Excerpts from the Journal of Mx. [[Valerie Bouchard]]._ Prize Fighter, Renegade, Corsair Molossus of the Katze’s Keel, Lycanthrope, Unpredictable Adventurer of the Wild Mountains. 
 >_Date: Unknown_ 

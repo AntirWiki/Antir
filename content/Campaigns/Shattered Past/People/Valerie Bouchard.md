@@ -33,21 +33,23 @@ Valerie "Val" Bouchard is a famed adventurer, prize fighter, and former member o
 
 She is the founder of the [[Packbrand Privateers]], and served as their leader for some time.
 
-# Childhood
+# History
+
+## Childhood
 Lady Valerie Apricity Bouchard was the third youngest of 4 siblings under the Noble House Bouchard. She spent most of her early childhood in a sprawling estate in the northern countryside occupied by the kingdom of Antir. Not too far from the city, but isolated enough to give the children acres to run and explore safely without intrusion of the public eye. Her parents were well known socialites with an exceptionally profitable business dealing in arcane sigils and developing symbology for infusing items with lower level magic. To her parents, she was a quiet and well read child, excelling in her studies and had a special fondness for folklore and history. She also was trained in strict ballet and gymnastics from the age of 3. She was well disciplined  and impeccably behaved, but internally hated the vain and cold people that the business had corrupted her parents into being, whether from influence of magic or just a consequence of a mass of untaxed wealth. Originally, her family was tight knit and social with one another, but as the years went by it became less of a family and more of a business arrangement. By the age of 7, her parents would much rather be off at work or an evening masquerade than raising their children. Valerie was forced into activity after activity, tutor after tutor, tuned to be prim and proper in every sense of the word. All just to occupy her time so her parents didn’t have to. Her resentment grew, but she stayed a faithful daughter, even as she watched her elder siblings Valerian and Alden start to follow down that same path of material corruption. 
 
-# Lycanthropy
+## Lycanthropy
 Year 950:
 
 -bitten by finnleth who was sent by [[Orphic Keepers]] to turn her dad and have the dad kill the rest of the family, therefore framing the father for the family’s murder and ruining their reputation and business forever with his Weremark. He crashed through the door and interrupted a family dinner.
 
--Father used Val as a human shield to save his own skin, therefore turning her instead. Finn left after, job having been completed, and knowing as long as he turned one of them, he would get paid. Her family immediately turned on her as the writhed in pain during the initial transformation. In disgust and fear, they drove her out of the house with candelabras taken off the wall. They have used her as an excuse and scapegoat ever since, pretending she does not exist, and threatening that if she ever uses the family name, they will hire someone to come and finish the job (kill her). Her parents harbor no connection to her, and are completely hostile. They do not know of her whereabouts, and probably think she died right after the incident with Finn. They shift full blame onto Val to clear their guilty consciences. The thoughts of her siblings on the matter are unknown (up to you).
+-Father used Val as a human shield to save his own skin, therefore turning her instead. Finn left after, job having been completed, and knowing as long as he turned one of them, he would get paid. Her family immediately turned on her as she writhed in pain during the initial transformation. In disgust and fear, they drove her out of the house with candelabras taken off the wall. They have used her as an excuse and scapegoat ever since, pretending she does not exist, and threatening that if she ever uses the family name, they will hire someone to come and finish the job (kill her). Her parents harbor no connection to her, and are completely hostile. They do not know of her whereabouts, and probably think she died right after the incident with Finn. They shift full blame onto Val to clear their guilty consciences. The thoughts of her siblings on the matter are unknown.
 
 -Valerie’s parents are possibly the creators of the weremark? Valerie isn’t sure, as she stayed far away from anything business related by instead throwing herself into her sports and studies and let her elder siblings get trained in the family trade.
 
 -She woke up in the woods outside of the capital the next morning, scratched to shit and covered in blood that she didn’t know the origin of. She drug herself to the gate and pleaded to the guards for help. Resisting the urge to say her full name when asked, she simply instead explained that she was the victim of a vicious wolf attack. She was taken to a healer, and after thanking them for their service, Valerie (now Val) slipped into the alleyways of the city before the guards could return to gain further details about her background and the incident, and she has been hiding in them ever since. 
 
-# Prize Fighting
+## Prize Fighting
 -She assumed a brutish personality that the folks of the underground had a liking for, and pushed her to use her strange and unnatural strength in the fighting rings Mama Bear ran. She is quite popular and well known in Antir’s shadier parts, and respected as an accomplished brawler that is not easily messed with. She is Mama Bear’s reigning champion of about a year. Brawling helps her get out the intense anger she has about the past few years, and keep herself in shape to fight off any threats. It is also a method of self expression her family would despise, so she loves it. 
 
 -She met scrappy when he was facedown in a rain gutter, passed out drunk. She kept him from dying of alcohol poisoning, and he helped her learn how to shift into dog form, as he is also a non-lycanthropic shifter, and smelled the canine genetics within her. Scrappy does not know of her lycanthropy. 
@@ -58,7 +60,7 @@ Year 950:
 
 -She knows what she is, but is also a bit in denial/delusional that she has it under control since she was able to master shifting into dog form. She doesn’t remember her full transformations, so if she ends up in a safe place in the morning she often assumes nothing happened and she overcame it that night (she is often wrong). 
 
--She is horribly insecure about her entire past, and tends to try to block it out as much as possible. She sees herself as a monster, and seeks revenge on Finn and her family in a desperate attempt to cure herself of both the awful memory and the curse. She believes it is her lone responsibility to carry this burden, and that she can leverage information from Cinan to do this. 
+-She is horribly insecure about her entire past, and tends to try to block it out as much as possible. She sees herself as a monster, and seeks revenge on Finn and her family in a desperate attempt to cure herself of both the awful memory and the curse. She believes it is her lone responsibility to carry this burden, and that she can leverage information from Cianan to do this. 
 
 -She is terrified of getting branded with a Weremark. It would mean she never escapes her curse, or her family. 
 

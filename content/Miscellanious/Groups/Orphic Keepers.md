@@ -10,5 +10,5 @@ The Orphic Keepers, known in some circles as simply "The Keepers", are a death c
 
 # Known Members
 - Finnleth Archim Silverfang 
-	- Werewolf assassin, turned [[Valerie Bouchard]]
+	- [[Werewolf]] assassin, turned [[Valerie Bouchard]]
 	- Attempted to assassinate Cianan of Antir in 953, stopped by [[Tooth and Claw]]
