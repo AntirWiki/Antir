@@ -3,7 +3,7 @@ tags:
   - lore
   - location
 ---
-Tir na Nog, commonly known as the Spirit Realm or the Land of Spirits, is the collective name for the planes of reality occupied by spirits. 
+Tir na Nog, commonly known as the Spirit Realm or the Land of Spirits, is the collective name for the planes of reality occupied by [[Spirits]]. 
 
 The planes of Tir na Nog are not other places - they exist as layers on top of what mortals refer to as "reality". Shifting between these planes is not an act of creating a portal, but rather adjusting one's paradigm of reality so they perceive and occupy space on another "layer". In simpler terms, one does not move forward into Tir na Nog - one moves sideways.
 
@@ -19,9 +19,9 @@ Elysium is seen as the opposite of the Hells, embodying order, unity, and devoti
 # The Hells
 The Six Hells each follow a general theme based on a mortal emotion, though their Devil residents and locales can be flexible in their interpretations. They are often seen as three pairs of opposites:
 
--The hells of Ambition and Sloth
--The hells of Wrath and Cowardice
--And the hells of Zealotry and Betrayal
+- The hells of Ambition and Sloth
+- The hells of Wrath and Cowardice
+- And the hells of Zealotry and Betrayal
 
 The Hells are seen as the opposite of Elysium, embodying disorder and transactional relationships.
 
@@ -31,7 +31,7 @@ The fae realm is the first plane many Antirans think of when they consider Tir n
 The feywild is seen as the opposite of the Abyss, embodying dreams and grandeur.
 
 # The Abyss
-The realm of demons is believed by most mortals to be a great bottomless sea, leading to their name for the realm. This is not technically true - the abyss is an inversion of the mortal world, where all land becomes sea and all sea becomes land. Thus, when most land-bound scholars peer into the Abyss, they see only ocean.
+The realm of demons is believed by most mortals to be a great bottomless sea, leading to their name for the realm. This is not technically true - the abyss is an inversion of the mortal world, where all land becomes sea and all sea becomes land. Thus, when most land-bound scholars peer into the Abyss, they see only ocean. Demonic cults that form on the mortal plane often sail into the ocean or descend into deep caves to more easily connect with the great demons on the Abyssal mainland or ocean depths.
 
 This inversion of the mortal plane is not only limited to the terrain. The forces of the abyss are those of corruption and perversion, taking what is familiar to mortal minds and making it uncanny or even unknowable. 
 

@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "https://antirwiki.github.io/Antir",
     ignorePatterns: ["Utility", "private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

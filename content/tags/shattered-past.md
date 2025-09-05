@@ -1,0 +1,1 @@
+Shattered Past was the first campaign set in Antir, taking place in 953 BR after the [[Three Kings War]]. It followed adventuring group [[Tooth and Claw]] as they helped stabilize a broken nation, until their differences could not be ignored and they fell into conflict.
