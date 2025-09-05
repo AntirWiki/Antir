@@ -1,6 +1,7 @@
 ---
 tags:
   - city
+  - shattered-past
 ---
 > [!infobox]
 > ## Alturon

@@ -1,4 +1,9 @@
-
+---
+tags:
+  - character
+  - shattered-past
+  - pc
+---
 > [!infobox]
 > ## West Hemlocke
 > ![[Hemlocke.png|200]]
