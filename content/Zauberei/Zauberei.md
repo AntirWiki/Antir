@@ -4,9 +4,9 @@ tags:
   - city
 ---
 > [!infobox]
-> # Zauberei
+> ## Zauberei
 > ![[zauberei skyline.png|200]]
-> ###### General Info
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Region** | Northeastern [[Antir]] |
