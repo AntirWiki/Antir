@@ -10,7 +10,7 @@ The majority of influential witches and primal casters in Antir are members of t
 - [[Ninyva O'Niamh]] (Founder)(Deceased?)
 - [[Wisdom Sawyer]] (Deceased)
 - Wisdom Penelope of Marigold (Deceased)
-- The Zauberei Trio (Deceased)
+- The Zauberei Trio - Laila, Simon, and Emeli (Deceased)
 	- Three former wisdoms of [[Zauberei]] who migrated to Catsi Crossing some time after 953 BR.
 
 # History

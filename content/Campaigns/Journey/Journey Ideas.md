@@ -4,6 +4,10 @@ tags:
   - journey
 draft: true
 ---
+Level 10 party final encounter: a level 13 and two level 8s
+Party level 7: 10 and two 5s
+[Cursed King](https://2e.aonprd.com/Monsters.aspx?ID=2405) for the boss?
+
 Make initiative trackers for top of GM screen
 
 UNIQUE ENCOUNTER GOALS. NOT JUST KILLING THE ENEMY!

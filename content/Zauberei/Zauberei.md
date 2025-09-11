@@ -36,7 +36,9 @@ Zauberei City houses the vast majority of the country's people, economy, and pol
 The inner city has walls of white limestone surrounding it. There are painted lines around the outer city where walls will be raised in case of a military assault. The common folk have been advised not to construct anything here, and have ignored this advice - why waste free land? The civic wizards either don't know or don't care about this - if the walls need to be raised, they will be, no matter how many buildings are there.
 
 ## Locations
-[[Foxfire Academy]] is a magical university that fills the core of the city.
+[[Foxfire Academy]] is a magical university whose campus fills the core of the city.
+
+Zauberei is known for its tea and coffee houses, where merchants and students alike gather at all hours for business and pleasure.
 
 **The Honeyed Ham** is a tavern and inn in the old town that caters to travelers and Hallit.
 

@@ -35,4 +35,4 @@ The Golden Crane is the richest game-house in the Kingdom, and winners emerge ev
 
 # Intro
 > You step through the doors of the Golden Crane, the finest casino in Alturon. You enter onto the first floor, where men, women, and gamblers of all sorts roll dice and play cards on polished wooden tables. Each is staffed by a dealer in a golden vest, who smile as they oversee the betting.
-> You see a man at a nearby table stand up and snatch a dice cup from before him. He shakes it in front of his face, and turns to the corner of the room.
+> You see a man at a nearby table stand up and snatch a dice cup from before him. He shakes it in front of his face, glancing off to the side, and muttering, "C'mon, give me this one..." You follow his gaze to a small statue of a golden crane - one of many that line the walls of the large room. He tosses the dice, 

@@ -4,10 +4,17 @@ tags:
   - journey
 draft: true
 ---
+# Intro
+The town of Elmhollow lies in northwestern Athraithe.  Known locally as a haven for unusual folk, it sees all manner of visitors - both witches and wizards have been known to pass through, and even the secluded Minotaur visit to trade.
+
+Elmhollow is known to you, somehow - perhaps you've passed through before, perhaps you've lived here your whole life. One way or another, you were here ten years ago when something occurred that you can never forget.
+
+When something emerges from the Silent Wood that threatens more than just this small town, only the five of you can stop it. To do so, you'll have to journey across the entire continent of Antir - and hope that at the end, you're strong enough to survive.
+
 # Discord Polls
 It's finally almost time to start making characters and planning this campaign, but first I want to set some baselines.
 
-These polls are for me to gauge the themes and tone everyone wants for this campaign. Vote for as many options as you want (you're not limited to one vote per poll), and if you have more nuanced opinions, feel free to share in # game-text.
+These polls are for me to gauge the themes and tone everyone wants for this campaign. Every poll will be multivoting: vote for as many options as you want (you're not limited to one vote per poll), and if you have more nuanced opinions, feel free to share in # game-text.
 
 - What's the tone of our story?
 	- Light - If you believe in yourself and your allies, everything will turn out ok in the end
@@ -31,17 +38,18 @@ Now, onto some logistics questions:
 	- Automatic Bonus Progression - No basic runes, but your character get stronger to compensate. You'll get less money (since you don't have to buy basic runes), but don't have to decide if/when to upgrade weapons. 
 - How long do we want this to go? This is also tied to what level your characters will reach.
 	- Shorter than Antir 1, 6 months or less, level 1-5?
-	- Similar length to Antir 1, 6-12 months, level 1-10ish?
+	- Similar length to Antir 1, 6-12 months, level 1-10?
 	- Longer than Antir 1, 12 months+, level 1-12+?
 
 Finally, the most important poll:
 
-- You will be leaving your small village and journeying across the continent to hunt down a powerful villain. Why? These are some ideas I had, but if you have other ideas please suggest them!
-	- Someone important to you was taken
+- You will be leaving your small village and journeying across the continent to hunt down a powerful villain. Why? These are some ideas I had, but if you have other ideas please suggest them! Note: you don't all need to have the same reason.
+	- Someone important to you is in danger
 	- You have a unique item or secret that can defeat the villain (LOTR style)
 	- Revenge
+	- Duty/Honor
 	- Finding the answer to a mystery
-	- Something else (please send a message in # game-chat to elaborate)
+	- Something else (please send a message in # game-chat or DM me to elaborate)
 
 # Discussions
 ## Consent
