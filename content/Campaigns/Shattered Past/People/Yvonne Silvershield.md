@@ -32,4 +32,4 @@ Her surname comes from her time as Faolan's guard. Late in the war, their camp w
 # Description
 Yvonne has the short and stocky build typical to dwarves, with copper skin and braided blonde hair. Unlike most dwarves, she wore no beard - perhaps in an attempt to appeal to Faolan's human tastes.
 
-She was typically seen in the bronze armor of the royal guard. 
+She bears a large scar on her face, where her left eye and cheek were withered by necromancy in her fight with Kyrillos. The skin is greyed and the eye is a pale, pupil-less white.
