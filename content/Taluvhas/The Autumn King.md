@@ -1,12 +1,16 @@
 ---
 tags:
   - character
+aliases:
+  - Lord of Gilded Leaves
 ---
 > [!infobox]
 > ## The Autumn King
 > ### General Info
 > |  |  |
 > |  ----|  ----|
+> | **Aliases** | Lord of Wilted Leaves|
+> | |Lord of Gilded Leaves (Former) |
 > | **Ancestry** | Fae |
 > | **Age** | ? |
 > | **Gender** | ? (He/Him) |
@@ -18,8 +22,6 @@ tags:
 > | ---- | ---- |
 > | [[Kyrillos]] | Servant |
 > | [[Ninyva O'Niamh]] | Former servant |
-
-Also known as the Lord of Wilted Leaves. Formerly known as the Lord of Gilded Leaves.
 
 The Autumn King is an archfae, and the current ruler of [[Taluvhas]].
 

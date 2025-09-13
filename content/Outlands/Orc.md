@@ -9,8 +9,8 @@ There is much debate about if orcish hero-gods are actually ascended Orcs, or if
 
 ![[orc roast.png|500]]
 
-%%Gods take thy tusks
-Let your jaw meet your word
-In lack of bite
+%%Let gods take thy tusks
+So your jaw may match your words
+In its lack of bite
 -Orc battle poem
 %%

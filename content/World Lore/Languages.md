@@ -12,20 +12,20 @@ Below is a list of languages found in and around the continent of [[Antir]] (and
 
 **Dwarven** (*Hebrew*) - [[Dwarf|Dwarves]], having shorter lifespans than elves, have not preserved their language as well. Many dwarves live their lives speaking only Antiran - though many Dwarven words, phrases, and expressions have made their way into common Antiran vernacular. The language is mainly kept alive by elder dwarves and those living in communities unsuited for other folk (only goblins share the dwarven fondness for underground living).
 
-**Giant** (*Norwegian*)
+**[[Giant]]** (*Norwegian*)
 
 **Goblin** (*Polish*)
 
-**Moonsong** (*Japanese*) - Spoken by [[Moondancer]] in [[Owl Nation]].
+**Moonsong** (*Japanese*) - Spoken by [[Moondancer|Moondancers]] in [[Owl Nation]].
 
-**Drakia** (*Greek*) - The language of [[dragon|dragons]] and the long-dead [[Drakos Empire]].
+**Drakia/Draconic** (*Greek*) - The language of [[dragon|dragons]] and the long-dead [[Drakos Empire]].
 
 **Celestial** (*Latin*)
 
-**Hallit** (German)
+**[[Hallit]]** (*German*)
 
-**Skell** (Hungarian)
+**[[Skell]]** (*Hungarian*)
 
-**Taluvsi** (Mongolian)
+**Taluvsi** (*Mongolian*) - Spoken by the residents of the bogs and jungles of northern [[Taluvhas]]
 
 **Surki** (*Nahuatl*) - Spoken by the insectoid residents of Taluvhas
