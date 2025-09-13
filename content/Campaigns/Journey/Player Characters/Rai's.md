@@ -19,7 +19,7 @@ draft: true
 > | **Home** | ? |
 > | **Occupation** | Adventurer |
 > | **Status** | Alive |
-> ##### Relationships
+> ### Relationships
 > |  |  |
 > | ---- | ---- |
 > | Person | Relation |

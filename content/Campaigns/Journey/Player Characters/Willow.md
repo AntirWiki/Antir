@@ -8,7 +8,7 @@ tags:
 draft: true
 ---
 > [!infobox]
-> ## Name
+> ## Willow
 > ![[unknown.png|200]]
 > ### General Info
 > |  |  |

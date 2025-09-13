@@ -4,8 +4,8 @@ tags:
 draft: true
 ---
 > [!infobox]
-> # Lie Konketsu
-> ###### General Info
+> ## Lie Konketsu
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Ancestry** | Half-Human, Half-[[Moondancer]] |
@@ -14,7 +14,7 @@ draft: true
 > | **Home** | [[Zauberei]] |
 > | **Occupation** | General, Politician |
 > | **Status** | Alive |
-> ##### Relationships
+> ### Relationships
 > |  |  |
 > | ---- | ---- |
 > | [[Tohko]] | Coworker |

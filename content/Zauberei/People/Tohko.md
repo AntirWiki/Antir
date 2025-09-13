@@ -3,8 +3,8 @@ tags:
   - character
 ---
 > [!infobox]
-> # Tohko
-> ###### General Info
+> ## Tohko
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Ancestry** | [[Kitsune]] |

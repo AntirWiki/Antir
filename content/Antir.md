@@ -50,7 +50,7 @@ The Great Kingdom era would last until 1100 BR, when political strife led to the
 
 The kingdom eventually recovered, managing to reclaim all its lost lands north of Blackwing and west of the ever-shifting [[Strioc an Athraithe]]. 
 
-As the crusade ends and the threat of continental war wanes, Antir has entered an age of new ideas and cultural change. Open borders and faster communication has let information spread between the nations in a way unseen since the Great Kingdom. But threats new and old rise up to challenge this peace, and so too must heroes rise up to face them.
+It is now the year 1375 BR. As the crusade ends and the threat of continental war wanes, Antir has entered an age of new ideas and cultural change. Open borders and faster communication has let information spread between the nations in a way unseen since the Great Kingdom. But threats new and old rise up to challenge this peace, and so too must heroes rise up to face them.
 
 
 

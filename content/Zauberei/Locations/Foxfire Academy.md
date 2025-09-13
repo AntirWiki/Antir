@@ -5,10 +5,10 @@ tags:
 Foxfire Academy is an institution of arcane education in the heart of [[Zauberei]]. It is the largest college of its kind in [[Antir]].
 
 # People
-Headmistress - A former warmage apprentice from the south. Rumor has it that in her youth, she performed some great and terrible act of magic that earned her a dishonorable discharge from the military and a full scholarship to Foxfire.
+Archmage [[Amalia Varazs]] - The current leader of the academy, a half-orc woman from [[Blackwing]].
 
 # History
-The academy was founded in 948 BR by [[Cianan of Antir]] to train battlemages during the [[Three Kings War]]. The central spire was originally the king's personal wizard tower.
+The academy was founded in 948 BR by [[Cianan of Antir]] to train battlemages during the [[Three Kings War]]. The central spire was originally the king's personal wizard tower. After the war, it quickly transitioned from a military academy to a civilian institution.
 
 [[Zella Brightflower]] served as headmaster from the academy's founding until 965.
 

@@ -22,7 +22,7 @@ Zauberei is governed by a council of five notable individuals (or representative
 - Vox Populi, the city Mayor
 	- Currently Mayor [[Tohko]]
 - Vox Arcana, the headmaster of Foxfire Academy
-	- Currently Maryam LASTNAME, sister to the academy headmaster
+	- Currently Miriam Varazs, sister to academy headmaster [[Amalia Varazs]]
 - Vox Aegis, the general of the military
 	- Currently [[General Konketsu]]
 - Vox Argentum, representing the city's financial interests
