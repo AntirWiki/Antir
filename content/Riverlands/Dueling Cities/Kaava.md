@@ -4,7 +4,6 @@ tags:
 ---
 > [!infobox]
 > ## Kaava
-> ![[unknown.png|200]]
 > ### General Info
 > |  |  |
 > |  ----|  ----|

@@ -5,7 +5,7 @@ tags:
 ---
 > [!infobox]
 > ## Wind Whispers Through Leaves
-> ![[unknown.png|200]]
+> ![[Windy.png|200]]
 > ### General Info
 > |  |  |
 > |  ----|  ----|

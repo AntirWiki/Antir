@@ -4,7 +4,6 @@ tags:
 ---
 > [!infobox]
 > ## Ocrid
-> ![[unknown.png|200]]
 > ### General Info
 > |  |  |
 > |  ----|  ----|

@@ -4,7 +4,6 @@ tags:
 ---
 > [!infobox]
 > ## Lumina
-> ![[unknown.png|200]]
 > ### General Info
 > |  |  |
 > |  ----|  ----|

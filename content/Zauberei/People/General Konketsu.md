@@ -5,7 +5,6 @@ draft: true
 ---
 > [!infobox]
 > # Lie Konketsu
-> ![[unknown.png|200]]
 > ###### General Info
 > |  |  |
 > |  ----|  ----|

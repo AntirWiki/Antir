@@ -4,7 +4,6 @@ tags:
 ---
 > [!infobox]
 > ## Holy Kingdom of Antir
-> ![[unknown.png|200]]
 > ### General Info
 > |  |  |
 > |  ----|  ----|

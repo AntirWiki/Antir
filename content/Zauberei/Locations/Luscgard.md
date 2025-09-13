@@ -4,7 +4,6 @@ tags:
 ---
 > [!infobox]
 > ## Luscgard
-> ![[unknown.png|200]]
 > ### General Info
 > |  |  |
 > |  ----|  ----|

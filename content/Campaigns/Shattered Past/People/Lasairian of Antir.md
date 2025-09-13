@@ -5,7 +5,7 @@ tags:
 ---
 > [!infobox]
 > ## Lasairian of Antir
-> ![[unknown.png|200]]
+>![[Lasairian.png|200]]
 > ### General Info
 > |  |  |
 > |  ----|  ----|

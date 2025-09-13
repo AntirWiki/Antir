@@ -7,7 +7,6 @@ draft: true
 ---
 > [!infobox]
 > ## Owl Nation
-> ![[unknown.png|200]]
 > ### General Info
 > |  |  |
 > |  ----|  ----|

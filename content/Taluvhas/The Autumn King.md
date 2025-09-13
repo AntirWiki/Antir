@@ -4,7 +4,6 @@ tags:
 ---
 > [!infobox]
 > ## The Autumn King
-> ![[unknown.png|200]]
 > ### General Info
 > |  |  |
 > |  ----|  ----|

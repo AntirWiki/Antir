@@ -4,7 +4,6 @@ tags:
 ---
 > [!infobox]
 > ## Rhylea
-> ![[unknown.png|200]]
 > ### General Info
 > |  |  |
 > |  ----|  ----|

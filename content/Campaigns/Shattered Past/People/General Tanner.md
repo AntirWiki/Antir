@@ -5,7 +5,6 @@ tags:
 ---
 > [!infobox]
 > ## General Tanner
-> ![[unknown.png|200]]
 > ### General Info
 > |  |  |
 > |  ----|  ----|

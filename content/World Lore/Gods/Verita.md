@@ -4,7 +4,6 @@ tags:
 ---
 > [!infobox]
 > ## Verita
-> ![[unknown.png|200]]
 > ### General Info
 > |  |  |
 > |  ----|  ----|

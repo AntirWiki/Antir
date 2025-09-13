@@ -5,7 +5,6 @@ tags:
 ---
 > [!infobox]
 > ## Blackwing
-> ![[unknown.png|200]]
 > ### General Info
 > |  |  |
 > |  ----|  ----|

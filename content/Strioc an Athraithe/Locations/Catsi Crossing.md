@@ -5,7 +5,6 @@ tags:
 ---
 > [!infobox]
 > ## Catsi Crossing
-> ![[unknown.png|200]]
 > ### General Info
 > |  |  |
 > |  ----|  ----|

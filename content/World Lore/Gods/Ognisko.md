@@ -4,7 +4,6 @@ tags:
 ---
 > [!infobox]
 > ## Ognisko
-> ![[unknown.png|200]]
 > ### General Info
 > |  |  |
 > |  ----|  ----|

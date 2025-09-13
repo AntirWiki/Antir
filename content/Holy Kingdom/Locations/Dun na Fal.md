@@ -5,7 +5,6 @@ tags:
 ---
 > [!infobox]
 > ## Dun na Fal
-> ![[unknown.png|200]]
 > ### General Info
 > |  |  |
 > |  ----|  ----|

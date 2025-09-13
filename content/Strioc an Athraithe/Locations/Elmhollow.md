@@ -5,7 +5,6 @@ tags:
 ---
 > [!infobox]
 > ## Elmhollow
-> ![[unknown.png|200]]
 > ### General Info
 > |  |  |
 > |  ----|  ----|

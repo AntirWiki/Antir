@@ -4,7 +4,6 @@ tags:
 ---
 > [!infobox]
 > ## Lady Delafleur
-> ![[unknown.png|200]]
 > ### General Info
 > |  |  |
 > |  ----|  ----|

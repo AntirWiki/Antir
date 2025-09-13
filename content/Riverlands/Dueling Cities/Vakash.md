@@ -4,7 +4,6 @@ tags:
 ---
 > [!infobox]
 > ## Vakash
-> ![[unknown.png|200]]
 > ### General Info
 > |  |  |
 > |  ----|  ----|

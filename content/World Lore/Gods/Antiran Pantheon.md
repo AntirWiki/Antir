@@ -1,6 +1,7 @@
 ---
 tags:
   - lore
+  - god
 ---
 Religion is highly valued in the society of the [[Holy Kingdom]], and they worship several official gods (and a number of unofficial ones as well). Some of their number are listed below. These are just some of the gods worshipped in the Holy Kingdom, and many parts of Antir recognize different pantheons altogether
 

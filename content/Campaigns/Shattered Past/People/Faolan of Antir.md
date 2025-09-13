@@ -5,7 +5,7 @@ tags:
 ---
 > [!infobox]
 > ## Faolan of Antir
-> ![[unknown.png|200]]
+> ![[Faolan.png|200]]
 > ### General Info
 > |  |  |
 > |  ----|  ----|

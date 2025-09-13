@@ -5,7 +5,7 @@ tags:
 ---
 > [!infobox]
 > ## Yvonne Silvershield
-> ![[unknown.png|200]]
+> ![[Yvonne.png|200]]
 > ### General Info
 > |  |  |
 > |  ----|  ----|

@@ -4,7 +4,6 @@ tags:
 ---
 > [!infobox]
 > ## Lord Lanstree
-> ![[unknown.png|200]]
 > ### General Info
 > |  |  |
 > |  ----|  ----|
