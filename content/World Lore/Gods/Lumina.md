@@ -29,6 +29,8 @@ Lumina is the goddess of light and mercy in the [[Holy Kingdom|Holy Kingdom of A
 
 She was once an aspect of the goddess Lucent until the 1020 BR schism between Lumina and [[Verita]] divided the goddess in two.
 
+Lumina's midsummer festival is the largest in the Kingdom calendar, and serves as both a celebration of the goddess and of the Kingdom.
+
 # History
 ## Lucent's Schism
 [[Aisling of Antir|Queen Aisling]]'s connection to Lucent was born in a moment of desperation. In 953 BR, when her dearest friend was afflicted with lycanthropy - a curse that orthodox doctrine deemed a mark of evil requiring purification by fire - Aisling saw past centuries of dogma. Where others saw a beast to be purged, she witnessed a friend trapped between light and shadow. In her desperate prayer, Lucent revealed herself not as a harsh arbiter, but as a force of transformative mercy, bringing even those touched by darkness back to the light. Her Lucent was benevolent, warm, and kind - a goddess who could cure even those afflictions the Church condemned as unholy. This miracle shaped her reign, as she guided Antir towards a path of grace rather than persecution. 

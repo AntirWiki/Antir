@@ -30,3 +30,5 @@ Rhylea is the Antiran goddess of secrets and darkness. She is twin and rival to 
 Her most elite followers are the [[Keyshadows]], a group of assassins that serve the interests of the [[Holy Kingdom]] both domestically and abroad.
 
 Many in the Holy Kingdom refer to a new moon as "Rhylea's Moon", and believe that her followers are especially active on these dark nights.
+
+Rhylea's festival, held in early winter, is exclusively nocturnal - it is considered taboo to even acknowledge the festival during the daytime. At night, citizens venture out in costumes that hide their identities.
