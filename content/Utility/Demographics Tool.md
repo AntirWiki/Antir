@@ -1,0 +1,1 @@
+https://www.rpglibrary.org/utils/meddemog/

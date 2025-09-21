@@ -6,6 +6,7 @@ tags:
 > [!infobox]
 > ## Collach
 > ![[Collach.png|200]]
+> ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Country** | [[Holy Kingdom]] |
