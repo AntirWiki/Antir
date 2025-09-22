@@ -12,4 +12,4 @@ Lich's souls are bound to an object known as a *reliquary*, and if a lich's phys
 Some liches keep their reliquary on their person, as an important object like a staff, amulet, or spell book. Others hide their reliquaries in a secure location such as a tomb, dungeon, or keep.
 
 # Notable Liches
-[[Kyrillos]], master of whispers - Drakos lich who was awakened and defeated by [[Tooth and Claw]], entered the service of [[The Autumn King]], and is currently sealed within [[The Silent Woods]].
+[[Kyrillos]], master of whispers - Drakos lich who was awakened and defeated by [[Tooth and Claw]], entered the service of the [[Autumn King]], and is currently sealed within the [[Silent Woods]].

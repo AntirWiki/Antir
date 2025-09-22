@@ -32,7 +32,7 @@ Shortly following the conclusion of the Three Kings War a plot was executed by s
 
 The attack caused destruction throughout the city, but was halted when [[Tooth and Claw]] defeated Dilitrius, allowing Cianan to take control of the dragon and force him to announce a surrender.
 
-Immediately following this, the city was attacked by [[Ninyva O'Niamh]] in a terrible fae form granted to her by [[The Autumn King]]. She arrived with a lightning storm and a wave of living vines. She attempted to kill Cianan to end the spread of wizardry in Antir, but was defeated and rendered comatose by the remainder of her party.
+Immediately following this, the city was attacked by [[Ninyva O'Niamh]] in a terrible fae form granted to her by the [[Autumn King]]. She arrived with a lightning storm and a wave of living vines. She attempted to kill Cianan to end the spread of wizardry in Antir, but was defeated and rendered comatose by the remainder of her party.
 
 ## Lucent's Schism
 Queen Aisling unifying the church and the state caused great controversy in the priesthood of Lucent. Aisling's enemies within the church were led by one Bishop Felim, an extremist who believed in the divine fury of Lucent. In the harsh winter of 1020, when Queen Aisling lay weak and bedridden in her old age, Bishop Felim saw his divine sign. He declared the Purifying Crusade, rallying thousand of zealots who believed Aisling had corrupted Lucent's true nature.

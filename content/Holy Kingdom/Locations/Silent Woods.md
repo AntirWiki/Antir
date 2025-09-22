@@ -9,7 +9,7 @@ The Silent Woods is a forest located to the north of [[Alturon]] in the [[Holy K
 
 Despite the necrotic effect of the forest, trees and other plants somehow continue to grow while appearing completely dead. 
 
-There have been sightings of strange necrotic creatures living amongst the dead trunks, and legend says that some witches who followed the Autumn King still live within the forest's borders.
+There have been sightings of strange necrotic creatures living amongst the dead trunks, and legend says that some witches who followed the Autumn King - twisted by their master, and now known as Hags - still live within the forest's borders.
 
 # History
-The woods were created in 1077 BR when [[The Autumn King]] was defeated and the [[Lich]] [[Kyrillos]] was separated from him. Legend says that the lich's ruined soul is housed in the great oak tree that stands in the center of the forest.
+The woods were created in 1077 BR when [[Autumn King]] was defeated and the [[Lich]] [[Kyrillos]] was separated from him. Legend says that the lich's ruined soul is housed in the great oak tree that stands in the center of the forest.

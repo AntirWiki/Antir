@@ -12,7 +12,7 @@ tags:
 > | **Size** | City-State |
 > | **Trades** | Witchcraft |
 > | **Government** | The [[Catsi Coven]] |
-> | **Religion** | [[The Witch Queen]] |
+> | **Religion** | [[Witch Queen]] |
 
 Catsi Crossing is a city-state located within [[Strioc an Athraithe]] in central [[Antir]]. It is the gathering place for all of Antir's witches and other primal casters, including the [[Catsi Coven]]. 
 

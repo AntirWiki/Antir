@@ -19,7 +19,7 @@ The Dragon Wars
 - 953: Remnants of Lasairian's army undermine the kingdom, culminating in the [[Alturon#Siege of 953|Siege of Alturon]]. They are stopped by [[Tooth and Claw]].
 - 960: Cianan abdicates the throne to his sister [[Aisling of Antir]], who unifies the church and throne.
 - 1021: Bishop Felim rebels against Aisling, causing the goddess Lucent to schism into [[Lumina]] and [[Verita]].
-- 1077: [[The Autumn King]], fused with the lich [[Kyrillos]], rises and attacks Alturon. The lich is sealed in [[The Silent Woods]] and the King is banished from Antir.
+- 1077: [[Autumn King]], fused with the lich [[Kyrillos]], rises and attacks Alturon. The lich is sealed in [[Silent Woods]] and the King is banished from Antir.
 
 1100-1351 BR The Fractured Era
 - 1100: Magic is declared illegal in the Holy Kingdom. [[Zauberei]] declares its independence, soon followed by [[Catsi Crossing]] in the fae-warped [[Strioc an Athraithe]].

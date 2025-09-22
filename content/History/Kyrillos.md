@@ -12,16 +12,16 @@ tags:
 > | **Ancestry** | Draku ([[Lich]])|
 > | **Age** | ? |
 > | **Gender** | Male |
-> | **Home** | [[The Silent Woods]], formerly [[Luscgard]], formerly [[Drakos Empire]] |
+> | **Home** | [[Silent Woods]], formerly [[Luscgard]], formerly [[Drakos Empire]] |
 > | **Status** | Imprisoned |
 > ### Relationships
 > |  |  |
 > | ---- | ---- |
-> | [[The Autumn King]] | Master |
+> | [[Autumn King]] | Master |
 
 Kyrillos is a drakos [[Lich]] who was sealed beneath [[Antir]] for millennia before his awakening in 953 BR. 
 
-He was a servant of [[The Autumn King]] from that point until the [[Black Autumn]], at which time his soul was imprisoned within a tree at the center of what would become [[The Silent Woods]].
+He was a servant of the [[Autumn King]] from that point until the [[Black Autumn]], at which time his soul was imprisoned within a tree at the center of what would become the [[Silent Woods]].
 
 # Description
 During his encounter with [[Tooth and Claw]] in 953 BR, Kyrillos appeared as a drakos skeleton wearing long black and green robes with glowing green eyes.

@@ -13,7 +13,7 @@ tags:
 > | **Size** | Small Town|
 > | **Trades** | ? |
 
-Elmhollow is a small town bordering [[The Silent Woods]] to the north of the [[Strioc an Athraithe]]. Known for its diverse and accepting population, it is a trading destination for some of the less widely-accepted folk, like [[Minotaur]].
+Elmhollow is a small town bordering the [[Silent Woods]] to the north of the [[Strioc an Athraithe]]. Known for its diverse and accepting population, it is a trading destination for some of the less widely-accepted folk, like [[Minotaur]].
 
 # Locations
 

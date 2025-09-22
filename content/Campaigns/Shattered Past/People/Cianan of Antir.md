@@ -38,7 +38,7 @@ Cianan is a tall, slender man with pale skin, long dark hair, and sharp features
 # Abilities
 Cianan is a master of animancy, the magic of soul manipulation. He is able to cast his own soul temporarily from his body, giving him control of specially made puppets. He is also able to manipulate the souls of others, causing confusion, altered motor and sensory function, or spiritual damage.
 
-The spells he learned from [[Kyrillos]]' tome, which had been altered by [[The Autumn King]], let his soul regrow missing parts. This allowed him to safely split his soul and implant parts in others, where those parts would grow and grant him control over that person. He only used this ability to its full potential on his husband, Hemlocke, and briefly on the [[dragon]] [[Dilitrius]] during the Siege of Alturon.
+The spells he learned from [[Kyrillos]]' tome, which had been altered by the [[Autumn King|Lord of Gilded Leaves]], let his soul regrow missing parts. This allowed him to safely split his soul and implant parts in others, where those parts would grow and grant him control over that person. He only used this ability to its full potential on his husband, Hemlocke, and briefly on the [[dragon]] [[Dilitrius]] during the Siege of Alturon.
 
 Prophets of [[The Veil]] have seen visions of a being known as the Phantom King that had spiritual control over the entire population of Antir. Striking similarities have been noted between this creature's abilities and those of King Cianan.
 
@@ -64,7 +64,7 @@ The first year of Cianan's reign was fraught with conflict. His "victory by defa
 
 He was also confronted with [[General Tanner|remnants of Lasairian's army]] causing chaos in the country, which he employed [[Tooth and Claw]] to deal with. This culminated in the Siege of Alturon in 953 BR, where he helped the adventurers defeat [[Dilitrius]] and briefly took control of the dragon. 
 
-This turned Tooth and Claw against him, and led [[Ninyva O'Niamh]] to bargain with [[The Autumn King]] for the power to defeat him. When she attacked Alturon, he was able to briefly trap her in a mental projection where he, Hemlocke, [[Valerie Bouchard]], and [[Darios O'Mael]] were able to defeat her.
+This turned Tooth and Claw against him, and led [[Ninyva O'Niamh]] to bargain with the [[Autumn King|Lord of Gilded Leaves]] for the power to defeat him. When she attacked Alturon, he was able to briefly trap her in a mental projection where he, Hemlocke, [[Valerie Bouchard]], and [[Darios O'Mael]] were able to defeat her.
 
 These disasters further weakened Cianan's reputation, causing him to eventually abdicate the throne to his younger sister Aisling in hopes of repairing the royal image.
 
