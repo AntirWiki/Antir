@@ -13,19 +13,21 @@ The majority of spirits reside in [[Tir na Nog]], also known as the spirit realm
 # Celestials
 If a mortal believes in a being that represents an ideal or a concept, that creates a Celestial. This could be something like a God of Plagues, or a guardian angel. 
 
-Celestials are the residents of [[Tir na Nog#Elysium|Elysium]] and the servants of gods.
+Most celestials reside in [[Tir na Nog#Elysium|Elysium]], the plane of ideals.
 
 # Devils
 Devils, who represent transactional relationships, are formed by the pleas of the desperate. A being that trades lifespan for wealth, a summoned guard, or a succubus would all be devils.
 
 Devils are the embodiments of desperation and bargains. 
 
+Devils originate in the [[Tir na Nog#The Hells|The Six Hells]], where sin and selfishness abound.
+
 # The Fae
 Fae are created by ideas about the natural world and its inhabitants - including sentient beings. Fae often represent twisted or idealized forms of real creatures, like a stag with golden antlers, a tree that sings prophecy, or a personification of a local river. For sentient beings, this could be a person that can swap faces, a great hunter that can never miss a shot, or a woman so beautiful she drives mortals mad. They can also represent forces of nature, like a living storm, a roaring wildfire, or a roaming pack of boulders.
 
 The fae are nature spirits, often tricksters or hunters. Despite the fact that many fae resemble mortals, their minds are almost all completely alien to mortal thought processes.
 
-Due to their connection to nature, fae are the most common spirit to inhabit the mortal plane. Some fae - mostly animal and plant spirits - exist fully in the mortal world, never entering Tir na Nog at all.
+Due to their connection to nature, fae are the most common spirit to inhabit the mortal plane. Some fae - mostly animal and plant spirits - exist fully in the mortal world, never entering Tir na Nog at all. Those that live in the spirit plane are usually found in [[Tir na Nog#The Faewild|The Faewild]].
 
 The High Fae - the most powerful and intelligent - have a series of noble ranks and titles so complex that all mortal attempts at cataloguing it have failed. Mortals typically refer to a High Fae of sufficient rank and power as an "archfey", though this title is rarely used by the fae themselves. 
 
