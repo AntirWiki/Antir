@@ -8,6 +8,9 @@ The people of northern Taluvhas (known to Antirans as "Taluvs") have been enemie
 
 The northern reaches of the continent are lush wetland and forests with frequent rainfall. Further south are mountains, steppes, savannahs, and desert.
 
+# Locations
+[[Manaius]], the arid steppe to the northeast, populated by the nomadic Manaiuud and their famed horses.
+
 %%Near-permanent autumn because of the King - every other season happening over the course of the three weeks surrounding spring equinox
 
 Noble court of entirely fae

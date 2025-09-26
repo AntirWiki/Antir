@@ -17,11 +17,21 @@ tags:
 
 Dragún Mac Tíre (Pronounced *Dragoon Mack Teer-uh*) is the heart of [[Antir]]'s [[Adventurers#The Adventurer's Guild|Adventurer's Guilds]]. Located in the [[Strioc an Athraithe]] near the border to the [[Silent Woods]], the city is built up around the guild headquarters in the center of town.
 
+The town is known to have an active nightlife, but this is restricted to the bustling downtown area.
+
+The city attracts butterflies and moths en masse. The reason is unknown, but scholars theorize it is likely fae-related.
+
 # Government
-The city is run by a council of Guildhearts (senior members of the Guild), led by guild founders Rosaline and Kastenia Valentine.
+The city is run by a council of Guildhearts (senior members of the Guild), led by guild founders Rosaline and Kastenia Valentine. The founders rarely take direct interest in the town's administration.
 
 # Locations
 **The Adventurer's Guild Headquarters**
+
+**Heroes Square**, a plaza in front of the headquarters that hosts statues of legendary adventurers [[Valerie Bouchard|Corsair Molossus Valerie]] and [[Darios O'Mael|Scalemaster Darios O'Mael]]. Offerings are often left under the statues, often including teeth, bones, flowers, and coins. Smaller statues of famed Guild adventurers line the outer edge of the plaza.
+
+The city hosts several learning institutions, in many different areas of interest. These include both natural skills, like the herbalism and alchemy practiced by [[Witches|Wisdoms]], and magical talents like the arcana of Wizards.
+
+Markets across the city advertise to travelers and adventurers alike, offering trinkets, potions, and more (legitimate or otherwise) to assist in dangerous quests.
 
 # People
 **Rosaline and Kastenia Valentine** - Founders of the guild. The sorcerous twins still lead the organization, but have not made a public appearance in many years.

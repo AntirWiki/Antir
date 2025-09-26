@@ -25,8 +25,6 @@ aliases:
 
 The Autumn King is an archfae, and the current ruler of [[Taluvhas]].
 
-%% Party has the key to defeating/weakening him because of something in Kyrillos' Tomb (or something to do with Nini's body in zauberei? Or Cianan's tome?) %%
-
 # Description
 
 # History

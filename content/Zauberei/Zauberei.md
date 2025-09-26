@@ -22,7 +22,7 @@ Zauberei is governed by a council of five notable individuals (or representative
 - Vox Populi, the city Mayor
 	- Currently Mayor [[Tohko]]
 - Vox Arcana, the headmaster of Foxfire Academy
-	- Currently Miriam Varazs, sister to academy headmaster [[Amalia Varazs]]
+	- Currently [[Miriam Varazs]], academy headmaster
 - Vox Aegis, the general of the military
 	- Currently [[General Konketsu]]
 - Vox Argentum, representing the city's financial interests
@@ -33,7 +33,7 @@ Zauberei is governed by a council of five notable individuals (or representative
 # Zauberei City
 Zauberei City houses the vast majority of the country's people, economy, and politics. 
 
-The inner city has walls of white limestone surrounding it. There are painted lines around the outer city where walls will be raised in case of a military assault. The common folk have been advised not to construct anything here, and have ignored this advice - why waste free land? The civic wizards either don't know or don't care about this - if the walls need to be raised, they will be, no matter how many buildings are there.
+The inner city has walls of white limestone surrounding it. There are painted lines around the outer city where walls will be raised in case of a military assault. Citizens have been advised not to construct anything here, and have ignored this advice - why waste free land? The civic wizards either don't know or don't care about this - if the walls need to be raised, they will be, no matter how many buildings are in the way.
 
 ## Locations
 [[Foxfire Academy]] is a magical university whose campus fills the core of the city.
