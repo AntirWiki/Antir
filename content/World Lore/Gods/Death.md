@@ -9,7 +9,7 @@ tags:
 > |  |  |
 > |  ----|  ----|
 > | **Titles** | The White Mare |
-> | **Domains** | Death |
+> | **Domains** | Death, Vigil |
 > | **Region** | [[Antir]] |
 > | **Symbol** | Horses, especially horse skulls |
 > | **Followers** | Gravekeepers, Healers |

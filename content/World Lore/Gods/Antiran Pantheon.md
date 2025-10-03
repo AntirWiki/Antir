@@ -13,9 +13,6 @@ Goddess of light and mercy
 - Leader of the pantheon and patron of the royal family
 - Formerly known as Lucent before the schism between Lumina and [[Verita]]
 
-## The Grey Lady
-Veiled goddess of thieves, urchins, and the downtrodden 
-
 ## Raeldan
 God of history and discovery (twin and rival to Rhylea).
 His early summer festival includes storytellers, games of wit, poetry, debates, and public education.
@@ -24,16 +21,25 @@ His early summer festival includes storytellers, games of wit, poetry, debates, 
 Goddess of secrets and mystery (twin and rival to Raeldan).
 
 ## Soln
-The Silent Hunter, god of the woods and the hunt. He is said to be completely mute, and many members of his priesthood are as well - either by choice, birth, or injury.
+The Silent Hunter, god of the woods and the hunt. They are said to be completely mute, and many members of their priesthood are as well - either by choice, birth, or injury.
 
 ## Lamaera
-Goddess of love, passion, and obsession.
+God of love, passion, and obsession. They represent not only lust and romance, but passion in all its forms.
+
+## Ceartas
+God of protection, freedom, and justice. Patron god of the Holy Kingdom military.
 
 %%
-- Harvest god?
-- Anti-hero War god?
+## Harvest god?
+
 %%
 
 # Minor Gods
+## The Grey Lady
+Veiled goddess of thieves, urchins, and the downtrodden 
+
 ## Tival
-God of sacrifice.
+God of those who suffer. Tival is a god for those whose woes cannot be cured. He offers sympathy and company, a shoulder to cry on and a helping hand when needed.
+
+## Anairi
+The secret god of soldiers. They represent martyrs and those who do thankless work.

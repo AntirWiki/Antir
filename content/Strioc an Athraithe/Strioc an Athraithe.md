@@ -10,7 +10,7 @@ The region's name translates to "The Stripe of Change" in Sylvan. It is unknown 
 # Locations
 [[Catsi Crossing]], the land of witches.
 
-[[Dragun Mac Tire]], the heart of [[Adventurers#The Adventurer's Guild|The Adventurer's Guild]].
+[[Dragun Mac Tire]], the heart of [[Adventurer#The Adventurer's Guild|The Adventurer's Guild]].
 
 # History
 When the Autumn King was banished, and autumn itself was erased, and magic itself was splintered into the primal, arcane, and divine domains, one final effect covered the land, unbeknownst to those who would be most impacted. Stretching from the village of Marigold, where the Autumn King once held court, to Catsi Crossing, where the Witch Queen's heart was buried, formed the Strioc an Athraithe, a region where the barrier between the materium and Tir na Nog had been thinned.

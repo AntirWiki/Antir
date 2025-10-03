@@ -14,7 +14,7 @@ tags:
 > | **Ancestry** | Human |
 > | **Age** | ? |
 > | **Gender** | Male |
-> | **Home** | Nomadic, formerly [[Blackwing]] |
+> | **Home** | [[Antir]], formerly [[Blackwing]] |
 > | **Occupation** | Adventurer, Former General |
 > | **Status** | Unknown |
 > ### Relationships
@@ -24,7 +24,7 @@ tags:
 > | Velns | Ally |
 > | [[Lasairian of Antir]] | Former Comander |
 
-Sir Darios O'Mael is a famed [[Adventurers|adventurer]], former general of the Kingdom of [[Antir]], and former member of [[Tooth and Claw]].
+Sir Darios O'Mael is a famed [[Adventurer|adventurer]], former general of the Kingdom of [[Antir]], and former member of [[Tooth and Claw]].
 
 Darios served as a general to [[Lasairian of Antir]] during the [[Three Kings War]], during which time he forged a connection with the Magma [[Dragon]] Velns. The bond gave him the ability to transform into a powerful draconic shape. He was captured during the Siege of [[Dun Na Fal]] after the death of Velns sent him into an indiscriminate rampage.
 

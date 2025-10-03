@@ -41,3 +41,5 @@ Demons steadily grow in size and power as they age. For those who dwell above th
 The summoning of Demons is seen across the mortal planes as an act of great evil, as their very existence on the mortal world corrupts it. Due to their uncontrollable nature they are typically used by either the inexperienced or those uncaring of collateral damage. Lesser demons are often invoked to serve as warriors or saboteurs. Summoning even part of a greater demon, such as those from the depths or the mainland, can have catastrophic, reality-warping consequences. 
 
 Demonic cults that form on the mortal plane often sail into the ocean or descend into deep caves to more easily connect with the great demons on the Abyssal mainland or ocean depths.
+
+After the faithful of [[Font|The Font]] were corrupted by the demon [[Athanasius]], mortal Fontians and their descendants can become hosts for demonic possession when they die, becoming beings known as [[Defied]].

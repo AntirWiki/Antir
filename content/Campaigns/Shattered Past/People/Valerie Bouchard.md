@@ -14,7 +14,7 @@ tags:
 > | **Ancestry** | [[Elf]] ([[Werewolf]]) |
 > | **Age** | ? |
 > | **Gender** | ? (She/her) |
-> | **Home** | Nomadic, formerly [[Alturon]] |
+> | **Home** | [[Antir]], formerly [[Alturon]] |
 > | **Occupation** | Adventurer, Privateer, Formerly prize fighter |
 > | **Status** | Unknown |
 > ### Relationships

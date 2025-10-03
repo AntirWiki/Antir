@@ -25,7 +25,7 @@ tags:
 >| [[Autumn King]] | Patron |
 
 
-Ninyva "Nini" O'Niamh is the former Wisdom of [[Catsi Crossing]], [[Witches|Witch]] of [[The Catsi]], founder of the [[Catsi Coven]], and former member of [[Tooth and Claw]].
+Ninyva "Nini" O'Niamh is the former Wisdom of [[Catsi Crossing]], [[Witch|Witch]] of [[The Catsi]], founder of the [[Catsi Coven]], and former member of [[Tooth and Claw]].
 
 # General Nini Backstory
 

@@ -8,3 +8,5 @@ When she believed, it was the harsh inevitability of a bullet going down the bar
 ![[knight meme.jpeg|500]]
 
 The law only reaches as far as a guard can shoot an arrow
+
+There are no wolves left there. Only dogs

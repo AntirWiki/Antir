@@ -7,7 +7,7 @@ tags:
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | Half-[[Orc]] |
+> | **Ancestry** | [[Orc]] / Human |
 > | **Age** | 45 |
 > | **Gender** | Female |
 > | **Home** | [[Zauberei]] |

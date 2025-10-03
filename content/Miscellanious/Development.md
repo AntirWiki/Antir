@@ -338,15 +338,15 @@ While the eyes of the continent turn towards the Holy Kingdom, what sinister for
 
 # **1325**
 ?
-%%cat (something nature/beastfolk?)
+%%The Shining Crusade ends not with a bang, but with a resigned sigh. Too many deaths to the heat of the desert and the monsters of the fae-woods lead the Church and Throne to cut their losses, recall troops, and make peace with their neighbors. With weary hearts from a half-century of war, the nation sits back to digest what it’s consumed: every acre between the Great Forest and the desert, from the coast to Athraithe, is once again under the rule of the Holy Kingdom of Antir. 
 
-The Shining Crusade ends not with a bang, but with a resigned sigh. Too many deaths to the heat of the desert and the monsters of the fae-woods lead the Church and Throne to cut their losses, recall troops, and make peace with their neighbors. With weary hearts from a half-century of war, the nation sits back to digest what it’s consumed: every acre between the Great Forest and the desert, from the coast to Athraithe, is once again under the rule of the Holy Kingdom of Antir. 
-
-But while the borders change, the people do not. They still have to deal with deaths, and births, and harvests - and taxes, regardless of who collects them. Their lives go mostly unchanged, and so too do their traditions. They celebrate and they mourn and they tell each other stories to make the winters a little less dark.
+But while the borders change, the people do not. They still have to deal with deaths, and births, and harvests - and taxes, regardless of who collects them. Their lives go mostly unchanged, and so too do their traditions. They celebrate and they mourn and they tell each other stories to make the nights a little less dark.
 
 Cat: What kind of folk traditions are alive in Antir? What stories are told around Legion campfires? What festivals are held in Alturon neighborhoods? Who dances in the Zauberan countryside? What rituals are performed in Athraithe groves?
 
-(DM cat: The first question (about folk traditions) is the real prompt, all the rest are just examples of the kinda stuff you could write about. You definitely don't have to answer any of those unless you feel particularly inspired to, you can write about anything you want - a bunch of different stuff across the continent, or just the traditions in a certain region, or even just one or two specific practices if u want to go super in depth. You can talk about folk tales or festivals or rituals or whatever you want.)%%
+(DM cat: Just posted your prompt in the server. The first question (about folk traditions) is the real prompt, all the rest are just examples of the kinda stuff you could write about. You definitely don't have to answer any of those unless you feel particularly inspired to, you can write about anything you want - a bunch of different stuff across the continent, or just the traditions in a certain region, or even just one or two specific practices if u want to go super in depth. You can talk about folk tales or festivals or rituals or whatever you want.
+
+As always if u wanna run ideas by me or ask lore questions please feel free.)%%
 
 # **1375**
 Modern Day

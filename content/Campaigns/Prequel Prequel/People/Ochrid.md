@@ -7,7 +7,7 @@ tags:
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | Half-[[Orc]] |
+> | **Ancestry** | Human/[[Orc]] |
 > | **Age** | 16 (in 946) |
 > | **Gender** | Nonbinary |
 > | **Home** | [[Zauberei]] |
@@ -18,6 +18,6 @@ tags:
 > | ---- | ---- |
 > | [[Zella Brightflower]] | Master |
 
-Ochrid was an apprentice to Zella Brightflower before the [[Three Kings War]]. They were the child of an influential [[Hallit]] merchant.
+Ochrid was an apprentice to Zella Brightflower before the [[Three Kings War]]. Their father was an influential [[Hallit]] merchant, an orc with a talent for poetry.
 
 # Description

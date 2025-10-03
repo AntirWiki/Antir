@@ -18,6 +18,9 @@ The Weremark is a magical brand that inhibits the abilities of lycanthropes. Dev
 
 Werewolves bearing the mark cannot transform at will - instead, they transform compulsively during each full moon, when the Wolf God's power is strongest. This is also the only time they are able to transmit their condition. Marked lycanthropes also lose their connection to the Wolf God.
 
+# Wulvs
+A group of 15 werewolves who hunt [[Spirits#Demons|Demons]] across Antir, and can be reborn in a willing host after death. See [[Demon Hunter#Wulvs]].
+
 # Taming of the Mad Wolf
 >_Excerpts from the Journal of Mx. [[Valerie Bouchard]]._ Prize Fighter, Renegade, Corsair Molossus of the Katze’s Keel, Lycanthrope, Unpredictable Adventurer of the Wild Mountains. 
 >_Date: Unknown_ 

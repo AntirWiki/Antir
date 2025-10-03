@@ -10,7 +10,7 @@ tags:
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | Half-[[Elf]], Half-[[Moondancer]] |
+> | **Ancestry** | [[Elf]] / [[Moondancer]] |
 > | **Age** | 16 (circa. 942) |
 > | | 17-19 (circa. 944)|
 > | | 26-28 (circa. 953) |

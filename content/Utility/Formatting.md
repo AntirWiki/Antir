@@ -22,4 +22,7 @@ Note
 - [ ] Checkbox
 <u>underline</u> 
 
+>[!recite] Recite Text
+>Text to read
+
 ![[Special Formatting.png]]

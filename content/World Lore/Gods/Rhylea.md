@@ -31,4 +31,4 @@ Her most elite followers are the [[Keyshadows]], a group of assassins that serve
 
 Many in the Holy Kingdom refer to a new moon as "Rhylea's Moon", and believe that her followers are especially active on these dark nights.
 
-Rhylea's festival, held in early winter, is exclusively nocturnal - it is considered taboo to even acknowledge the festival during the daytime. At night, citizens venture out in costumes that hide their identities.
+Rhylea's festival, held in early winter, is exclusively nocturnal - it is considered taboo to even mention the festival during the daytime. At night, citizens venture out in costumes that hide their identities.

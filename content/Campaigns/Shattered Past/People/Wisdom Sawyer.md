@@ -9,7 +9,7 @@ tags:
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | Half-[[Elf]] |
+> | **Ancestry** | [[Elf]]/Human |
 > | **Age** | 40 (In 953) |
 > | **Gender** | Male |
 > | **Home** | [[Collach]] |
@@ -24,6 +24,6 @@ Sawyer was the wisdom of the town of [[Collach]] in 953 BR. He served mainly as 
 
 He was a middle-aged half-elf with sandy blonde hair and tired eyes.
 
-He met [[Tooth and Claw]] when they visited Collach, and asked for their help dealing with the bandits that were plaguing the area and the corruption of the guardian spirit the town was named after.
+He met [[Tooth and Claw]] when they visited Collach, and asked for their help dealing with the bandits that were plaguing the area and the corruption of the town's guardian spirit.
 
-He was one of the founding members of [[Catsi Coven]], invited by [[Ninyva O'Niamh]] after attending the coronation anniversary ball in [[Alturon]].
+He was one of the founding members of the [[Catsi Coven]], invited by [[Ninyva O'Niamh]] after attending the coronation anniversary ball in [[Alturon]].
