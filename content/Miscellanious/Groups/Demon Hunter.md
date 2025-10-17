@@ -1,7 +1,6 @@
 ---
 tags:
   - group
-  - incomplete
 aliases:
   - Demon Hunters
 ---

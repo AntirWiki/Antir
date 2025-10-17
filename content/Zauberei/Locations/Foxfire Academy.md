@@ -19,8 +19,8 @@ The magus college teaches a blend of martial and magical techniques for those wi
 
 The College was a later addition to the university. Before its inception, magi mostly learned in small schools taught by a single master.
 
-## Boundary
-The School of the Boundary is a direct continuation of school founder Cianan of Antir's work on animancy, the magic of souls. It also concerns itself with research on [[Spirits]].
+## School of the Boundary
+The School of the Boundary is a direct continuation of university founder Cianan of Antir's work on animancy, the magic of souls. It also concerns itself with research on [[Spirits]].
 
 ### Department of Animetrics
 The department of animetrics focuses on the examination and measurement of souls.
@@ -28,8 +28,8 @@ The department of animetrics focuses on the examination and measurement of souls
 ### Department of Applied Theology
 Includes all research into gods and the mechanics by which they operate.
 
-## Battle Magic
-The school of battle magic is the oldest course of study in Foxfire, hailing back to its days as a war college during the Three Kings War.
+## School of Battle Magic
+The school of battle magic is the oldest course of study in Foxfire, hailing back to its days as a war college during the Three Kings War. The battle mages and other students have a mutual disrespect; the other students see battle mages as unintellectual killers, and the battle mages see the other schools as stuck-up cowards.
 
 # History
 The academy was founded in 948 BR by [[Cianan of Antir]] to train battlemages during the [[Three Kings War]]. The central spire was originally the king's personal wizard tower. After the war, it quickly transitioned from a military academy to a civilian institution.

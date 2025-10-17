@@ -23,6 +23,7 @@ tags:
 > | [[Cianan of Antir]] | Brother |
 >| [[Aisling of Antir]] | Sister |
 >| [[Darios O'Mael]] | General |
+> | [[General Tanner]] | General |
 
 
 Lasairian of Antir was the eldest child of King Tarlach of Antir, elder brother to [[Faolan of Antir]], [[Cianan of Antir]] and [[Aisling of Antir]]. 
@@ -46,7 +47,7 @@ This is the first of their kind that I met."
 
 At this, an illusion slowly drops, and the form of a massive Dragon shimmers into view, standing next to Lasairian. The dragon is slender, with shining black scales that come to sharp points all across its body. It towers almost 20 feet tall, looming over the collected soldiers and eyeing them with clear intelligence. Gasps are heard from the crowd, and several soldiers begin unsheathing blades.
 
-"Hold, my comrades. This is not an enemy. This is the first of the allies who will win us this war. Ozymandias and I traveled throughout the mountains, speaking with Dragons who had been forced from their homes, by the same people who forced us from ours. And in those travels, we found *power*
+"Hold, my comrades. This is not an enemy. This is the first of the allies who will win us this war. Ozymandias and I traveled throughout the mountains, speaking with Dragons who had been forced from their homes by the same people who forced us from ours. And in those travels, we found *power*."
 
 As he speaks this word, great black wings extend from his back. The sharp spines make a clear connection to the wings resting on Ozymandias's back.
 

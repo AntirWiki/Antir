@@ -5,7 +5,7 @@ tags:
 draft: true
 ---
 # Intro
-The town of Elmhollow lies in northwestern Athraithe.  Known locally as a haven for unusual folk, it sees all manner of visitors - both witches and wizards have been known to pass through, and even the secluded Minotaur visit to trade.
+The town of Elmhollow https://antirwiki.github.io/Antir/Strioc-an-Athraithe/Locations/Elmhollow lies in northwestern Athraithe.  Known locally as a haven for unusual folk, it sees all manner of visitors - both witches and wizards have been known to pass through, and even the secluded Minotaur visit to trade.
 
 Ten years ago, you were in Elmhollow when something happened you'll never forget. Now, something emerges from the Silent Woods to threaten all of Antir, and only the five of you can stop it. To do so, you'll have to journey across the entire continent - and hope that by the end, you're strong enough to survive.
 
@@ -21,7 +21,7 @@ Now, onto some logistics questions:
 	- No. Regular character creation. Simpler and easier to keep track of.
 
 - There's a few ways to do weapon/damage powerups, and I wanted to give you guys a choice:
-	- Runes - you choose when to upgrade weapons/armor, and which ones to upgrade. It's more flexible, but if you don't buy or loot runes your weapons and armor will start to get underpowered. This is how it worked in Albahr and Shattered Past.
+	- Runes - you choose when to upgrade weapons/armor, and which ones to upgrade. It's more flexible, but if you don't buy or loot runes your weapons and armor will start to get underpowered. This is how it works in Albahr and Shattered Past.
 	- Automatic Bonus Progression - No basic runes, but your character get stronger to compensate. You'll get less money (since you don't have to buy basic runes), but don't have to decide if/when to upgrade weapons.
 
 - How long do we want this to go? This is also tied to what level your characters will reach.
@@ -31,7 +31,7 @@ Now, onto some logistics questions:
 
 Finally, the most important poll:
 
-- You will be leaving Elmhollow and journeying across the continent to hunt down a powerful villain. Why? These are some ideas I had, but if you have other ideas please suggest them! Note: you don't all need to have the same reason.
+- You will be leaving Elmhollow and journeying across the continent to hunt down a powerful villain. Why? These are some ideas I had, but if you have other ideas please suggest them! Multiple of these options can be true, and you don't all need to have the same motivation. 
 	- Someone important to you is in danger
 	- You have a unique item or secret that can defeat the villain (LOTR style)
 	- Revenge

@@ -10,9 +10,9 @@ Note
 
 >[!Tip]
 
->[!success]
+>[!success] Success
 
->[!fail]
+>[!fail] Fail
 
 >[!aside]
 >Woah it's to the side
@@ -22,7 +22,7 @@ Note
 - [ ] Checkbox
 <u>underline</u> 
 
->[!recite] Recite Text
+>[!recite] Recite
 >Text to read
 
 ![[Special Formatting.png]]

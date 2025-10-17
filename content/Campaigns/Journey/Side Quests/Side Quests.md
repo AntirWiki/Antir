@@ -6,6 +6,8 @@ draft: true
 ---
 Quest supervised by guild member to gain entry
 
+Night attack by undead hunter/hunters. Mini quest to identify them and report to nearby town (some identifying token/charm? Hunters guild/soln church?)
+
 Party escorting people between locations
 
 Loss of supplies from animals/bandits/disaster, threat of starvation ([[Food Hoard]])

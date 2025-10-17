@@ -21,7 +21,7 @@ tags:
 > | **Divine Font** | Heal or Harm |
 > | **Sanctification** | Can choose Holy |
 > | **Divine Skill** | Athletics |
-> | **Favored Weapon** | ? |
+> | **Favored Weapon** | Gun Sword |
 > | **Cleric Spells** | ? ? ?|
 
 >They retreated to the lands of Southeastern Antir, where they built white temples of marble and glass, each tower a finger of accusation pointed at the heavens. There, they await the day when truth's blinding light will scour the world clean.

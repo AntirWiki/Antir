@@ -336,17 +336,18 @@ The soldiers, all prior allegiances forgot, united as one under the Sanctified M
 # **1275**
 While the eyes of the continent turn towards the Holy Kingdom, what sinister forces go unseen? Shadows form behind the shining crusaders, in the basements of Foxfire, between the trees of Athraithe, in forgotten Legion armories, and countless more places across Antir. What lurks there? Who serves it? Do the people of Antir fear it, or live in blissful ignorance?
 
-# **1325**
-?
-%%The Shining Crusade ends not with a bang, but with a resigned sigh. Too many deaths to the heat of the desert and the monsters of the fae-woods lead the Church and Throne to cut their losses, recall troops, and make peace with their neighbors. With weary hearts from a half-century of war, the nation sits back to digest what it’s consumed: every acre between the Great Forest and the desert, from the coast to Athraithe, is once again under the rule of the Holy Kingdom of Antir. 
+# **1320**
+The Shining Crusade ends not with a bang, but with a resigned sigh. Too many deaths to the heat of the desert and the monsters of the fae-woods lead the Church and Throne to cut their losses, recall troops, and make peace with their neighbors. With weary hearts from a half-century of war, the nation sits back to digest what it’s consumed: every acre between the Great Forest and the desert, from the coast to Athraithe, is once again under the rule of the Holy Kingdom of Antir. 
 
 But while the borders change, the people do not. They still have to deal with deaths, and births, and harvests - and taxes, regardless of who collects them. Their lives go mostly unchanged, and so too do their traditions. They celebrate and they mourn and they tell each other stories to make the nights a little less dark.
 
 Cat: What kind of folk traditions are alive in Antir? What stories are told around Legion campfires? What festivals are held in Alturon neighborhoods? Who dances in the Zauberan countryside? What rituals are performed in Athraithe groves?
 
-(DM cat: Just posted your prompt in the server. The first question (about folk traditions) is the real prompt, all the rest are just examples of the kinda stuff you could write about. You definitely don't have to answer any of those unless you feel particularly inspired to, you can write about anything you want - a bunch of different stuff across the continent, or just the traditions in a certain region, or even just one or two specific practices if u want to go super in depth. You can talk about folk tales or festivals or rituals or whatever you want.
+# **1364**
+%%
+Something has happened beyond the southern mountains. Refugees have been appearing in Blackwing towns and Riverland ports for decades, but now that trickle becomes a flood - and then cuts off entirely. With them, the migrants bring rumors: some dark force has been sweeping through Taluvhas, slaying kings and subjugating nations. The most recent arrivals say that this blighted army has nearly finished sweeping across the continent.
 
-As always if u wanna run ideas by me or ask lore questions please feel free.)%%
+Through rumor, spy, and scrying, the truth reaches the ears of Antiran leaders - the centaur clans of Manaius have finally bent the knee. With that, the last independent nation of the southern continent has fallen.
 
-# **1375**
-Modern Day
+The Autumn King has conquered Taluvhas.
+%%

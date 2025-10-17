@@ -28,7 +28,7 @@ West Hemlocke was the assistant headmaster of [[Foxfire Academy]] from 965-989. 
 
 Despite Cianan of Antir's tarnished reputation as king, the duo had a formidable partnership, with Cianan's magical prowess complementing Hemlocke's physical strength to quell most political unrest. However, their reign remained unpopular among many, despite the pair's pivotal role in saving Alturon from the threat of the dragon known as [[Dilitrius]] in ~953 BR.
 
-Historians generally recognize Hemlocke's critical part in securing Cianan's claim to the throne, and his essential support in ensuring Aisling of Antir's succession following Cianan's abdication.
+Historians generally recognize Hemlocke's critical part in securing Cianan's claim to the throne, and his essential support in ensuring [[Aisling of Antir]]'s succession following Cianan's abdication.
 
 # History
 ## Early Life

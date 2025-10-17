@@ -16,6 +16,9 @@ UNIQUE ENCOUNTER GOALS. NOT JUST KILLING THE ENEMY!
 
 CHILDREN'S ADVENTURE
 
+Party member arrested and jailed for dumb reason
+
+
 Weather challenges (Being in the holy kingdom when winter hits?)
 
 Have to reach the autumn king on the vernal equinox to stop Kyrillos from... remerging? Taking back his power? 
@@ -32,12 +35,6 @@ Bug people in Taluvhas
 
 Inkmaker in zauberei / dyemaker in antir
 
-Order of magekiller paladins founded by Yvonne
-
-Captive girl’s father is mayor of town, a veteran from the south, tan skinned, disabled (missing leg?) and uses crutches/a cane
-
 When kyrillos attacks Zauberei, a higher level party is sent after him. We see them before they go in. Then we see them defeated and missing several party members. The missing ones were killed, and are later encountered as raised minions of kyrillos. 
-
-Silent woods are a nebulous border, nobody really has jurisdiction so no government wants to deal with the weird stuff in it
 
 Changelings 

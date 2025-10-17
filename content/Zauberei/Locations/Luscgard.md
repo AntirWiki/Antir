@@ -9,7 +9,7 @@ tags:
 > |  ----|  ----|
 > | **Country** | [[Zauberei]] |
 > | **Size** | Small Town |
-> | **Trades** | Lumber, Hunting |
+> | **Trades** | Lumber, Mining, Hunting |
 
 Luscgard is a town in the southern countryside of [[Zauberei]] that is built around the tomb of the ancient Drakos lich [[Kyrillos]].
 
@@ -21,6 +21,6 @@ The entrance to the tomb serves as a shrine to the Drakos god Lucimater, and a w
 
 The inner portion of the tomb has been twisted by Kyrillos' malign influence, with undead guardians, an alchemical laboratory, and the crypt itself. Murals in this section depict Kyrillos and his undead armies slaying dragons and unleashing atrocities on the other Drakos. 
 
-Kyrillos' Tomb was visited by [[Tooth and Claw]] in the 953 BR during their pursuit of [[Yvonne Silvershield]]. Yvonne unsealed the tomb and infiltrated its depths, inadvertently awakening the [[Lich]] Kyrillos during her attempt to resurrect [[Faolan of Antir]]. The adventurers defeated Yvonne and killed Kyrillos before he could regain his full power, taking his spellbook-reliquary and eventually giving his soul to the [[Autumn King]].
+Kyrillos' Tomb was visited by [[Tooth and Claw]] in 953 BR during their pursuit of [[Yvonne Silvershield]]. Yvonne unsealed the tomb and infiltrated its depths, inadvertently awakening the [[Lich]] Kyrillos during her attempt to resurrect [[Faolan of Antir]]. The adventurers defeated Yvonne and killed Kyrillos before he could regain his full power, taking his spellbook-reliquary and eventually giving his soul to the [[Autumn King]].
 
 Residents of the town believe they hold the duty to guard the tomb against Kyrillos' return, since none but [[Ninyva O'Niamh]] and the [[Autumn King]] know the actual fate of the lich's reliquary. 

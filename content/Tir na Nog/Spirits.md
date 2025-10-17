@@ -1,12 +1,13 @@
 ---
 tags:
   - lore
+  - creature
 ---
 When a being with a soul believes in something, that belief is impressed upon the Aether that flows through them. When that Aether leaves them and enters the world, it retains that "impression". A collection of Aether with similar "impressions" from this process can then collect together and form an intelligent being - a Spirt.
 
 The type of spirit it becomes depends on the nature of that impression, as described in the sections below.
 
-Some spirits blur the lines between realms. For example, a three-headed wolf that eats children might be both demon and fae. Spirits can also shift between states as mortal perception of them changes - a devil may exist that trades in bones, but when a cult begins worshipping them as a God of Bones, they may become a celestial.
+Some spirits blur the lines between realms (see [[#Hybrid Spirits]]). For example, a three-headed wolf that eats children might be both demon and fae. Spirits can also shift between states as mortal perception of them changes - a devil may exist that trades in bones, but when a cult begins worshipping them as a God of Bones, they may become a celestial.
 
 The majority of spirits reside in [[Tir na Nog]], also known as the spirit realm. However, many spirits are frequent visitors to the realm of mortals, and some even reside there permanently.
 
@@ -43,3 +44,15 @@ The summoning of Demons is seen across the mortal planes as an act of great evil
 Demonic cults that form on the mortal plane often sail into the ocean or descend into deep caves to more easily connect with the great demons on the Abyssal mainland or ocean depths.
 
 After the faithful of [[Font|The Font]] were corrupted by the demon [[Athanasius]], mortal Fontians and their descendants can become hosts for demonic possession when they die, becoming beings known as [[Defied]].
+
+# Hybrid Spirits
+Spirits often fall between types, and scholars have created intermediate categories to catalogue them. Such spirits often have access to both of their related planes of Tir na Nog, even able to move freely between them in some cases.
+
+## Daemons
+Between devils and demons, these spirits feed on the fear of bad, unfair, or broken deals.
+
+## Seelie
+The seelie are both celestial and fae, often servants of nature gods (or lesser gods themselves).
+
+## Unseelie
+The unseelie are demon-fae, who feed on mortal fears of nature and it inhabitants.

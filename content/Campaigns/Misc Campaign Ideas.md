@@ -5,6 +5,12 @@ draft: true
 ---
 Threat so big it's multiple parts with their own initiatives and HP
 
+Walk into a dungeon with dead enemies and unset traps. Once they reach the goal, the enemies revive and traps rearm. Memory challenge
+
+Diseases
+
+Oracle who asks for help solving a future murder. Shows up, “I need your help. There’s going to be a murder”
+
 Skeleton/corpse shaped dungeon
 
 Dense foliage/fog/whatever obscuring the party from each other - enemy picking them off one by one

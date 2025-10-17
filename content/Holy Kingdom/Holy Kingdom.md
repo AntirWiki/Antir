@@ -28,20 +28,22 @@ The Holy Kingdom, previously referred to only as the Kingdom of Antir, dominated
 - [[Marigold]], a town on the eastern border.
 - [[Crab Cove]], a beach town.
 ## Other
-- [[Silent Woods]], a cursed forest.
+- The [[Silent Woods]], a cursed forest.
 
 # Government
-Historically, the royal family of Antir serves as both the political and religious leaders of the Holy Kingdom. They trace their ancestry back to the leaders of the mortal armies during the Dragon Wars. The royals are served by both priests and landowning nobles, the two factions frequently clashing in attempts to seize more influence. Given their dual leadership over kingdom and faith, the royal administration is often referred to as the "Church and Throne".
+The royal family of Antir serves as both political and religious leaders of the Holy Kingdom. They trace their ancestry back to the leaders of the mortal armies during the Dragon Wars. The royals are served by both priests and landowning nobles, the two factions frequently clashing in attempts to seize more influence. Given their dual leadership over kingdom and faith, the royal administration is often referred to as the "Church and Throne".
 
-The monarchy is currently led by [[The Golden Saint]], am immortal demigod Saint of [[Lumina]] who has ruled for over a century. The Saint rules with a kind hand, but is mostly detached from actual administration - which is handled by lesser members of the Royal Family or royal servants.
+The monarchy is currently led by [[The Golden Saint]], am immortal demigod Saint of [[Lumina]] who has ruled for over a century. The Saint rules with a kind hand, but is mostly detached from actual administration - which is handled by other members of the Royal Family, high ranking priests, and various royal servants.
 
-The Monarch and other members of the royal family are housed in the [[Sunlit Palace]] in the heart of Alturon.
+The Monarch and other members of the royal family live and work in the [[Sunlit Palace]] in the heart of Alturon.
 
 # Environment
 Most of the country does not experience the season of Autumn, due to the events of the [[Black Autumn]] in 1077 BR. Instead, summers and winters are both longer, with a sudden transition between them. The exact point of this transition varies from year to year, which common folklore links to annual battles between [[Spirits#The Fae|fae]] of winter and summer. The southern and western reaches of the country, furthest away from the [[Silent Woods]], experience these effects less drastically with a more gradual transition the further away one gets.
 
+Thanks to help from druids and nature spirits, this loss of a season was not as catastrophic as it could have been. Flora and fauna have adapted - trees drop their leaves all at once when winter strikes, and many animals are able to rapidly enter a hibernation state under the sudden snows, or near-instantly grow their winter coats.
+
 # History
-The Kingdom of Antir was founded in the year 0 BR after the [[Dragon]]s were driven south into [[Taluvhas]]. While it began in the north, around what would become Alturon, it quickly spread to every border of the continent (except, of course, the dangerous and ever-shifting [[Riverlands]]). This began what was known as the "Great Kingdom Era".
+The Kingdom of Antir was founded in the year 0 BR after the [[Dragon|Dragons]] were driven south into [[Taluvhas]]. While it began in the north, around what would become Alturon, it quickly spread to every border of the continent (except, of course, the dangerous and ever-shifting [[Riverlands]]). This began what was known as the "Great Kingdom Era".
 
 During the Great Kingdom era, when a monarch of Antir was to be crowned, they chose which priesthood conducted the ritual. The most common choice was the church of the Lucent, as their message of light and truth tended to be a good image for a potential ruler. [[Cianan of Antir]] was crowned by the priesthood of Raeldan, god of knowledge (a common choice for monarchs cultivating an image of wisdom).
 
