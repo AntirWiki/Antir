@@ -1,6 +1,8 @@
 ---
 tags:
   - country
+aliases:
+  - Holy Kingdom of Antir
 ---
 > [!infobox]
 > ## Holy Kingdom of Antir
@@ -10,7 +12,7 @@ tags:
 > | **Region** | Central/Northern [[Antir]] |
 > | **Size** | Large |
 > | **Capital** | [[Alturon]] |
-> | **Trades** | Agriculture, Forestry |
+> | **Trades** | Agriculture, Forestry, Artisanry |
 > | **Government** | Monarchy |
 > | **Religion** | [[Antiran Pantheon]] |
 
@@ -20,6 +22,7 @@ The Holy Kingdom of Antir is the largest country in [[Antir]], controlling the n
 
 The Holy Kingdom, previously referred to only as the Kingdom of Antir, dominated the entire continent during the Great Kingdom era (except for the ungovernable [[Riverlands]]). Political fractures starting in 1100 BR led to a significant reduction in territory until a series of crusades reclaimed a significant portion of their former lands.
 
+Though the Shining Crusade recently ended, the leaders of the Kingdom still strive to someday rule the entire continent - and perhaps the world. They claim that this will finally bring true peace, a state they call the *pax deorum* - the Peace of the Gods. 
 # Locations
 ## Cities
 - [[Alturon]], the capital city.
@@ -33,7 +36,7 @@ The Holy Kingdom, previously referred to only as the Kingdom of Antir, dominated
 # Government
 The royal family of Antir serves as both political and religious leaders of the Holy Kingdom. They trace their ancestry back to the leaders of the mortal armies during the Dragon Wars. The royals are served by both priests and landowning nobles, the two factions frequently clashing in attempts to seize more influence. Given their dual leadership over kingdom and faith, the royal administration is often referred to as the "Church and Throne".
 
-The monarchy is currently led by [[The Golden Saint]], am immortal demigod Saint of [[Lumina]] who has ruled for over a century. The Saint rules with a kind hand, but is mostly detached from actual administration - which is handled by other members of the Royal Family, high ranking priests, and various royal servants.
+The monarchy is currently led by the [[Golden Saint]], am immortal demigod Saint of [[Lumina]] who has ruled for over a century. The Saint rules with a kind hand, but is mostly detached from actual administration - which is handled by other members of the Royal Family, high ranking priests, and various royal servants.
 
 The Monarch and other members of the royal family live and work in the [[Sunlit Palace]] in the heart of Alturon.
 

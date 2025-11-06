@@ -25,7 +25,7 @@ The Dragon Wars
 - 1100: Magic is declared illegal in the Holy Kingdom. [[Zauberei]] declares its independence, soon followed by [[Catsi Crossing]] in the fae-warped [[Strioc an Athraithe]].
 - 1168: [[Adventurer#The Adventurer's Guild|The Adventurer's Guild]] is founded in [[Dragun Mac Tire]] and quickly spreads across the continent.
 - 1217: [[Blackwing]] declares its independence from the [[Holy Kingdom]], causing the kingdom to shatter into dozens of smaller states.
-- 1270 BR: [[The Golden Saint]] is sanctified, beginning the Shining Crusade. Kingdom armies begin retaking all land north of Blackwing and west of Athraithe.
+- 1270 BR: The [[Golden Saint]] is sanctified, beginning the Shining Crusade. Kingdom armies begin retaking all land north of Blackwing and west of Athraithe.
 
 1352 BR-Present (1372) (Name pending)
 - 1352: The Shining Crusade ends, and borders (except those in the chaotic Athraithe) solidify. Most nations open their borders to one another, and a tentative peace settles over the continent.

@@ -2,7 +2,6 @@
 tags:
   - lore
 ---
-
 _**SOMEWHERE. SOMETIME. NIGHT? DAY? SUMMER? WINTER? SPRING? FRACTALS OF A MESSAGE. THE MOMENT OF YOUR DEEPEST VULNERABILITY.**_ 
 
 _~Flashes of images. Skeletons of leaves. Plants reduced to vasculature upon jagged spikes of wood and flakes of ash. Unsettling pieces of words spoken by something not quite human and stitched together with little regard to sound or structure. A message rickety and wrought with reckless abandon. What does it mean? Is it truth? Is it fallacy? A devil’s temptation… a gods answered prayer? Are you special, or just a victim of circumstance? Is there meaning? Is it a dream? An acute episode of psychosis? An overactive imagination…? It’s hard to tell.~

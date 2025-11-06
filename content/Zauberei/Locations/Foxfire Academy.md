@@ -17,7 +17,7 @@ The university is divided into several schools, each with numerous departments a
 ## Magus College
 The magus college teaches a blend of martial and magical techniques for those with high magical potential but less interest in the academic side of arcana.
 
-The College was a later addition to the university. Before its inception, magi mostly learned in small schools taught by a single master.
+The Magi are the most recent addition to the university. Before the college's inception, magi mostly learned in small schools taught by a single master.
 
 ## School of the Boundary
 The School of the Boundary is a direct continuation of university founder Cianan of Antir's work on animancy, the magic of souls. It also concerns itself with research on [[Spirits]].
@@ -27,6 +27,11 @@ The department of animetrics focuses on the examination and measurement of souls
 
 ### Department of Applied Theology
 Includes all research into gods and the mechanics by which they operate.
+
+## School of Civic Wizardry
+The school of civic wizardry teaches about the practical and grounded uses of magic. Civic wizardry has uses in fields like infrastructure, architecture, and disaster recovery.
+
+The school was originally founded in 954 BR as an independent college in [[Alturon]], but moved to become part of Foxfire some time before the [[Holy Kingdom]] effectively banned arcane magic in 1100 BR.
 
 ## School of Battle Magic
 The school of battle magic is the oldest course of study in Foxfire, hailing back to its days as a war college during the Three Kings War. The battle mages and other students have a mutual disrespect; the other students see battle mages as unintellectual killers, and the battle mages see the other schools as stuck-up cowards.

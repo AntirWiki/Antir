@@ -11,9 +11,14 @@ The northern reaches of the continent are lush wetland and forests with frequent
 # Locations
 [[Manaius]], the arid steppe to the northeast, populated by the nomadic Manaiuud and their famed horses.
 
-%%Near-permanent autumn because of the King - every other season happening over the course of the three weeks surrounding spring equinox
+%%
+# Government
+The entire continent is ruled by the [[Autumn King]].
 
-Noble court of entirely fae
+Each country is overseen by an imperial governor, all of whom are archfae of the Autumn Court. Some of these fae have a nature suited to their post, while others are very ill-fitted to their role. 
+
+# Environment
+Near-permanent autumn because of the King - every other season happening over the course of the three weeks surrounding spring equinox
 
 Bug people
 

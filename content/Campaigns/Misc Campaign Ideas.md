@@ -5,7 +5,7 @@ draft: true
 ---
 Threat so big it's multiple parts with their own initiatives and HP
 
-Walk into a dungeon with dead enemies and unset traps. Once they reach the goal, the enemies revive and traps rearm. Memory challenge
+Walk into a dungeon with dead enemies and unset traps. Once they reach the end, the enemies revive and traps rearm. Memory challenge
 
 Diseases
 

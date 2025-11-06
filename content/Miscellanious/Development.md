@@ -343,6 +343,131 @@ But while the borders change, the people do not. They still have to deal with de
 
 Cat: What kind of folk traditions are alive in Antir? What stories are told around Legion campfires? What festivals are held in Alturon neighborhoods? Who dances in the Zauberan countryside? What rituals are performed in Athraithe groves?
 
+**_TRAVELER WHAT ARE YOU SEARCHING FOR?_**,
+## The Moment Between Awake and Asleep
+Come inside, come inside. 
+Not all is as black and white, good and evil, as this world would lead you to believe. But everything always has a benefit, and a cost. 
+Do not speak too loudly now, lest you attract a beam of The Light. 
+
+You’ve found yourself on the doorstep of Granny NightShade for a reason… one does not seek out the company of hags without a fire lit inside them… grief… valor… revenge…. Come sit and let it ignite my candles.. Together we will seek the best course to snuff it out.
+
+## A Collected Jumble of Visions and Dreams
+Many know of the mortal obsession with documenting all that has been before them. A frantic race to capture every moment bound within paper and ink. A constant humming drive to be remembered. To hope and pray that others learn from their victories, and their mistakes. Books upon books fill libraries and colleges, sit on the coffee tables of the wealthy, and stand protected in a museum’s glass cases. They weave a tale of war and woe, hero and enemy… monsters and men. In beautiful leather they command importance. 
+
+But there is another way that the earth seeks to share her stories. A way that is dirty, rooted to bare feet running in soil…. Stuck to hands in the campfire Ash under commoner fingernails. The first novels were written on the tongue, and distributed by hearth, horse, and firelight. Oral tradition remains persistent, instinctual, and deeply tied to the soul of a social species. It is where the real news is told, honest opinions lay uncut by quill and editorial, and a spark of superstitious belief blazes past all religion and tells its people to believe in god… but to still never turn eye towards the sound of a cry in the woods at night. I believe the last of all stories will be consecrated in such a way that is quite the same. 
+
+My child. A librarian’s job is noble… many answers on how to swing a sword can be found in such a hall…. but I’d recommend a visit to the Matron of Stories and the wind spirits under her care if you truly wish to learn what there truly is to fear and follow in these woods. 
+
+Not all is truly sensible nor sane, but it is the true voices that hum through all people. The internal urge to share and create ritual unconcerned with legacy or destiny. It is an archive both alive and everchanging, just as the beings the spirits listen and collect their tales from. I wish you luck in making out what you can from it. 
+
+Remember to leave the Galesongs an offering on your way out. They may seem to roil and laugh carefree through her cathedral halls… but you would be surprised on how deep into the bones a persistent cold wind can chill.
+
+## A Whisper On The Wind
+_Perhaps hushed tones spoken serious around a Legionnaire campfire? Perhaps not._ 
+
+Fire crackles bright and embers leap out to attack soldiers’ bootstrings. Men sit huddled for warmth, the women in the battalion left hours ago for the tents perhaps filled with too much common sense to continue sitting out in the cold, or resigned from caring much about night watches due to the pointlessness that had begun to fill everyone’s spirits about the tail end of this war. 
+
+The icy wind of this year’s early sudden winter finds the nooks and crannies in their coats and settles in hard. They curse the archfey for their cruel hand over the seasons, and the Autumn King for his betrayal removing the transition from burning to cold. The passing of the air between pine needles seems to laugh back at their halfhearted cries.
+
+Names circle. Head Battle Mage Private Gerrin Fishbone, Navigator Anthurim Tallowclaw, Lead Bannersman Sir Arthur Tinley, Field Medic Calbe Sallow, Horsemaster Hayden Switchwhip… 
+
+Stories are told here, in the dark of night by those who feel far from the warm touch of their religion… or of any religion.. despite the banners with angelic wings stuck proudly into the edges of the campground. People tell childhood tales of mischievous spirits…creatures that look human at first but have sharp claws and bloodshot eyes, stalking the gutters and underbelly of the city at night looking for drunkards to squirrel away…. The shifty deals of hags leading to generational curses… Animals with decomposing skulls for heads that lure people into the woods at night with the cry of a baby or the laugh of a family member…. How to serve god… but use folk remedies to protect against evils with candles, cure coughs with Baneroot, and discourage pests in the grain shed with an old world chant said once every new moon at midnight. They were all different, but similar enough to garner understanding from most soldiers of all walks of life. 
+
+There was one, tale though, that sent a spike of chilled fear into the hearts of everyone on that battlefield, friend or foe. 
+
+Wreathed in hollow white light, driven by restless violence… 
+
+_**The Wraithdrake.**_ 
+
+A massive ghostly dragon that dives in and out of the battlefield fog and storm clouds, swallowing entire battalions whole into thin air. Where did it come from? Why did it seem to plague the campfire stories at the end of the war? There were many theories. Too many war graves dug on the resting place of an ancient drake… an unholy arcana spell fired by a mage for a simple summoning gone horribly wrong…. The work of the spirits… none can say. But there is truth in this. The mysterious disappearance of Platoon 7, Mage outpost 14, and the soldiers driven out of their quartering in the houses of unhappy farmers near the village of Páirc na Mbó. 
+
+The fire blows out. A deep rumbling is heard in the compacted snow. The wind goes silent, pushed from this place. Our story grasps for conclusion, finding only a camp empty in the morning. Footsteps in the powder running into the wastes, impossible spines of ice skewering tents and leaving flags in tatters. The gales slip through holes and fabric gaps, but no bodies are found.
+
+## The Space Between Fevered Breaths
+_Perhaps flashes of heat, flesh, and a desperate dance in the Zauberan countryside? Perhaps not._ 
+
+The wizard city glows in a contained stronghold of multicolored arcane light. It is perhaps the place in Antir most separate from the natural order of flora and fauna, and the magics associated with it. It stands as a proud bastion of the raw power of the Arcane, even to the point of standing separate from the rest of the country’s supporting of wizardry but proud following of divine magics above all. It was the ultimate playground for magical development, and stood as a center for superiority over all other forms of performing what is seemingly miracles and marvels out of thin air. The place was thick with superiority complex over clerical studies, and a deep rooted hatred for and fear of witches. 
+
+That is why the rumors of hags swirl particularly strongly on the wind here. The almost evolution of a witch… somewhere in between an archfey, occult queen, and demigod of spirits… powerful enough to match the strongest mage, wickedly smart, and driven to meddle in the affairs of mortals for naught more than the love of watching the dominoes fall over from the comfort of their thorny wooden thrones. Offering boons to those who seek them or happen to be a poor soul that stumbles into their gnarled grasp. Speaking in riddles, tricks, and double entendres. Coercing people outside of the safe walls of the shut-in city and bringing them to the darkness and high grass coverage of the countryside where the worst of their potion ingredients and runic circles could lie hidden and safe. Where the sky was unprotected and open to the spirits. Drawing in those most desperate, this city always portrays them as a creature most decidedly evil with deals that give brief moments of glorious power, but always end in tragedy for the self and those around them. “Such is the way of natural magics” it was said “a touch from witchy spell work corrupts the body, and the soul. Even long after it is done.” The Holy Kingdom had similar feelings, treating those who happened to be touched by the magic of fey either willingly or by force… the same. As sinners who are given an outward feature that marks their deserved corruption for all to see. After the death of the Witch Queen and the Reign of the Autumn King… natural magics tended to have a small side effect of showing up visually on the body in harmless ways… perhaps extra ears, bull horns, a tail, flowers peppering out of the scalp and through the hair. While beautiful to behold, it was a social nightmare. A mark of weakness in mind or spirit. A lapse in faith or perhaps a lack in the strength to defend it. A sign that other things were perhaps more powerful than the almighty Light. And that was unacceptable. Disgrace to you and your family. It had to be your fault. 
+
+Similar to the wolf mark of old, it was a brand of shame and social outcasting that, unlike that same wolf mark, could be at least outwardly fixed with months of handiwork from a mage or usually a high level priest such as one of the capital’s finest from the High Order of the Angels of Lumina… who were quite busy and unwilling to take on most cases. 
+
+The worst rumor about Hags, however, wasn’t just about mischief and social politics… it was about the fear they had overcome the Shattering. The separation between the divine/arcane magical font…and the source natural magics. The reasons why witches and wizards were evenly matched and remained in neutral and mutual hatred of each other, picking off bits of eachother without the fear of the possibility of another Lichfey beast’s creation….or the a need for a full scale war like the crusades that had just finally ended. 
+
+These beings had figured out a workaround to gaining small bits of arcane prowess without falling victim to the fate that befalls others who try and bridge the gap.. a small amount of either side sampling in the other’s power was nothing more than a curse. Common and expected… it can leave cosmetic effects in the end but nothing more… but when it is at a higher level of power and focus, when the person is truly trying to harness both sources… the surge of incompatible powers vying for hold that detaches meat from bone and leaves the victim in literal pieces…. 
+
+The hags had been said to lure wizards out of the city… force them to learn a high level witch ritual… wait until their body convulses with that conflicting energy… and then eat the meat pieces left of them. Raw and bloody, still twitching. Leaving nothing but a skull that they took back to their huts. Absorbing bits of the arcane power into their already very fey-touched system… it would build up in them slowly enough as they consumed more and more magi for both powers to eventually coexist together. 
+
+Nobody, especially any wizard from the city, had really bothered to go ask a hag if this was truly a practice that they all performed, or if it was just an extremist… or none of them at all. Hags are tricky to seek out, let alone kill… as they will sense your true purpose before you even enter the very edge of a possible fey territory, snap their fingers, and move somewhere else entirely. 
+
+So it remains a rumor. A scary story to keep people obedient within the walls, and scare young magic students into both hating nature from a young age.. and keeping their spell books locked and secrets close. But if you ever run into just a skull somewhere out upon your travels, perhaps walk a little faster and leave it untouched.
+
+## A Moment of Cold Air Before The Cut Wells With Blood
+_Perhaps screamed raw through salted tears on a stone altar in the Athraithe groves? Perhaps not._ 
+
+_Witches.. is that what you expected? Dark and evil ritual held by torchlight and rune circle? Oh, traveler, is there a tale to tell…_
+
+A small farmhouse rests in a valley field on a calm and quiet night. Iron nails hammered into doorways. Salt sprinkled in windowsills. Candles lit in every room ever burning. Arcane sigils mix with angel wings to show a support for the Lumina and a warning to those who follow the spirits. 
+
+A Small Town of No Title, A Daughter of No Name: “Father! We are of great fortune! I have gone to check the cattle and we must have had the sickly calf grow strong, for there is an extra in the herd! I now stand at the feeding trough! A miracle of god, Lumina Bless us! The Light still reaches us this close to the woods!” 
+
+A Small Town of No Title, A Father of No Significance: “GIRL. TO YOUR QUARTERS. I DO NOT CARE FOR THE WATER RATIONS. WASH YOURSELF CLEAN. DID IT TOUCH YOU? DID IT PIERCE YOUR SKIN?” 
+
+A Small Town of No Title, A Second Daughter of Negligible Importance: “Of course you do this now. You’re such a child. You know the darkness is not safe and yet you worry mother and father sick with your incessant tending to the animals. They are tools, not pets. I am tired of your endless drive to run away from Her Light and Protection into the night and get yourself killed by a witch, or worse!”
+
+Daughter: “No father… sister…well it came to me as I called and put its nose gently to my palm.. I felt so special. Like I was one with the animals and they really listened to me. The night was so calm and the trees were silent of their rustling for just a moment. It was beautiful, you just do not understand. I always bring a candle. The light is always with me….. Father I truly did not see any disease I do not see the need to run a bath…” 
+
+Father: “Stupid girl I thought I raised you better. Your sister will take care of you once again. Go draw a bucket from the interior well and boil it. Scrub until it’s raw and we should hope you do not grow leaves or ferns from your skin in the morning. I will go remedy this. The wickedness calls to you child. But I will not let it take you. Do not follow me. If it is truly a gift we shall feast tomorrow in Her name… but it is not. Especially in these times I am sure of it. There are much more important spiritual workings for the Light to grace upon. If I am not back by sunrise, call your mother and my brother at the church and let her know they can open the chest in the attic.”
+
+A drawn bath from cherished resources growing scarce. The sound of boots hitting hardwood. The sharp clicking of an iron crossbow bolt into chamber. Moonlight reflected off of skin slick with sweat. A father storms with purpose. One daughter boils a second pot of water at the furthest room of a house, anointing it with holy oil and lantern ash…. Another daughter slips past and silently follows, dripping water onto a thirsty grass starving and bone dry from a seemingly endless summer. 
+
+A cattle pen stands in the distance, a well worn path from days of hard labor lead to its gates. The crunch of gravel underfoot. The cows stand in a line, near perfect. At the feeding troughs. The father is frantic. Looking at each of them from a distance just out of their reach, arrow tip pointed by a restless trigger finger ready and eager to shoot. He takes the point of the weapon and moves their lips, revealing their teeth one by one. They all seem unaware or apathetic to the threat before them. He moves onto getting a little closer, inspecting the spots on their hides. The daughter peeks around a hay bale the size of her small frame. She is confused. Why rebuke such a gift from god? She was raised on miracles and living on scarcity. Such an extra source of milk and meat should be celebrated! Especially when they struggle so much to continue making a living on the edge of the woods that seems to grow darker every year and absorb the sunlight meant to hit their crop fields. Nobody could prove it, and nobody would talk about it. Especially to someone as young as her. She knew that there was more going on… ghosts? Demons? Witches? Fey? She had heard of such things and the signs of them in town and how to drive them out…. Could this be? 
+
+At that moment. The father yells out. All of the cows are nearly identical, except for one. He turns its face to the sky. The moonlight. It’s swallowed so greedily by the black pupils. No reflection of light bounces back off its eyes. Those big eyes. She could feel the sadness in them. There was something more. Was it something evil hiding in wait? Was it desperation after running away from something worse? She felt it reach out to her…. Driven to move, she emerges from behind the haybale as the Father, unnoticing, screams expletives at the creature for infiltrating his family and plotting their slaughter. Words are heard. “Druid” “Shapeshifter” “Creature Against God” “Cursed With Nature” “Impure and Contagious Sinner”. He does not offer for whatever it is to leave first, he pushes the arrow tip to its forehead. It turns to look directly at the girl and cries out in a guttural human scream. She screams back. The father whips around and pulls the trigger. The arrow hits its mark directly in her chest.
+
+She dies silent. 
+
+The father drops the weapon. The other cows trample away into the safety of the barn. A whisper from the remaining bull. “What have you done.” 
+
+A second sister notices the absence of her ward… and bursts out the front door, just in time to witness the final scene. A cattle standing up on two legs, one arm morphing from hoof to hand, and slicing the Fathers throat with naught but jagged fingernail. A crossbow lays beneath him now christened with his blood. He dies gurgling. Thrown against the hay bale. The thing picks up the body of the younger sister, cradles it in its normal arm as gentle as mother to child, and drags the both of them off into the woods. 
+
+The older sister stayed in the doorway. Was it cowardice, was it proper caution? She would never forgive herself. Word got out quickly. The daughter of the church ensured it. Based on what she saw….The fey and their witches were more than boogeyman stories told to keep children in at night. They were infiltrating families. Spying through the eyes of cat and cattle. Killing innocent children. Taking their bodies into the woods to use for horrible spells and sacrifices to the spirits. Don’t let any animals in your house. Spies and tempters. Check your livestock, keep your pets outside. Be wary of birdsong… look for her light in their eyes before deciding you’re safe. 
+
+Creatures suspected of such nefarious purpose, as well as occasionally those who seem much too eager to defend them… are punished publicly. There is a stone altar in an open square at the edge of the town where the last houses meet the woods. It is built of religious fervor. Perhaps a mockery of witches rituals? Perhaps an earnest proclamation of what is believed to be a proper expression of power given by faith… Dangerously close to the paths that are rumored to lead to Druid groves, hag treehouses, and witches’s huts. the beasts are trialed in front of a crowd, flayed, and served to churchgoers at dinner. Sometimes they are normal, and sometimes they speak in plain common and beg for mercy. It is never given.
+
+## A Zephyr of No Comparison
+_Perhaps a tale spread by pirates? Merchants? Traders and Thieves from somewhere and headed somewhere else. A story spread from shop to ship? Perhaps not._ 
+
+> [!quote] An order tacked to a ship’s mast.
+> Red sky at night, sailors delight. 
+Red sky in the morning, sailors heed warning. 
+A red dress at Port’s evening brings kisses to lips. 
+A red storm at sunset brings Doppelgänger ships.
+
+Do not leave the cabin if a night’s brewing storm reflects the fire of the sun. You do not know the crew members on the ship that pulls up and lays their plank across our deck during a red evening rain. Do not heed their calls to aid in the churning water. You do not know the bodies screaming for help in the water below. Do not go to them. Do not stay above deck. Do not open the door until the rain subsides entirely. Do not look out your windows at the flashes of lightning. Do not listen to any who tell you it has ended and to go continue your work. The captain will ring the bell in his quarters to signify safety, it can be heard through the innards of the ship. If you see or hear a crew member open their door. Write their name on the ledger in your quarters and report it to the captain when safety is called. They cannot be shot, they will not leave at your threatening. It is unsure if they are real at all. They will not take cargo. They will not take weapons. They will not take gold. 
+
+They are not pirates. They are not men of the Crown. They are not men. 
+
+All will pass as it should if these rules are followed. 
+
+The list continues on to give brief warnings about sirens, krakens, raiding ships, rogue waves, and other more corporeal and common dangers of sea travel.
+
+## I. See. You
+I _hear_ you.
+
+**We hear you.** 
+
+Rifling through the howling drafts.
+What does not lie plain to you in the pages of a book? 
+
+_What are you looking for?_ 
+
+The Matron of Stories, Caretaker of the Halls of Eternal Galesong, extends her hand to you.. seeker… to partake more directly in the wonders of her resources. Do not lurk in the shadows, friend. The winds only bite if you ask for their tale yet leave their story unheard. The door is open to all, no matter race nor creed. Come to the archives and listen to the voices of the ancestors… or perchance call upon the breeze for the answers you seek, or the story that wells up in your heart that you seek desperately to tell. 
+
+_You never know who is listening._
+
+**This is not all the folklore of Antir… if a traveler seems to be in need or want of more, they could visit the archive or send a prompt out into the wind in hopes an answer would get delivered by the Matron or her Spirits!**
+
 # **1364**
 %%
 Something has happened beyond the southern mountains. Refugees have been appearing in Blackwing towns and Riverland ports for decades, but now that trickle becomes a flood - and then cuts off entirely. With them, the migrants bring rumors: some dark force has been sweeping through Taluvhas, slaying kings and subjugating nations. The most recent arrivals say that this blighted army has nearly finished sweeping across the continent.

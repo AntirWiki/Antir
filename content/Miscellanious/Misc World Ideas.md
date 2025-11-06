@@ -23,3 +23,8 @@ Man o war fish/shark feeder fish kinda creature - on dragons maybe?
 
 Leshy town
 
+Precentor - one who helps facilitate worship. Translates in celestial to "first singer", as in the leader of a choir
+
+Preceptor - leader of a preceptory, the headquarters of an order of monastic knights. Answerable only to the Grand Master of the order
+
+

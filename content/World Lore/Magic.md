@@ -2,21 +2,22 @@
 tags:
   - lore
 ---
-The planet (or something in it?) sort of naturally emanates magical energy, and the souls of living things subconsciously shape this energy.
+The source of magic is a topic of much debate. Some say that living beings create a steady stream of magic from their souls. Others claim that magic has an outside source, and that the soul is merely a filter that shapes the energy that passes through a being. Either way, magic flows through all living things and is shaped by them - either consciously or, more often, subconsciously.
 
-So animals and plants tend to create animal/plant spirits, since they dont really have the capacity to conceptualize anything else.
+Usually, this energy is "shaped" or "colored" by whatever the being is thinking when it passes through them. This energy then flows into the world, where it either feeds a spirit or, if there are no spirits with the right "shape" nearby, creates an entirely new one.
 
-But for sapient beings. Yknow how people tend to personify things, like how youll say “oh this wind is trying to blow me over”. When people do that their soul subconsciously uses a bit of energy to make that true and spirits are born.
+Plants and animals, having little in the way of imagination, tend to create plant and animal spirits - since they spend most of their time thinking about themselves, their mates, or their food. These spirits usually share the lower intelligence of the beings that feed them.
 
-And when that happens for something more abstract like an ideal (honor, war, death) or a specific superstition, a god comes into being.
+Mortals, however - living beings with higher capacity for thought - have a tendency to personify the things around them. When a person thinks "this wind is trying to blow me over," their soul subconsciously uses a bit of magic to make that thought true - feeding or creating a tempestuous wind spirit. Because of the thoughts that birthed and feed it, such a spirit will likely be antagonistic.
 
-But spellcasters can harness this energy directly. Charisma/wisdom casters can bypass spirits by willing or believing something so firmly that it happens. Wizards, on the other hand, use careful thought patterns and visualization to make specific effects
+When a person thinks about a more abstract ideal - honor, war, death, etc - or a specific superstition, a god comes into being.
 
-Meanwhile casters like witches and maybe druids often do magic by making requests of a spirit/spirits and providing some energy in return as a sort of bargain.
-Some superstitious folk dislike arcane casters because they see arcane magic as taking energy that would otherwise go to the spirits and using it for themselves.
+Some mortal spellcasters can take control of this process, or subvert it altogether. Casters that rely on their personal charisma or wisdom can bypass spirits by willing or believing something so firmly that it happens. Wizards, on the other hand, use careful thought patterns, sigils, and visualization to harness the magic flowing through them for specific effects. Because of this, some superstitious folk dislike arcane casters because they see arcane magic as taking energy that would otherwise go to the spirits and using it for themselves.
+
+Meanwhile, casters like [[Witch|Witches]] and druids do magic by making requests of a spirit or spirits and providing some energy in return as a sort of bargain.
 
 In summary:
-- Primal magic: hey spirit do me a favor?
-- Divine magic: hey god heres magic can i have powers 
-- Occult magic: poking spirits in a specific way to make thing happen
-- Arcane magic: who needs spirits if i think about it hard enough i can use the magic myself 
+- Primal magic asks local spirits for a favor in exchange for magical energy
+- Divine magic is a gift from a god as a reward for dedicated prayer and service 
+- Occult magic manipulates spirits, ghosts, or other cosmic forces in a specific way to make something happen
+- Arcane magic bypasses spirits altogether, taking direct control of one's own magic 

@@ -31,7 +31,7 @@ It is bordered to the north by the [[Great Forest]], to the south by [[Taluvhas]
 # Locations
 The continent is divided into five main regions:
 
-[[Holy Kingdom|The Holy Kingdom of Antir]] in the west, a theocratic monarchy ruled by [[The Golden Saint]] of the goddess [[Lumina]].
+[[Holy Kingdom|The Holy Kingdom of Antir]] in the west, a theocratic monarchy ruled by the [[Golden Saint]] of the goddess [[Lumina]].
 
 [[Strioc an Athraithe]] in the north, a chaotic collection of small nations plagued by uncontrollable fae magic.
 
