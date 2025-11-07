@@ -469,10 +469,8 @@ _You never know who is listening._
 **This is not all the folklore of Antir… if a traveler seems to be in need or want of more, they could visit the archive or send a prompt out into the wind in hopes an answer would get delivered by the Matron or her Spirits!**
 
 # **1364**
-%%
-Something has happened beyond the southern mountains. Refugees have been appearing in Blackwing towns and Riverland ports for decades, but now that trickle becomes a flood - and then cuts off entirely. With them, the migrants bring rumors: some dark force has been sweeping through Taluvhas, slaying kings and subjugating nations. The most recent arrivals say that this blighted army has nearly finished sweeping across the continent.
+Something has happened beyond the southern mountains. Refugees from Taluvhas have been appearing in Blackwing towns and Riverland ports for decades, but now that trickle becomes a flood - and then cuts off entirely. With them, the migrants bring rumors: some dark force has been marching through the southern continent, slaying kings and subjugating nations. The most recent arrivals say that this blighted army has nearly finished sweeping across the entire continent.
 
 Through rumor, spy, and scrying, the truth reaches the ears of Antiran leaders - the centaur clans of Manaius have finally bent the knee. With that, the last independent nation of the southern continent has fallen.
 
 The Autumn King has conquered Taluvhas.
-%%

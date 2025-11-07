@@ -5,9 +5,11 @@ tags:
 draft: true
 ---
 # Intro
-The town of Elmhollow https://antirwiki.github.io/Antir/Strioc-an-Athraithe/Locations/Elmhollow lies in northwestern Athraithe.  Known locally as a haven for unusual folk, it sees all manner of visitors - both witches and wizards have been known to pass through, and even the secluded Minotaur visit to trade.
+The town of [Elmhollow](https://antirwiki.github.io/Antir/Strioc-an-Athraithe/Locations/Elmhollow) lies in northwestern Athraithe.  Known locally as a haven for unusual folk, it sees all manner of visitors - both witches and wizards have been known to pass through, and even the secluded Minotaur visit to trade.
 
-Ten years ago, you were in Elmhollow when something happened you'll never forget. Now, something emerges from the Silent Woods to threaten all of Antir, and only the five of you can stop it. To do so, you'll have to journey across the entire continent - and hope that by the end, you're strong enough to survive.
+Years ago, you and a few others left Elmhollow and ventured into the nearby Silent Woods. You returned from the shadow of that wood intact, but not unchanged. Now, something emerges from those dark trees to threaten all of Antir, and only the five of you can stop it. To do so, you'll have to journey across the entire continent - and hope that by the end, you're strong enough to survive.
+
+(What happened the first time the group went into the Wood? We'll be finding that out during a one-shot/mini-campaign set several years before the main game.)
 
 # Polls
 It's finally almost time to start making characters and planning this campaign, but first I want to set some baselines.
@@ -31,13 +33,13 @@ Now, onto some logistics questions:
 
 Finally, the most important poll:
 
-- You will be leaving Elmhollow and journeying across the continent to hunt down a powerful villain. Why? These are some ideas I had, but if you have other ideas please suggest them! Multiple of these options can be true, and you don't all need to have the same motivation. 
+- You will be leaving Elmhollow and journeying across the continent to hunt down a powerful villain. Why? These are some ideas I had, but if you have other ideas please suggest them! Multiple of these options can be true, and you don't all need to have the same motivation (though shared goals would help with party bonding of course).
 	- Someone important to you is in danger
 	- You have a unique item or secret that can defeat the villain (LOTR style)
 	- Revenge
 	- Duty/Honor
 	- Solving a mystery
-	- Something else (please send a message in # game-chat or DM me to elaborate)
+	- Something else (please send a message here or DM me to elaborate)
 
 # Discussions
 ## Consent

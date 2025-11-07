@@ -28,4 +28,5 @@ The Dragon Wars
 - 1270 BR: The [[Golden Saint]] is sanctified, beginning the Shining Crusade. Kingdom armies begin retaking all land north of Blackwing and west of Athraithe.
 
 1352 BR-Present (1372) (Name pending)
-- 1352: The Shining Crusade ends, and borders (except those in the chaotic Athraithe) solidify. Most nations open their borders to one another, and a tentative peace settles over the continent.
+- 1352: The Shining Crusade ends, and borders (except those in the chaotic Athraithe) solidify. Most nations open their borders to one another, and a tentative peace settles over the continent
+- 1364: The Autumn King completes his conquest of Taluvhas and turns his eyes northwards, towards the destruction of Antir.

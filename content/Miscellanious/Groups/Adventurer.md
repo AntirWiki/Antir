@@ -74,7 +74,7 @@ To the north, the owlfolk – Moondancers, in their own tongue – pushed furthe
 
 Each realm turned inward, consumed by its own crises. Every new catastrophe demanded more resources than the land could provide. The people of Antir – farmers, traders, craftsmen – became forgotten. 
 
-The combined creep of the Silent Woods and the thinning barrier between realms invited all manner of bizarre creatures and even more bizarre forms of devastation. One such region was home to a small village, where twin elven girls lived, unaware that the slow infestation of outside forces would soon shape their destiny. On one terrible night, just as summer was to come to a close, their village was caught in the crossfires of a battle between fae courts –  salvation came in the form of a group of heroes, led by the legendary Corsair Molossus Valerie Bouchard and Scalemaster Darios O’Mael, who fought desperately to drive them back. Though the invaders were repelled, much of the village lay in ruin. The twin girls, now orphaned, had lost everything.
+The combined creep of the Silent Woods and the thinning barrier between realms invited all manner of bizarre creatures and even more bizarre forms of devastation. One such region was home to a small village, where twin elven girls - Rosaline and Kastenia Valentine - lived unaware that the slow infestation of outside forces would soon shape their destiny. On one terrible night, just as summer was to come to a close, their village was caught in the crossfires of a battle between fae courts –  salvation came in the form of a group of heroes, led by the legendary Corsair Molossus Valerie Bouchard and Scalemaster Darios O’Mael, who fought desperately to drive them back. Though the invaders were repelled, much of the village lay in ruin. The twin girls, now orphaned, had lost everything.
 
 The heroes took them in, not just as wards, but as family – guiding them through their grief, training them in the ways of battle and survival, renewing their strength to keep going. And as the twins grew, so too did the fire for adventure in their hearts.
 
@@ -127,3 +127,7 @@ The guilds offered a politically neutral foothold, allowing wizardry to re-enter
 The administration of the Zauberei guilds is, unofficially, seen as an extension of Foxfire Academy itself – with the exception of a few fiercely independent branches that reject affiliation with the institution. Recruitment often favors academy-trained wizards, and non-magical fighters are generally seen as less desirable. Prospective members (even non-magical ones) are typically expected to pass an assessment in arcane knowledge and present a portfolio and/or reference demonstrating prior research or fieldwork experience.
 
 Additional duties include, but are not limited to: Study and documentation of magical peculiarities (creature behavior, artefacts, flora/fauna, environmental anomalies), retrieval and safe containment of cursed or otherwise volatile magical items, arcane cartography and analysis of leyline shifts or arcane turbulences, acting as magical consults to other guilds or regional authorities during crisis.
+
+# Gallery
+![[ValentineParty.png|400]]
+^Guild founders Rosaline and Kastenia Valentine with their companions, often seen as the first modern adventuring party.

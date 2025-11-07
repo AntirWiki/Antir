@@ -7,10 +7,16 @@ Strioc an Athraithe (pronounced "Stree-awk on Arr-ruh-hey" in common Antiran), o
 
 The region's name translates to "The Stripe of Change" in Sylvan. It is unknown who coined the name, but it came into common use some time after the [[Black Autumn]] of 1077 BR.
 
+The region is filled with small kingdoms, city-states, and other small independent nations, since the shifting landscape makes it near impossible for any single authority to hold large amounts of land.
+
 # Locations
 [[Catsi Crossing]], the land of witches.
 
 [[Dragun Mac Tire]], the heart of [[Adventurer#The Adventurer's Guild|The Adventurer's Guild]].
 
+[[Elmhollow]], a small town near the [[Silent Woods]].
+
 # History
 When the Autumn King was banished, and autumn itself was erased, and magic itself was splintered into the primal, arcane, and divine domains, one final effect covered the land, unbeknownst to those who would be most impacted. Stretching from the village of Marigold, where the Autumn King once held court, to Catsi Crossing, where the Witch Queen's heart was buried, formed the Strioc an Athraithe, a region where the barrier between the materium and Tir na Nog had been thinned.
+
+When the [[Holy Kingdom]]'s Shining Crusade reached the borders of the Strioc an Athraithe, they were unable to contend with the thick forests and fae magics. This allowed a loose alliance of small nations to remain independent within Athraithe.

@@ -4,9 +4,9 @@ tags:
   - private
 draft: true
 ---
-A group of thrill-seekers and glory-chasers in the [[Blackwing Legion]] who find, hunt, and kill large creatures and powerful people who are deemed a threat to the safety of [[Blackwing]]. They are mostly active in the mountains along the border with [[Taluvhas]], but have been known to travel up into the desert or east into the [[Riverlands]].
+An irregular unit of thrill-seekers and glory-chasers in the [[Blackwing Legion]] who find, hunt, and kill large monsters that are deemed a threat to the safety of [[Blackwing]]. They are mostly active in the mountains along the border with [[Taluvhas]], but have been known to travel up into the desert or east into the [[Riverlands]].
 
-They are technically under military command, but outside of the typical structure and serve under no superior officer. They are sometimes given targets by high command, but just as often they choose their own hunts.
+They are officially a part of military command, though as an irregular unit they sit outside the usual chain of command. They are sometimes given targets by high command, but just as often they choose their own hunts.
 
 # Members
 
