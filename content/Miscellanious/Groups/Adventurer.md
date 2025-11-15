@@ -130,4 +130,4 @@ Additional duties include, but are not limited to: Study and documentation of ma
 
 # Gallery
 ![[ValentineParty.png|400]]
-^Guild founders Rosaline and Kastenia Valentine with their companions, often seen as the first modern adventuring party.
+^Guild founders Kastenia and Rosaline Valentine with their companions Darien and Luna, often seen as the first modern adventuring party.

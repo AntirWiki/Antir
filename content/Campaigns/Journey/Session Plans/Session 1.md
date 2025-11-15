@@ -4,7 +4,7 @@ tags:
   - private
 draft: true
 ---
-Some unifying figure (Willow's father? idk) suggests that they all gather for a meal, but Juniper is nowhere to be found. They go out to look (eastern edge of town?), and after a short bit they see smoke rising from the town square.
+Some unifying figure (Willow's father? Rai character wife? idk) suggests that they all gather for a meal, but Juniper is nowhere to be found. They go out to look (eastern edge of town?), and after a short bit they see smoke rising from the town square.
 
 NPC is holding back the knight while the party rescues people from burning buildings/zombies (burning zombies? vomit/bleed flame?)
 

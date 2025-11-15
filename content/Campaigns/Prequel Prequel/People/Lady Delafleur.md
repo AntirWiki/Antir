@@ -3,7 +3,7 @@ tags:
   - character
 ---
 > [!infobox]
-> ## Lady Delafleur
+> ## Lady Elena Delafleur
 > ### General Info
 > |  |  |
 > |  ----|  ----|

@@ -9,21 +9,22 @@ draft: true
 ---
 > [!infobox]
 > ## Willow
-> ![[unknown.png|200]]
+> ![[Willo.jpg|200]]
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | ? |
+> | **Ancestry** | Human |
 > | **Age** | ? |
-> | **Gender** | ? |
-> | **Home** | ? |
+> | **Gender** | Female |
+> | **Home** | [[Elmhollow]] |
 > | **Occupation** | Adventurer |
 > | **Status** | Alive |
 > ### Relationships
 > |  |  |
 > | ---- | ---- |
-> | Person | Relation |
-> | Person | Relation |
+> | [[Juniper]] | Sibling? |
+> | [[Thistle Nightingale]] | Childhood friend |
+> | [[Kirturok Stonehoof]] | Family friend |
 
 Summary
 

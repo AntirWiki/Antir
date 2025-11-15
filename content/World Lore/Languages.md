@@ -4,7 +4,7 @@ tags:
 ---
 Below is a list of languages found in and around the continent of [[Antir]] (and their Earth counterparts).
 
-**Antiran** (*English*) - The common tongue of the continent, which has numerous dialects that are mostly inter-intelligible.
+**Antiran/Common** (*English*) - The common tongue of the continent, which has numerous dialects that are mostly inter-intelligible.
 
 **Sylvan** (*Irish*) - Also known as Ancient Antiran, it is the original language of the Antirans; this is what the human and [[halfling]] refugees from the north spoke during the Dragon Wars. Due to their long-lived and unchanging nature, most fae who interact with mortals still speak this language (it was the first one they learned, and they never bothered to learn others).
 

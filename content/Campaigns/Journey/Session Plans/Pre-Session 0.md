@@ -22,15 +22,10 @@ Now, onto some logistics questions:
 	- Yes. More complicated character creation, but more powerful and thematic.
 	- No. Regular character creation. Simpler and easier to keep track of.
 
-- There's a few ways to do weapon/damage powerups, and I wanted to give you guys a choice:
-	- Runes - you choose when to upgrade weapons/armor, and which ones to upgrade. It's more flexible, but if you don't buy or loot runes your weapons and armor will start to get underpowered. This is how it works in Albahr and Shattered Past.
-	- Automatic Bonus Progression - No basic runes, but your character get stronger to compensate. You'll get less money (since you don't have to buy basic runes), but don't have to decide if/when to upgrade weapons.
+I am currently envisioning this as a 12-18 month campaign, that goes from level 1 to 12. How does everyone feel about that?
 
-- How long do we want this to go? This is also tied to what level your characters will reach.
-	- Shorter than Shattered Past, 6 months or less, level 1-5?
-	- Similar length to Shattered Past, 6-12 months, level 1-10?
-	- Longer than Shattered Past, 12 months+, level 1-12+?
-
+If there is anything you want to see during this campaign - themes, scenes, moments, characters - please let me know! (Like last campaign, when y'all told me you wanted a masquerade)
+%%
 Finally, the most important poll:
 
 - You will be leaving Elmhollow and journeying across the continent to hunt down a powerful villain. Why? These are some ideas I had, but if you have other ideas please suggest them! Multiple of these options can be true, and you don't all need to have the same motivation (though shared goals would help with party bonding of course).
@@ -40,7 +35,7 @@ Finally, the most important poll:
 	- Duty/Honor
 	- Solving a mystery
 	- Something else (please send a message here or DM me to elaborate)
-
+%%
 # Discussions
 ## Consent
 TMA consent sheet

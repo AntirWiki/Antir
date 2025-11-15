@@ -12,7 +12,6 @@ draft: true
 > |  ----|  ----|
 > | **Region** | Northeastern [[Antir]] |
 > | **Size** | City-State |
-> | **Capital** | ? |
 > | **Trades** | Hunting, military |
 > | **Government** | Matriarchal Monarchy |
 > | **Religion** | Moon-worship |

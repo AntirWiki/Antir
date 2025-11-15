@@ -11,18 +11,22 @@ The northern reaches of the continent are lush wetland and forests with frequent
 # Locations
 [[Manaius]], the arid steppe to the northeast, populated by the nomadic Manaiuud and their famed horses.
 
-%%
 # Government
-The entire continent is ruled by the [[Autumn King]].
+Though home to several countries, the entire continent is ruled by the court of the [[Autumn King]].
 
-Each country is overseen by an imperial governor, all of whom are archfae of the Autumn Court. Some of these fae have a nature suited to their post, while others are very ill-fitted to their role. 
+Each country is overseen by an imperial governor, all of whom are archfae of the Autumn Court. Some of these fae have a nature suited to their post, while others are very ill-fitted to their role.
+
+Countries are largely left to self-govern, except for those with a particularly capricious governor. All must pay taxes to the Autumn Court, and provide troops to the King's army as it recovers from the losses taken during the conquest of the continent.
 
 # Environment
-Near-permanent autumn because of the King - every other season happening over the course of the three weeks surrounding spring equinox
+The entire continent is trapped in a near-permanent autumn, thanks to the Autumn King's rule. The other three seasons each last ten days, making the month of the Spring Equinox incredibly chaotic.
 
+The ecosystems of Taluvhas have been ravaged by this change, leading to mass extinctions, rapidly changing landscapes, and famine.
+
+%%
 Bug people
 
-Anadi rebels?
+Anadi rebels led by a spider fae (the once-heir of the former Autumn King)
 
 ![[ceremonial fungal mask.jpeg|300]]
 

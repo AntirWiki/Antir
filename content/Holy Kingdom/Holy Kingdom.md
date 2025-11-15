@@ -40,6 +40,8 @@ The monarchy is currently led by the [[Golden Saint]], am immortal demigod Saint
 
 The Monarch and other members of the royal family live and work in the [[Sunlit Palace]] in the heart of Alturon.
 
+The sale of magical goods or services has been banned in the Holy Kingdom since 1100 BR.
+
 # Environment
 Most of the country does not experience the season of Autumn, due to the events of the [[Black Autumn]] in 1077 BR. Instead, summers and winters are both longer, with a sudden transition between them. The exact point of this transition varies from year to year, which common folklore links to annual battles between [[Spirits#The Fae|fae]] of winter and summer. The southern and western reaches of the country, furthest away from the [[Silent Woods]], experience these effects less drastically with a more gradual transition the further away one gets.
 

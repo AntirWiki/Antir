@@ -13,17 +13,18 @@ draft: true
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | ? |
+> | **Ancestry** | Human / Fae |
 > | **Age** | ? |
 > | **Gender** | Non-Binary (They/Them)|
-> | **Home** | ? |
+> | **Home** | [[Elmhollow]] |
 > | **Occupation** | Adventurer |
 > | **Status** | Alive |
 > ### Relationships
 > |  |  |
 > | ---- | ---- |
-> | Person | Relation |
-> | Person | Relation |
+> | [[Willow]] | Childhood Friend |
+> | [[Juniper]] | Childhood Friend |
+> | [[Kirturok Stonehoof]] | Father figure |
 
 Summary
 

@@ -1,6 +1,8 @@
 ---
 tags:
   - god
+aliases:
+  - Verax
 ---
 > [!infobox]
 > ## Verita
@@ -30,6 +32,15 @@ tags:
 Verita is a goddess of light, truth, and purity worshipped mainly in [[Blackwing]]. She was once an aspect of the goddess Lucent until the schism between Verita and [[Lumina]] tore the goddess in two.
 
 Verita is the patron goddess of Blackwing, and her church there has a significant role in the nation's government.
+
+Her worshippers are known as the **Verax**, the Celestial word for "truthful".
+
+# Worship
+Verita's worshippers believe that she is not the only god - as others demonstrably exist, and hiding their nature would be an untruth  - but that she is the only one worthy of worship.
+
+Her followers believe that from her realm in Elysium, Verita wages constant war with the other gods. Eventually, they say, she will destroy all those unworthy of divinity and stand as the only god. The Verax believe that when they die, their souls go to Elysium to join this war.
+
+Verax temples are usually constructed of glass and white marble, which represent truth and purity. They are often built as tall pointed towers, with larger cathedrals having several such spires.
 
 # History
 ## Lucent's Schism

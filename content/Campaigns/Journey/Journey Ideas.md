@@ -4,20 +4,20 @@ tags:
   - journey
 draft: true
 ---
-Level 10 party final encounter: a level 13 and two level 8s
-Party level 7: 10 and two 5s
-[Cursed King](https://2e.aonprd.com/Monsters.aspx?ID=2405) for the boss?
+Level 10 party final encounter: a level 13 and two level 8s - [Weak Graveknight Warmaster](https://2e.aonprd.com/Monsters.aspx?ID=1869&Weak=true&NoRedirect=1) for the boss?
+Party level 7: 10 and two 5s - [Cursed King](https://2e.aonprd.com/Monsters.aspx?ID=2405) for the boss?
 
 Make initiative trackers for top of GM screen
+
+Being tested by a high level Blackwing general to see if they're ready to fight the King. Maybe even THE general, and the goal is just to land a single blow (his HP represents near-misses)
 
 UNIQUE ENCOUNTER GOALS. NOT JUST KILLING THE ENEMY!
 
 [[V-BOOTH]]
 
-CHILDREN'S ADVENTURE
+CHILDREN'S ADVENTURE 
 
 Party member arrested and jailed for dumb reason
-
 
 Weather challenges (Being in the holy kingdom when winter hits?)
 
@@ -27,7 +27,7 @@ A large city flooded with refugees from the Autumn King’s onslaught. Condition
 
 Travel across/down a big river (giant catfish? River drake?)
 
-Marigold Village/Silent Woods - plant zombies (Autumn King influence) (flowers blooming from their eyes, petals falling like tears) (wisdom’s familiar gained a taste for blood and had to be put down)
+Marigold Village - Kyrillos' old domain, now full of wilted flowers, is reawakening and spitting out plant zombie monsters?
 
 Weird elf stuff (old elves with weird projects/hobbies)
 

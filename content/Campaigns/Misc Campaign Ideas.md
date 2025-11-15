@@ -5,11 +5,13 @@ draft: true
 ---
 Threat so big it's multiple parts with their own initiatives and HP
 
+Dungeon where you can't touch the enemies (but they can hurt you) so you have to run through it, then at the end there a switch or items or blessing or whatever that lets you fight back
+
 Walk into a dungeon with dead enemies and unset traps. Once they reach the end, the enemies revive and traps rearm. Memory challenge
 
 Diseases
 
-Oracle who asks for help solving a future murder. Shows up, “I need your help. There’s going to be a murder”
+Oracle who asks for help solving a future murder. Shows up, “I need your help. There’s going to be a murder” (They're the victim?)
 
 Skeleton/corpse shaped dungeon
 
@@ -30,5 +32,3 @@ Group of enemies/monsters where one is a “spotter”/watcher that doesnt reall
 Tactical pole vaulting
 
 Conclave
-
-Diseases

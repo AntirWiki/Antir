@@ -1,7 +1,6 @@
 ---
 tags:
   - country
-  - incomplete
 ---
 > [!infobox]
 > ## Blackwing

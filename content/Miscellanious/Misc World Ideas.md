@@ -5,7 +5,7 @@ draft: true
 ---
 Gnome business magnate/noble who's bleaching but can't let go of their position/power
 
-Dragon who considers national economy their hoard 
+Dragon king of a small athraithe kingdom who considers national economy their hoard 
 
 Devil of laws. What is society but one big transactional relationship - don't kill me and I won't kill you. The social contract
 

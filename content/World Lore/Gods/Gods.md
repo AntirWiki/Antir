@@ -7,4 +7,8 @@ Gods in this world are less clear-cut than one may think. The difference between
 
 The spirits revered as Gods typically reside in [[Tir na Nog#Elysium|Elysium]], alongside their servants the [[Tir na Nog#Celestials|Celestials]]. However, many great spirits from other planes are revered as Gods as well.
 
+People of the [[Holy Kingdom]] mainly worship the members of the [[Antiran Pantheon]], especially [[Lumina]], goddess of light and mercy.
+
+The state religion of [[Blackwing]] worships [[Verita]], goddess of truth and light.
+
 [[Orc]] communities worship famous Orcs from history as hero-gods, with the belief that any orc who surpasses an existing god's accomplishments - or excels in a whole new way - will join the pantheon upon their death.

@@ -2,13 +2,20 @@
 tags:
   - location
 ---
+>[!caption|right]
+>
+>![[Foxfire.png]]
+>The symbol of Foxfire Academy, a blue geometric fox on silver
+
 Foxfire Academy is an institution of arcane education in the heart of [[Zauberei]]. It is the largest university of its kind in [[Antir]].
 
 # People
 Following the tradition of its founders, the university is led by two individuals:
+
 The Archmage, the most gifted wizard in the university, leads research efforts and contains unruly magic and mages.
 - Currently [[Amalia Varazs]], a half-orc woman from [[Blackwing]]
-The Headmaster, a trusted associate of the Archmage, handles bureaucratic administration.
+  
+And the Headmaster, a trusted associate of the Archmage, handles bureaucratic administration.
 - Currently [[Miriam Varazs]], sister to Archmage Amalia.
 
 # Organization
