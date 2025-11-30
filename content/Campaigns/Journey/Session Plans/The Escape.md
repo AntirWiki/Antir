@@ -1,3 +1,11 @@
+---
+tags:
+  - private
+  - journey
+draft: true
+---
+
+
 GUARDIAN
 
 You have seen me kneel. You cannot be allowed to live. As your final boon, I shall grant you a head start. 
