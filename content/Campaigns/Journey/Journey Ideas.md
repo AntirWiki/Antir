@@ -7,6 +7,12 @@ draft: true
 Level 10 party final encounter: a level 13 and two level 8s - [Weak Graveknight Warmaster](https://2e.aonprd.com/Monsters.aspx?ID=1869&Weak=true&NoRedirect=1) for the boss?
 Party level 7: 10 and two 5s - [Cursed King](https://2e.aonprd.com/Monsters.aspx?ID=2405) for the boss?
 
+SPAWN for final final Kyrillos fight
+
+After defeating (kyrillos-possessed Autumn King?) the king offers them each a boon
+
+“And for your final boon, I shall grant you… a head start.” He drops a leaf, which begins to float to the ground with agonizing slowness. GUARDIAN plays, and the escape from the castle begins
+
 Make initiative trackers for top of GM screen
 
 Being tested by a high level Blackwing general to see if they're ready to fight the King. Maybe even THE general, and the goal is just to land a single blow (his HP represents near-misses)

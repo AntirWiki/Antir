@@ -6,6 +6,10 @@ Minotaur are cow-like beastfolk native to the mountains north of [[Antir]]. They
 
 %%
 Minotaurs are cursed with paranoia, and a feeling of never being safe. This is why they build mazes and traps and are constantly moving. Even in the mazes, they don't keep still, they are constantly maneuvering through the mazes, as a way to stay safe from, whatever it is they may be in danger from.
+
+While they do maintain and form relationships needed for a society to exist, it is only with those closest relationships (namely immediate family) that they generally feel comfortable putting any confidence. This extends to always needing to hide, to move, to obscure. 
+
+Side effects first set in after a minotaur has stayed in the same location for a few days. It materializes first as nightmare, vague impressions of fear plaguing their sleep. It shortly after progresses to more violent night terrors, with the minotaur shrieking and thrashing in their sleep as the effects increase.
 %%
 
 # Undermazes
