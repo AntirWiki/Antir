@@ -25,6 +25,8 @@ draft: true
 > | [[Willow]] | Childhood Friend |
 > | [[Juniper]] | Childhood Friend |
 > | [[Kirturok Stonehoof]] | Father figure |
+> | [[Kuruk]] | Father |
+> | [[Yarrow Nightingale]] | Mother |
 
 Summary
 

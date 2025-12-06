@@ -20,6 +20,16 @@ tags:
 
 Blackwing is a desert nation in southern Antir, ruled by the military of the [[Blackwing Legion]] and the priests of [[Verita]], goddess of truth.
 
+It shares a northern border with the [[Holy Kingdom]], and a mountainous southern border with [[Taluvhas]]. The [[Archipelago]] lies in the bay beyond its eastern coast.
+
+# Locations
+The [[Great Gates]], a pair of dunes whose valley hosts the Godsbone mines.
+
+# People
+%%
+- [[Amelia Bouchard]], High Minister of Trade
+%%
+
 # Government
 Blackwing is led by three bodies:
 
@@ -27,7 +37,7 @@ The [[Blackwing Legion]], the largest and most powerful group, is the nation's m
 
 The church of [[Verita]], led by the Highpriest, advises the High General and performs some bureaucratic duties.
 
-The Ministry of Trade, led by the High Minister, controls commerce within the nation and its exports. The High Minister reports to a board, from which a new minister is chosen each decade.
+The Ministry of Trade, led by the [[Amelia Bouchard|High Minister]], controls commerce within the nation and its exports. The High Minister reports to a board, from which a new minister is chosen each decade.
 
 ## The Vultrite Precepts
 The roles and leadership of each body are governed by a set of rules known as the **Vultrite Precepts**, written by the nation's founder Augustine "Boneeater" Blackwing:
@@ -54,8 +64,21 @@ Creature that phases out to avoid heat
 In the savannahs - plants that, when present in large enough quantities, use magic to combust and spread seeds
 %%
 
-# Locations
-The [[Great Gates]], a pair of dunes whose valley hosts the Godsbone mines.
+# History
+**946 BR**
+During the [[Three Kings War]], the militaries of southern Antir rose up under the banner of [[Lasairian of Antir|Lasairian the Drake]]. They were eventually defeated when Lasairian was killed by his brothers, and rejoined the rest of the great kingdom.
 
-# People
+**1217 BR**
+Boots march through salt and sand and another campaign begins in the deserts of the south. Raids from [[Taluvhas]] have begun anew with unprecedented ferocity.
 
+As the Antiran soldiers march to respond, they question: Why attack a desert with no resources to claim? Is it just old grudges, resentment over ancient Antirans pushing dragons into their lands? Could it be related to rumors that the [[Autumn King]] has appeared among the Taluvs? Regardless of the answers, war has come to their doorstep once more, and the desert must answer the call.
+
+They receive calls from the [[Alturon|capital]], too. As [[Zauberei]] and [[Catsi Crossing]] pass a century of independence, northern nobles, mayors, and other local powers begin to question their own allegiance to the crown. Spread thin in a historically peaceful north, and losing ground to the [[Silent Woods]] and monster attacks, royal troops struggle to maintain authority - especially as towns begin relying on adventurers, not royal guards, for protection. The armies of the south are called upon for reinforcements.
+ 
+On the desks of southern generals, these polite requests for aid lie unanswered. So do the following angry demands for troops. And the eventual accusations of treasonous disobedience. Eventually, the monarchy receive their response:
+
+"No."
+
+The armies of the south have more pressing issues than northern squabbles, and will no longer take orders from distant nobles. They turn their faces to the real threats to the continent, and turn their backs on the Holy Kingdom of Antir. The desert no longer belongs to the Church and Throne, and its children will forge their own path to the future.
+
+The country declared its independence and the first High General, Augustine "Boneeater" Blackwing, penned the Vultrite Precepts that still guide the nation and its people to this day.

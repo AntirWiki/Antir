@@ -23,6 +23,7 @@ tags:
 > | [[Darios O'Mael]] | Companion |
 > | [[Ninyva O'Niamh]] | Friend |
 > | [[Yvonne Silvershield]] | ? |
+> | [[Amelia Bouchard]] | Sister |
 
 *-Of Bloody Fist and Brutal Heart-*
 
@@ -102,7 +103,7 @@ Lady Valerian Aster Bouchard: Elder sister
 
 Sir Alden Violet Bouchard : Elder Brother
 
-Miss Amelia Verbena Bouchard : Younger Sister
+Miss [[Amelia Bouchard|Amelia Verbena Bouchard]] : Younger Sister
 
   
 Ryder “Scrappy” Dawnwood: Friend and sparring partner

@@ -29,7 +29,7 @@ Ninyva "Nini" O'Niamh is the former Wisdom of [[Catsi Crossing]], [[Witch|Witch]
 
 # General Nini Backstory
 
-Ninyva O’Niamh was born 16 years before the 3 Kings War started. At the age of 10, she began apprenticing under the Wisdom of Catsi Crossing, Siobahn O’Breislein. At the time, Siobahn was 46. Note, in Catsi Crossing, and many other villages in central Antir, it is customary that the apprentice to the village Wisdom typically serves as apprentice until after she has reached the age of 40, she has raised a child, or the previous Wisdom dies, whichever happens first. 
+Ninyva O’Niamh was born 16 years before the [[Three Kings War]] started. At the age of 10, she began apprenticing under the Wisdom of Catsi Crossing, Siobahn O’Breislein. At the time, Siobahn was 46. Note, in Catsi Crossing, and many other villages in central Antir, it is customary that the apprentice to the village Wisdom typically serves as apprentice until after she has reached the age of 40, she has raised a child, or the previous Wisdom dies, whichever happens first. 
 
 Catsi Crossing was located near to a well trafficked bridge. The villagers were very used to travelers. So, when [[Faolan of Antir|the Wolf]]’s army came to town during the first year of the war, the town was apprehensive if not surprised. The Wolf, in his ambition and arrogance, insisted that Catsi Crossing and every other village in the area swear fealty to him and support him in the war effort. Siobahn, as a leader of the village and ever the stalwart, stubborn curmudgeon, all but kicked the prince and his army out, informing that Catsi Crossing has and always will be independent of “the messy chaos of monarchal life”. 
 

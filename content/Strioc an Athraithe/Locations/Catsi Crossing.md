@@ -20,14 +20,13 @@ It is also the center of the fae energies that permeate Strioc an Athraithe. The
 
 The city is made up of colorful stone and wood buildings, windmills, and various buildings for coven activities.
 
-# Government
-Catsi Crossing is led by the Catsi Coven, who meet in full once per decade in the town to direct the primal casters of Antir.
-
 # Locations
 The **Hall of Synod**, one of the largest buildings in the town, is the meeting place of all Antir's witches during their decennial gatherings.
 
 # People
 
+# Government
+Catsi Crossing is led by the Catsi Coven, who meet in full once per decade in the town to direct the primal casters of Antir.
 
 # History
 ## The Three Kings War

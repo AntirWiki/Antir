@@ -4,18 +4,17 @@ tags:
   - journey
 draft: true
 ---
-Quest supervised by guild member to gain entry
+[[Guild Intro]]
 
-Night attack by undead hunter/hunters. Mini quest to identify them and report to nearby town (some identifying token/charm? Hunters guild/soln church?)
+Night attack by undead hunter/hunters who were killed and risen by Juniper. Mini quest to identify them and report to nearby town (some identifying token/charm? Hunters guild/soln church?)
 
 Party escorting people between locations
 
 Loss of supplies from animals/bandits/disaster, threat of starvation ([[Food Hoard]])
 
-[[Charlatan]] A wandering “prophet”/“healer” who has collected a procession of followers - maybe installed themselves in a small town or village. Maybe using the Autumn Lord’s power, some other nefarious force, cantrip level magic tricks, or pure grifting ability.
-	Getting power from Wilted Lord, heals people temporarily then they wither, has secretly killed his first victim to hide this
+[[Charlatan]] 
 
-Quest to learn how to do exorcisms (teach them how to save the lost friend). Escort a priest 
+Quest to learn how to do exorcisms (teach them how to save the lost friend). Escort a priest/demon hunter [[Dispossession]]
 
 Getting unknowingly incorporated into a smuggling operation
 

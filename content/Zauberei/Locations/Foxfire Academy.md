@@ -13,10 +13,10 @@ Foxfire Academy is an institution of arcane education in the heart of [[Zauberei
 Following the tradition of its founders, the university is led by two individuals:
 
 The Archmage, the most gifted wizard in the university, leads research efforts and contains unruly magic and mages.
-- Currently [[Amalia Varazs]], a half-orc woman from [[Blackwing]]
+- Currently [[Irina Varazs]], a half-orc woman from [[Blackwing]]
   
 And the Headmaster, a trusted associate of the Archmage, handles bureaucratic administration.
-- Currently [[Miriam Varazs]], sister to Archmage Amalia.
+- Currently [[Miriam Varazs]], sister to Archmage Irina.
 
 # Organization
 The university is divided into several schools, each with numerous departments and specialties.

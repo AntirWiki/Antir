@@ -15,15 +15,16 @@ draft: true
 > | **Trades** | Hunting, military |
 > | **Government** | Matriarchal Monarchy |
 > | **Religion** | Moon-worship |
-# Summary
+
+Ancestral enemies of the [[Hallit]], competing for resources in the northern mountains.
 
 # Locations
-
-# Government
-Matrilineal Religious Monarchy
 
 # People
 [[Moondancer]]
 
-Ancestral enemies of the [[Hallit]], competing for resources in the northern mountains.
+# Government
+Matrilineal Religious Monarchy
+
+
 

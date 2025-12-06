@@ -21,9 +21,6 @@ The town is known to have an active nightlife, but this is restricted to the bus
 
 The city attracts butterflies and moths en masse. The reason is unknown, but scholars theorize it is likely fae-related.
 
-# Government
-The city is run by a council of Guildhearts (senior members of the Guild), led by guild founders Rosaline and Kastenia Valentine. The founders rarely take direct interest in the town's administration.
-
 # Locations
 **The Adventurer's Guild Headquarters**
 
@@ -35,6 +32,9 @@ Markets across the city advertise to travelers and adventurers alike, offering t
 
 # People
 **Rosaline and Kastenia Valentine** - Founders of the guild. The sorcerous twins still lead the organization, but have not made a public appearance in many years.
+
+# Government
+The city is run by a council of Guildhearts (senior members of the Guild), led by guild founders Rosaline and Kastenia Valentine. The founders rarely take direct interest in the town's administration.
 
 # History 
 **1168 BR**

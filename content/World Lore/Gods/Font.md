@@ -27,7 +27,7 @@ aliases:
 > | **Favored Weapon** | ? |
 > | **Cleric Spells** | ? ? ?|
 
-Formerly a spirit of life and sibling to the God of [[Death]]. Not worshipped as a god by their followers, but as a gentle hand and mother into life. Referred to as Mother Font. Depictions of her appear as a resplendent, golden mare. Associated imagery: The Sun, cradles, travelers, new businesses. 
+Formerly a spirit of life and sibling to the God of [[World Lore/Gods/Death]]. Not worshipped as a god by their followers, but as a gentle hand and mother into life. Referred to as Mother Font. Depictions of her appear as a resplendent, golden mare. Associated imagery: The Sun, cradles, travelers, new businesses. 
 
 Now corrupted by the demon [[Athanasius]] over a period slightly over a hundred years. Post corruption: A spirit linking the [[Spirits#Demons|Demons]] of the abyss to those with Fontian blood. She suffers under demonic influence, and [[Demon Hunter|Demon Hunters]] throughout Antir wish to see her redeemed and golden again.
 

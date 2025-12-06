@@ -3,7 +3,7 @@ tags:
   - lore
   - story
 ---
-Wynn was nine years old when they first saw [[Death]].
+Wynn was nine years old when they first saw [[World Lore/Gods/Death]].
 
 They were at their grandmother's bedside, holding her hand as she shared her last words with Wynn's mother. Wynn looked out the window to their family ranch, and saw a beast unfamiliar to them. Pale white flanks and an equally colorless mane stood out from the roan mares kept by their family. They swear that the horse made eye contact with them as they looked out the window, but before they could react, a soft gasp left their grandmother's mouth as she left this world. When Wynn turned back to the window, the strange creature was gone.
 

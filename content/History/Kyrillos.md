@@ -38,7 +38,7 @@ In 953 BR his tomb was discovered and unsealed by [[Yvonne Silvershield]], who s
 [[Ninyva O'Niamh]], refusing to allow Cianan the power of lichdom, made a deal with the Lord of Gilded Leaves (the archfae who would become the Autumn King). The fae took Kyrillos' soul captive, and re-wrote the book into a tome of plant-inspired soul magic.
 
 ## The Autumn King
-*From recovered manuscript of “The Hærfest Affairs”*:
+*From recovered manuscript of “[[The Haervest Affairs|The Hærfest Affairs]]”*:
 
 Kyrillos, Master of Whispers, was an expert in seizing opportunities. If no way forward was presented to him, he’d gladly open doors for himself by reaching through others to turn the handle. One does not become a Lich without the perfect storm of combination of a wisened scholar’s immense drive to push onward, and a failed, ignorant youth’s complete disregard for the consequences of your actions on other people. Unfortunately, it was that same coincidental gale of traits that led him into the ambitious hands of Ninyva O’Neave, and later the impulsive, short-sighted council of the Lord of Gilded Leaves.
 
