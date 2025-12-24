@@ -10,11 +10,12 @@ The Era of the [[Drakos Empire]]
 The Lost Empire Era
 - The Drakos Empire collapses and its people are driven to extinction. The dragons remain, ruling over a continent mostly devoid of mortals except their Kobold servants, the subterranian goblinoids, and the secluded beastfolk.
 
-The Dragon Wars
-- A large group of humans, elves, dwarves, and halflings from the [[Valley of Cold Sun]] migrate south through the [[Great Forest]] and encounter the dragons. After decades of brutal conflict, the persistence, adaptability, and group coordination of the Antirans lets them drive the dragons over the southern mountains and into [[Taluvhas]].
+The Dragon Wars 
+- A large group of humans, [[Elf|Elves]], [[Dwarf|Dwarves]], and [[Halfling|Halflings]] fleeing [[Avhalae]] migrate south through the [[Great Forest]] and encounter the dragons. After decades of brutal conflict, the persistence, adaptability, and group coordination of the refugees lets them drive the dragons over the southern mountains and into [[Taluvhas]].
 
 0 - 1099 BR The Great Kingdom Era
 - The Kingdom of Antir is founded, and quickly spreads across the entire continent. 
+- Other peoples begin arriving in Antir, such as the beastfolk, [[Hallit]], and [[Skell]] from the outskirts, and the goblins from below ground.
 - 946-953: The [[Three Kings War]] is fought between brothers [[Lasairian of Antir|Lasairian]], [[Faolan of Antir|Faolan]], and [[Cianan of Antir]]. Cianan emerges victorious but with poor support.
 - 953: Remnants of Lasairian's army undermine the kingdom, culminating in the [[Alturon#Siege of 953|Siege of Alturon]]. They are stopped by [[Tooth and Claw]].
 - 960: Cianan abdicates the throne to his sister [[Aisling of Antir]], who unifies the church of Lucent and the Antiran throne.
