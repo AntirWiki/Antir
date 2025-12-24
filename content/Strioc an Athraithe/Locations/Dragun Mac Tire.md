@@ -36,6 +36,10 @@ Markets across the city advertise to travelers and adventurers alike, offering t
 # Government
 The city is run by a council of Guildhearts (senior members of the Guild), led by guild founders Rosaline and Kastenia Valentine. The founders rarely take direct interest in the town's administration.
 
+%%
+# Geography
+%%
+
 # History 
 **1168 BR**
 The combined creep of the Silent Woods and the thinning barrier between realms invited all manner of bizarre creatures and even more bizarre forms of devastation. One such region was home to a small village, where twin elven girls lived, unaware that the slow infestation of outside forces would soon shape their destiny. On one terrible night, just as summer was to come to a close, their village was caught in the crossfires of a battle between fae courts –  salvation came in the form of a group of heroes, led by the legendary Corsair Molossus Valerie Bouchard and Scalemaster Darios O’Mael, who fought desperately to drive them back. Though the invaders were repelled, much of the village lay in ruin. The twin girls, now orphaned, had lost everything.

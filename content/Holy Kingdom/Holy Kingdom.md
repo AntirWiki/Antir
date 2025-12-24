@@ -16,14 +16,15 @@ aliases:
 > | **Government** | Monarchy |
 > | **Religion** | [[Antiran Pantheon]] |
 
-%%PUT A BIG OL MAP HERE%%
+The Holy Kingdom of Antir is the largest country in [[Antir]], controlling the northwest and central regions of the continent. It is a religious monarchy, its leaders and the majority of its people faithfully serving the [[Antiran Pantheon]] of gods, especially [[Lumina]], goddess of light. 
 
-The Holy Kingdom of Antir is the largest country in [[Antir]], controlling the northwest and central regions of the continent. It is a religious monarchy, its leaders and the majority of its people faithfully serving the [[Antiran Pantheon]] of gods, especially Lumina, goddess of light. 
-
-The Holy Kingdom, previously referred to only as the Kingdom of Antir, dominated the entire continent during the Great Kingdom era (except for the ungovernable [[Riverlands]]). Political fractures starting in 1100 BR led to a significant reduction in territory until a series of crusades reclaimed a significant portion of their former lands.
+The Holy Kingdom, previously referred to only as the Kingdom of Antir, dominated the entire continent during the Great Kingdom era (except for the ungovernable [[Riverlands]]). Political fractures starting in 1100 BR led to a significant reduction in territory until a series of crusades - known collectively as the Shining Crusade - reclaimed the lands they hold today.
 
 Though the Shining Crusade recently ended, the leaders of the Kingdom still strive to someday rule the entire continent - and perhaps the world. They claim that this will finally bring true peace, a state they call the *pax deorum* - the Peace of the Gods. 
+
+The Holy Kingdom is bordered to the east by the chaotic [[Strioc an Athraithe]], to the south by the militaristic [[Blackwing]], and to the north by the enigmatic [[Great Forest]].
 # Locations
+![[Kingdommap.png|right|500]]
 ## Cities
 - [[Alturon]], the capital city.
 - [[Collach]], a hunting town south of Alturon.
@@ -32,6 +33,10 @@ Though the Shining Crusade recently ended, the leaders of the Kingdom still stri
 - [[Crab Cove]], a beach town.
 ## Other
 - The [[Silent Woods]], a cursed forest.
+
+%%
+# People
+%%
 
 # Government
 The royal family of Antir serves as both political and religious leaders of the Holy Kingdom. They trace their ancestry back to the leaders of the mortal armies during the Dragon Wars. The royals are served by both priests and landowning nobles, the two factions frequently clashing in attempts to seize more influence. Given their dual leadership over kingdom and faith, the royal administration is often referred to as the "Church and Throne".
@@ -42,7 +47,7 @@ The Monarch and other members of the royal family live and work in the [[Sunlit 
 
 The sale of magical goods or services has been banned in the Holy Kingdom since 1100 BR.
 
-# Environment
+# Geography
 Most of the country does not experience the season of Autumn, due to the events of the [[Black Autumn]] in 1077 BR. Instead, summers and winters are both longer, with a sudden transition between them. The exact point of this transition varies from year to year, which common folklore links to annual battles between [[Spirits#The Fae|fae]] of winter and summer. The southern and western reaches of the country, furthest away from the [[Silent Woods]], experience these effects less drastically with a more gradual transition the further away one gets.
 
 Thanks to help from druids and nature spirits, this loss of a season was not as catastrophic as it could have been. Flora and fauna have adapted - trees drop their leaves all at once when winter strikes, and many animals are able to rapidly enter a hibernation state under the sudden snows, or near-instantly grow their winter coats.

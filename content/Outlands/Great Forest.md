@@ -8,6 +8,9 @@ The deeper one travels into the Forest, the lower the ground elevation becomes. 
 
 It is said that the flora and fauna in the deep forest grow to a similar scale as the trees, making travel through the wood incredibly hazardous. 
 
+# Geography
+[Mandragora](https://2e.aonprd.com/Monsters.aspx?ID=727)
+
 # History
 In ancient times the people of Antir are said to have traveled through the forest while fleeing the Valley of Cold Sun. Oral histories document a terrible loss of life during this journey, to a degree that the refugees chose to fight [[Dragon|Dragons]] to seize the lands of Antir rather than settle in the Great Forest.
 

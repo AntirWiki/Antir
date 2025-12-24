@@ -11,9 +11,9 @@ tags:
 > |  |  |
 > |  ----|  ----|
 > | **Ancestry** | [[Elf]] / [[Moondancer]] |
-> | **Age** | 16 (circa. 942) |
-> | | 17-19 (circa. 944)|
-> | | 26-28 (circa. 953) |
+> | **Age** | 16 (in 942) |
+> | | 18 (in 944)|
+> | | 27 (in 953) |
 > | **Gender** | Male (he/him) |
 > | **Home** | [[Zauberei]] |
 > | **Occupation** | Royal Steward, Royal Consort, Headmaster |
@@ -24,17 +24,17 @@ tags:
 > | [[Cianan of Antir]] | Husband |
 > | [[Zella Brightflower]] | Mother (adoptive)|
 
-West Hemlocke was the assistant headmaster of [[Foxfire Academy]] from 965-989. He was the bodyguard, sole confidant, and eventually husband of King [[Cianan of Antir]]. He was a member of the adventuring group [[Tooth and Claw]]. 
+West Hemlocke was the assistant headmaster of [[Foxfire Academy]] from 965-989 BR. He was the bodyguard, sole confidant, and eventually husband of King [[Cianan of Antir]]. He was a member of the adventuring group [[Tooth and Claw]]. 
 
-Despite Cianan of Antir's tarnished reputation as king, the duo had a formidable partnership, with Cianan's magical prowess complementing Hemlocke's physical strength to quell most political unrest. However, their reign remained unpopular among many, despite the pair's pivotal role in saving Alturon from the threat of the dragon known as [[Dilitrius]] in ~953 BR.
+Despite Cianan's tarnished reputation as king, the duo had a formidable partnership, with Cianan's magical prowess complementing Hemlocke's physical strength to quell most political unrest. However, their reign remained unpopular among many, despite the pair's pivotal role in saving Alturon from the threat of the dragon [[Dilitrius]] in ~953 BR.
 
 Historians generally recognize Hemlocke's critical part in securing Cianan's claim to the throne, and his essential support in ensuring [[Aisling of Antir]]'s succession following Cianan's abdication.
 
 # History
 ## Early Life
-In the autumn months of ~926 BR, Hemlocke was born -- or rather, hatched --  under the care of the esteemed wizard Zella Brightflower. Initially known as Hemlocke Brightflower in his youth, he was believed to be female until he began to exhibit traits typically associated with male puberty. This misunderstanding did not generally affect his upbringing, however, as Hemlocke was raised in a gender-neutral manner. 
+In the autumn months of ~926 BR, Hemlocke was born -- or rather, hatched --  under the care of the esteemed wizard [[Zella Brightflower]]. Initially known as Hemlocke Brightflower in his youth, he was believed to be female until he began to exhibit traits typically associated with male puberty. This misunderstanding did not generally affect his upbringing, however, as Hemlocke was raised in a gender-neutral manner. 
 
-The identity of his biological parents remains largely unknown -- except for the fact that his biological father was an elven druid and an old acquaintance of Zella, while his biological mother is presumed to be of owlfolk descent. 
+The identity of his biological parents remains largely unknown -- except for the fact that his biological father was an elven druid and an old acquaintance of Zella, while his biological mother is presumed to be of [[Moondancer|owlfolk]] descent. 
 
 At the age of 15, as traditional for gnomeish culture, he chose the first name West for himself. Generally, only family and people he considers himself close to he lets use this name.
 
@@ -52,12 +52,12 @@ Their relationship wasn't all disdain, however. Indeed, Zella allowed the curiou
 Hemlocke met Cianan during the mage-prince's apprenticeship to Zella, and the pair quickly became close. When Cianan's apprenticeship ended, Hemlocke accompanied him back to [[Alturon]] as the prince's steward. 
 
 ### Flight from Alturon
-following the coup of Faolan, Hemlocke assisted in the princes escape back to Zauberei. historians regard this event as the beginning of Hemlockes shift to a more martial role under Cianans servitude. The pair was pursued by the royal guard for an unknown amount of time. Back in Alturon, common public belief was that Hemlocke had kidnapped the prince, and whether he was even alive was uncertain until Cianan entered the [[Three Kings War]].
+following the coup of [[Faolan of Antir]], Hemlocke assisted in the princes escape back to Zauberei. Historians regard this event as the beginning of Hemlocke's shift to a more martial role under Cianan's servitude. The pair was pursued by the royal guard for an unknown amount of time. Back in Alturon, common public belief was that Hemlocke had kidnapped the prince, and whether he was even alive was uncertain until Cianan entered the [[Three Kings War]].
 
 ## Three Kings War
-Hemlocke cared little for the war between King Faolan and Prince Lasairian -- until Prince Cianan expressed his desire for the throne. This marked the start of a deep fracture between the pair.
+Hemlocke cared little for the [[Three Kings War|war]] between King Faolan and Prince [[Lasairian of Antir|Lasairian]] -- until Prince Cianan expressed his desire for the throne. This marked the start of a deep fracture between the pair.
 
-During this time, Cianan raised armies. Zauberei's guard was recruited to have more of a place in foxfire towers. Cianan had a few servants and guards to begin with, but nobody he could trust like hemlocke. Kind of why hes kept around. This is when hemlockes role began to shift more body guard than servant. But, before hes brought back in, he does try to find other employment around foxfire, maybe just being a general security guard. This way he can have some space from Cianan but also keep an eye on him. Kept at arms length. 
+During this time, Cianan raised armies. Zauberei's guard was recruited to have more of a place in foxfire towers. Cianan had a few servants and guards to begin with, but nobody he could trust like Hemlocke. Kind of why he was kept around. This is when Hemlocke's role began to shift more towards a bodyguard than servant. But, before he's brought back in, he does try to find other employment around foxfire, maybe just being a general security guard. This way he can have some space from Cianan but also keep an eye on him. Kept at arms length. 
 
 Despite it, 
 - Hemlocke stays with Cianan

@@ -5,6 +5,7 @@
 	Foxfire dungeon
 
 3 - Fall - Athraithe
+	[[Guild Intro]]
 
 4 - Winter - Athraithe 
 	[[Food Hoard]]
@@ -14,6 +15,7 @@
 	Rhylea's festival?
 
 6 - Spring - Kingdom
+	[[On Trial]]
 
 7 - Spring - Kingdom/border town
 	[[Charlatan]], rumors of Autumn King's ascension

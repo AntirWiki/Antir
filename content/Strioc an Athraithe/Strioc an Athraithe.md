@@ -2,7 +2,9 @@
 tags:
   - location
 ---
-Strioc an Athraithe (pronounced "Stree-awk on Arr-ruh-hey" in common Antiran), often known simply as Athraithe, is a region in northern [[Antir]] with an unusually strong connection to [[Tir na Nog]]. 
+
+![[AthraitheMap.jpg|right|500]]
+Strioc an Athraithe (pronounced "Stree-awk on Arr-ruh-hey" in common Antiran), often known simply as Athraithe, is a region in northern [[Antir]] with an unusually strong connection to [[Tir na Nog]]. It is bordered by the [[Holy Kingdom]] in the west, [[Zauberei]] to the northeast, and the [[Riverlands]] to the south. To the north lies the impassable [[Great Forest]].
 
 The supernatural influence results in an unchartable landscape, with constantly shifting landmarks, borders, roads, and rivers. It is said that a person walking through Athraithe twice will pass through different places each time, even if they follow the same road. A traveler through the region will always find their destination eventually, but the length and contents of their journey are unknowable. For this reason, [[Adventurer|Adventurers]] are commonly hired as guides and guards.
 
@@ -13,14 +15,23 @@ The region's name translates to "The Stripe of Change" in Sylvan. It is unknown 
 The region is filled with small kingdoms, city-states, and other small independent nations, since the shifting landscape makes it near impossible for any single authority to hold large amounts of land.
 
 # Locations
+## Cities
 [[Catsi Crossing]], the land of witches.
 
 [[Dragun Mac Tire]], the heart of [[Adventurer#The Adventurer's Guild|The Adventurer's Guild]].
 
-The [[Silent Woods]], a cursed, deathly forest on the western edge of the region.
-The [[Ravenwood]], a forest of withered trees and carrion feeders surrounding the Silent Wood.
-
 [[Elmhollow]], a small town in the northwest that borders the Silent Woods.
+## Other
+The [[Silent Woods]], a cursed, deathly forest on the western edge of the region.
+- The [[Ravenwood]], a forest of withered trees and carrion feeders surrounding the Silent Wood.
+
+%%
+# People
+%%
+# Geography
+Broadly, Athraithe is defined by the foothills of the [[Hallit]] mountains to the east, transitioning to dense forests in the west. However, the twisting influence of Tir na Nog results in numerous unexpected biomes across the region, ranging from the unlikely to the impossible.
+
+Two large rivers flow through Athraithe - one starting in the northern mountains of [[Zauberei]], the other starting in the eastern mountains just above the [[Riverlands]]. The two rivers eventually meet near [[Alturon]] in the [[Holy Kingdom]], before flowing into the ocean on the kingdom's western coast.
 
 # History
 **1077 BR**

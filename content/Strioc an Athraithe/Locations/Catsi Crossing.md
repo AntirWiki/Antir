@@ -28,6 +28,10 @@ The **Hall of Synod**, one of the largest buildings in the town, is the meeting 
 # Government
 Catsi Crossing is led by the Catsi Coven, who meet in full once per decade in the town to direct the primal casters of Antir.
 
+%%
+# Geography
+%%
+
 # History
 ## The Three Kings War
 Catsi Crossing was located near to a well trafficked bridge. The villagers were very used to travelers. So, when [[Faolan of Antir|the Wolf]]’s army came to town during the first year of the [[Three Kings War]], the town was apprehensive if not surprised. The Wolf, in his ambition and arrogance, insisted that Catsi Crossing and every other village in the area swear fealty to him and support him in the war effort. Siobahn, as a leader of the village and ever the stalwart, stubborn curmudgeon, all but kicked the prince and his army out, informing that Catsi Crossing has and always will be independent of “the messy chaos of monarchal life”. 

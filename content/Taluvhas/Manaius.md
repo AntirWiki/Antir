@@ -31,6 +31,10 @@ Manaius is a vassal state to the [[Autumn King]].
  
 Each of its nomadic clans are led by a noble family of centaurs. The leaders of each family regularly meet to trade, politic, and discuss matters of national importance.
 
+%%
+# Geography
+%%
+
 # History
 The Manaiuud were not always nomadic. After the Dragon Wars in [[Antir]], an ancient Dragon settled in the country. The war had given it a fear of organized mortals, so it destroyed all settlements near its new home. When the people tried to repair their homes, it destroyed them again. This pattern continued, forcing the people into a life with no permanent settlements.
 

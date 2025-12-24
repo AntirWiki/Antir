@@ -9,6 +9,10 @@ tags:
 >
 >... It seems that these bones absorb light. I was studying them under candlelight, and noticed that the glow was subdued when I hold the piece closer to the light. Perhaps this material is magical in nature, somehow?...
 
-The Great Gates are a pair of large sand dunes in the desert of [[Blackwing]]. They are the location of the great spirit bones that sparked the Godsbone War between the Blackwing Legion and [[Taluvhas]].
+The Great Gates are a pair of large sand dunes in the desert of [[Blackwing]]. 
 
-Several mining operations exist in the valley between the dunes, excavating the Godsbone for its military applications.
+They are the location of the great spirit bones that sparked the Godsbone War between the Blackwing Legion and [[Taluvhas]].
+
+%%
+Mines in the region are the only known source of [[Firearms#Gunpowder|Gunpowder]], and thus the locale is heavily guarded by the [[Blackwing Legion]].
+%%

@@ -128,6 +128,6 @@ The administration of the Zauberei guilds is, unofficially, seen as an extension
 
 Additional duties include, but are not limited to: Study and documentation of magical peculiarities (creature behavior, artefacts, flora/fauna, environmental anomalies), retrieval and safe containment of cursed or otherwise volatile magical items, arcane cartography and analysis of leyline shifts or arcane turbulences, acting as magical consults to other guilds or regional authorities during crisis.
 
-# Gallery
+# Depictions
 ![[ValentineParty.png|400]]
 ^Guild founders Kastenia and Rosaline Valentine with their companions Darien and Luna, often seen as the first modern adventuring party.

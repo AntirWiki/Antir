@@ -28,6 +28,11 @@ The Autumn King is an archfae, and the current ruler of [[Taluvhas]].
 # Description
 The King's current appearance is unknown to the people of Antir.
 
+%%
+# Stats
+https://2e.aonprd.com/Monsters.aspx?ID=2197
+%%
+
 # History
 ## The Lord of Gilded Leaves
 In 973 BR, the archfae met [[Ninyva O'Niamh]] near the village of [[Marigold]]. The exact relationship between the him and the people of the village is unclear, but he was known to and revered by the village Wisdom, Penelope.
@@ -36,7 +41,7 @@ He was known at this time as the Lord of Gilded Leaves, and was primarily a spir
 
 When encountered by Ninyva, he agreed to rewrite the spellbook of the [[Lich|lich]] [[Kyrillos]], in exchange for the lich's soul - housed inside the book, which was his reliquary. He changed the book of necromancy to one of plant-inspired soul magic, which was later used extensively by [[Cianan of Antir]].
 
-Later that year, he granted Ninyva incredible power in exchange for a portion of her soul, and an agreement that she would spread his influence.
+Later that year, he granted Ninyva incredible power in exchange for a portion of her soul, and an agreement that she would spread his influence. When she was defeated by the rest of [[Tooth and Claw]] - with the combined forces of mage, beast, dragon, and god - the Lord was deeply shaken by the violence and strength of the mortals that had - in his eyes - so recently arrived in Antir.
 
 ## Kyrillos's Influence
 > [!quote] From "[[The Haervest Affairs|The Hærfest Affairs]]"
@@ -62,4 +67,4 @@ Banished permanently from Antir, the King retreats to [[Taluvhas]] to recover. H
 
 Learning from his mistakes in Antir, he does not spread wanton destruction. Instead, he uses his immortal lifespan and court of powerful fae servants to slowly and inexorably conquer the nations of Taluvhas one at a time. By the time the nations realized the threat and banded together to stop his armies, his power had grown too great to check.
 
-**1364 BR:** The centaurs of [[Manaius]], the last free country of Taluvhas, bend the knee. With this, the Autumn King had conquered the entirety of the continent. He then turns his attention north, to find vengeance upon the continent that cast him out.
+**1364 BR:** The centaurs of [[Manaius]], the last free country of Taluvhas, bend the knee. With this, the Autumn King has conquered the entirety of the continent. He then turns his attention north, to find vengeance upon the continent that cast him out.

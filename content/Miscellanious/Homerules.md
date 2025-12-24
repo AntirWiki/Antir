@@ -12,6 +12,8 @@ If it is unlikely that your character knows such a person - for example, someone
 
 _Example: The party is investigating a murderer who targets manual laborers in the capital city. A player with the Sailor background claims that they know somebody who works at the docks. This is a very likely scenario - a sailor spends much time at the docks after all. As such, the GM does not call for a Society check. Given this character's cheerful nature, the GM sets the diplomacy DC at 15. The player rolls a 26 - a critical success! The player and the GM decide that this NPC is a close family member of the player character, and as such is Helpful towards them. The party then heads to the docks to meet with this NPC._
 
+# Hero Points
+Hero points are not refreshed at the beginning of each session. Instead, you reset to one hero point at narrative checkpoints, which may occur mid-session. These checkpoints will still occur about once per session to preserve balance. 
 # Plot Points
 D20 rerolls aren't the only way to bend fortune in your favor. Hero points can be spent to reroll any roll (within reason), including damage or other non-d20s. 
 

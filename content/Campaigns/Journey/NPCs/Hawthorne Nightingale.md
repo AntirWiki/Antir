@@ -23,7 +23,7 @@ draft: true
 > | [[Thistle Nightingale]] | Grandchild |
 > | [[Yarrow Nightingale]] | Daughter |
 
-Hawthorne Nightingale was a famous wizard of [[Foxfire Academy]]. His exploits across the continent are well known, and he is the subject of many wild tales - though it is unknown how many are actually true.
+Hawthorne Nightingale was a famous wizard of [[Foxfire Academy]]. His exploits across the continent are widely known, and he is the subject of many wild tales - though it is unknown how many are actually true.
 
 # Description
 A tall, slender elf with dark skin and shoulder-length braids.

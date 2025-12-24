@@ -7,6 +7,9 @@ draft: true
 Level 10 party final encounter: a level 13 and two level 8s - [Weak Graveknight Warmaster](https://2e.aonprd.com/Monsters.aspx?ID=1869&Weak=true&NoRedirect=1) for the boss?
 Party level 7: 10 and two 5s - [Cursed King](https://2e.aonprd.com/Monsters.aspx?ID=2405) for the boss?
 
+Fight in Taluvhas against high priest of Autumn in a giant cathedral
+Having to convince the congregation to turn from the faith?
+
 SPAWN for final final Kyrillos fight
 
 After defeating (kyrillos-possessed Autumn King?) the king offers them each a boon

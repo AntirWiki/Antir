@@ -4,6 +4,7 @@ tags:
 ---
 > [!infobox]
 > ## Blackwing
+> *Si vis pacem, para bellum*
 > ### General Info
 > |  |  |
 > |  ----|  ----|
@@ -14,19 +15,22 @@ tags:
 > | **Government** | Military |
 > | **Religion** | [[Verita]] |
 
-%%Add map%%
-
-*Si vis pacem, para bellum*
-
 Blackwing is a desert nation in southern Antir, ruled by the military of the [[Blackwing Legion]] and the priests of [[Verita]], goddess of truth.
 
 It shares a northern border with the [[Holy Kingdom]], and a mountainous southern border with [[Taluvhas]]. The [[Archipelago]] lies in the bay beyond its eastern coast.
 
-# Locations
-The [[Great Gates]], a pair of dunes whose valley hosts the Godsbone mines.
+Near-constant wars with Taluvhas have led Blackwing to become highly militaristic, with much of their economic power going to military expansion and development.
 
-# People
+# Locations
+![[bwmap.png|right|500]]
 %%
+## Cities
+
+## Other
+%%
+The [[Great Gates]], a pair of dunes whose valley hosts several %%[[Firearms#Gunpowder|Gunpowder]]%% mines.
+%%
+# People
 - [[Amelia Bouchard]], High Minister of Trade
 %%
 
@@ -50,7 +54,7 @@ The roles and leadership of each body are governed by a set of rules known as th
 >
 >**Commerce commands Legion**. For our militia to flow, trade, too, must flow. In our quest for might, we must not forget what feeds our people. Then, our statecraft dictate the existence of a High Minister of Trade and a Ministry of Trade, who holds complete control over our internal and external trades, as well as the organization and arrangement of our logistical supply chain. They must also research the arts of agriculture and horticulture, and has the responsibility to provide the people of our land with ample food. A new High Minister of Trade is to be elected internally within the board of the Ministry of Trade once every ten years. May we hold Dominion unto ourselves.
 
-# Environment
+# Geography
 https://www.tumblr.com/wheelie-sick/754212172926697472/oh-i-live-in-a-desert-and-wow-that-must-be-so
 The deserts and plains of southern Antir are arid and hostile, but still serve as habitats for numerous plants, animals, and spirits. Birds, reptiles, and insects make up most of the fauna of the region, alongside a few specially adapted mammals. Most plant life is found in scrub grass, cacti, and weathered trees adapted to retain water.
 

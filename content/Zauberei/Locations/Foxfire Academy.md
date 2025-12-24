@@ -15,7 +15,7 @@ Following the tradition of its founders, the university is led by two individual
 The Archmage, the most gifted wizard in the university, leads research efforts and contains unruly magic and mages.
 - Currently [[Irina Varazs]], a half-orc woman from [[Blackwing]]
   
-And the Headmaster, a trusted associate of the Archmage, handles bureaucratic administration.
+The Headmaster, a trusted associate of the Archmage, handles bureaucratic administration.
 - Currently [[Miriam Varazs]], sister to Archmage Irina.
 
 # Organization

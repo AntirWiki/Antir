@@ -1,1 +1,1 @@
-The Journey campaign is the second game set in Antir. It will follow a group of adventurers traveling across the entire continent to confront a terrifying foe.
+The Journey campaign is the second game set in Antir. It will follow a group of adventurers from the town of [[Elmhollow]] traveling across the entire continent to confront a terrifying foe.

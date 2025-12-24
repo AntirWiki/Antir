@@ -22,8 +22,8 @@ draft: true
 > ### Relationships
 > |  |  |
 > | ---- | ---- |
-> | Person | Relation |
-> | Person | Relation |
+> | [[Willow]] | Friend |
+> | [[Thistle Nightingale]] | Friend |
 
 Summary
 

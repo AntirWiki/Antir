@@ -50,4 +50,4 @@ God of those who suffer. Tival is a god for those whose woes cannot be cured. He
 The secret god of soldiers. They represent martyrs and those who do thankless work.
 
 # Lares
-Many faithful also give offerings and prayers to small celestial guardian spirits known as **Lares** or "Household Gods". These spirits tend to protect a single place, which is often a home but can also include other buildings, roadways, fields, and anywhere else enclosed by a boundary.
+Many faithful also give offerings and prayers to small celestial guardian spirits known as **Lares** or "Household Gods". These spirits tend to protect a single place, which is often a home but can also include other buildings, roadways, fields, and anywhere else enclosed by a boundary. Unlike most lesser celestials, Lares are not servants of a god, and are empowered directly by those who honor them. 

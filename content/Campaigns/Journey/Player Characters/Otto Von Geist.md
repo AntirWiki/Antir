@@ -8,7 +8,7 @@ tags:
 draft: true
 ---
 > [!infobox]
-> ## Name
+> ## Otto Von Geist
 > ![[unknown.png|200]]
 > ### General Info
 > |  |  |
@@ -17,13 +17,15 @@ draft: true
 > | **Age** | ? |
 > | **Gender** | ? |
 > | **Home** | ? |
-> | **Occupation** | Adventurer |
+> | **Occupation** | Adventurer |%%, [[Demon Hunter]] |%%
 > | **Status** | Alive |
 > ### Relationships
 > |  |  |
 > | ---- | ---- |
-> | Person | Relation |
-> | Person | Relation |
+%%
+> | [[Vada]] | Mentor |
+> | [[Athanasius]] | Enemy |
+%%
 
 Summary
 
