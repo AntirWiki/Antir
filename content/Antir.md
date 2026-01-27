@@ -48,9 +48,9 @@ In the ancient past Antir was home to the [[Drakos Empire]] before its complete 
 
 This ended when a group of mortals arrived from the north after fleeing the [[Valley of Cold Sun]]. These people, desperate for a new home, fought the dragons for their territory. Due to the dragons' inability to work together and the adaptability and ingenuity of mortals, the dragons were driven into the southern mountains and beyond. This marked the year 0 BR and the founding of the Kingdom of Antir. The kingdom eventually spread to fill the entire continent except for the deadly and unmappable [[Riverlands]] to the southeast.
 
-The Great Kingdom era would last until 1100 BR, when political strife led to the secession of [[Zauberei]] and [[Catsi Crossing]]. They were followed about a century later by [[Blackwing]], leading to the near-total collapse of the [[Lucentia]].
+The Great Kingdom era would last until 1100 BR, when political strife led to the secession of [[Zauberei]] and [[Catsi Crossing]]. They were followed about a century later by [[Blackwing]], leading to the near-total collapse of the Kingdom.
 
-The kingdom eventually recovered, managing to reclaim all its lost lands north of Blackwing and west of the ever-shifting [[Strioc an Athraithe]]. 
+The kingdom eventually recovered, managing to reclaim all its lost lands north of Blackwing and west of the ever-shifting [[Strioc an Athraithe]]. It was reborn as the [[Lucentia|Holy Kingdom of Antir Lucentia]].
 
 It is now the year 1375 BR. As the crusade ends and the threat of continental war wanes, Antir has entered an age of new ideas and cultural change. Open borders and faster communication has let information spread between the nations in a way unseen since the Great Kingdom. But threats new and old rise up to challenge this peace, and so too must heroes rise up to face them.
 

@@ -14,7 +14,7 @@ tags:
 
 Marigold is a village approximately 250 miles west of Alturon. It is named after the fields of flowers that once surrounded the village.
 
-It stands on the border between the [[Lucentia]] and [[Strioc an Athraithe]]
+It stands on the border between [[Lucentia]] and [[Strioc an Athraithe]]
 %%
 # Locations
 

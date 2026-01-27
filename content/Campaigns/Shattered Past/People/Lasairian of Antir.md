@@ -24,6 +24,7 @@ tags:
 >| [[Aisling of Antir]] | Sister |
 >| [[Darios O'Mael]] | General |
 > | [[General Tanner]] | General |
+>| Tarlach of Antir | Father |
 
 
 Lasairian of Antir was the eldest child of King Tarlach of Antir, elder brother to [[Faolan of Antir]], [[Cianan of Antir]] and [[Aisling of Antir]]. 

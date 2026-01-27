@@ -3,7 +3,7 @@ tags:
   - lore
   - god
 ---
-Religion is highly valued in the society of the [[Lucentia]], and they worship several official gods (and a number of unofficial ones as well). Some of their number are listed below. These are just some of the gods worshipped in the Holy Kingdom, and many parts of Antir recognize different pantheons altogether
+Religion is highly valued in the society of [[Lucentia]], and they worship several official gods (and a number of unofficial ones as well). Some of their number are listed below. These are just some of the gods worshipped in the Holy Kingdom, and many parts of Antir recognize different pantheons altogether
 
 Each major god has a yearly festival in the Kingdom. Festivals last from a few days to a week, and include public celebrations, sermons, and sacrifices to the gods. The last festival of the year, known unofficially as the "Festival of Small Gods", celebrates all the lesser gods who don't have a dedicated festival.
 

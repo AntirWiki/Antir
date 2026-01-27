@@ -12,7 +12,7 @@ tags:
 > | **Size** | Town |
 > | **Trades** | Military |
 
-Dun na Fal is a fortress within the [[Lucentia]], located just west of [[Alturon]]. There is also a town outside the fort, referred to by the same name.
+Dun na Fal is a fortress within [[Lucentia]], located just west of [[Alturon]]. There is also a town outside the fort, referred to by the same name.
 
 # Locations
 

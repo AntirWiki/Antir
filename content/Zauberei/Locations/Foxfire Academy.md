@@ -38,7 +38,7 @@ Includes all research into gods and the mechanics by which they operate.
 ## School of Civic Wizardry
 The school of civic wizardry teaches about the practical and grounded uses of magic. Civic wizardry has uses in fields like infrastructure, architecture, and disaster recovery.
 
-The school was originally founded in 954 BR as an independent college in [[Alturon]], but moved to become part of Foxfire some time before the [[Lucentia]] effectively banned arcane magic in 1100 BR.
+The school was originally founded in 954 BR as an independent college in [[Alturon]], but moved to become part of Foxfire some time before [[Lucentia|The Holy Kingdom]] effectively banned arcane magic in 1100 BR.
 
 ## School of Battle Magic
 The school of battle magic is the oldest course of study in Foxfire, hailing back to its days as a war college during the [[Three Kings War]]. The battle mages and other students have a mutual disrespect; the other students see battle mages as unintellectual killers, and the battle mages see the other schools as stuck-up cowards.

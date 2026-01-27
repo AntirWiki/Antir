@@ -17,7 +17,7 @@ tags:
 
 Blackwing is a desert nation in southern Antir, ruled by the military of the [[Blackwing Legion]] and the priests of [[Verita]], goddess of truth.
 
-It shares a northern border with the [[Lucentia]], and a mountainous southern border with [[Taluvhas]]. The [[Archipelago]] lies in the bay beyond its eastern coast.
+It shares a northern border with [[Lucentia]], and a mountainous southern border with [[Taluvhas]]. The [[Archipelago]] lies in the bay beyond its eastern coast.
 
 Near-constant wars with Taluvhas have led Blackwing to become highly militaristic, with much of their economic power going to military expansion and development.
 

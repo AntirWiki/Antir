@@ -27,7 +27,7 @@ tags:
 
 Rhylea is the Antiran goddess of secrets and darkness. She is twin and rival to [[Antiran Pantheon#**Raeldan**|Raeldan]], god of knowledge and history.
 
-Her most elite followers are the [[Keyshadows]], a group of assassins that serve the interests of the [[Lucentia]] both domestically and abroad.
+Her most elite followers are the [[Keyshadows]], a group of assassins that serve the interests of [[Lucentia]] both domestically and abroad.
 
 Many in Lucentia refer to a new moon as "Rhylea's Moon", and believe that her followers are especially active on these dark nights.
 

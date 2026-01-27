@@ -23,6 +23,7 @@ tags:
 > | [[Faolan of Antir]] | Brother |
 >| [[Aisling of Antir]] | Sister |
 >| [[Zella Brightflower]] | Mentor |
+>| Tarlach of Antir | Father |
 
 Cianan of Antir (pronounced Kee-nun) was the king of [[Antir]] from 953-960 BR. He is known for being the victor of the [[Three Kings War]] against his brothers [[Faolan of Antir|Faolan]] and [[Lasairian of Antir|Lasairian]]. 
 

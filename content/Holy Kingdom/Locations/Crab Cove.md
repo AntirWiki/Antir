@@ -12,7 +12,7 @@ tags:
 > | **Size** | Town |
 > | **Trades** | Fishing, Tourism |
 
-Crab Cove is a small town located on the Western coast of the [[Lucentia]]. Only a few days travel from Alturon, it is a common vacation destination for residents of the capital.
+Crab Cove is a small town located on the Western coast of [[Lucentia]]. Only a few days travel from Alturon, it is a common vacation destination for residents of the capital.
 
 # Locations
 
