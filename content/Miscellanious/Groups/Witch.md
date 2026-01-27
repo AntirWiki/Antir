@@ -9,7 +9,7 @@ aliases:
 ---
 Witches are spellcasters with direct connections to powerful patron [[Spirits]]. 
 
-They can be found all across [[Antir]] in many forms, though they are commonly sorted in to three groups:
+They can be found all across [[Antir]] in many forms, though they are commonly sorted into three groups:
 
 ## Wisdoms
 Wisdoms are a common sight in rural Antiran villages and towns. They are influential members of the community who often serve as apothecaries, doctors, and most importantly spiritual advisors. Not all wisdoms are spellcasters, though some do have magical connections to local spirits.
