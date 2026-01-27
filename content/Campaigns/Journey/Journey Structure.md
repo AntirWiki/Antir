@@ -1,3 +1,9 @@
+---
+tags:
+  - private
+  - incomplete
+draft: true
+---
 1 - Fall - Elmhollow
 	Get ass beat, get to Zauberei 
 
@@ -30,6 +36,7 @@
 
 11 - Fall/Winter - Taluvhas
 	Get to the capital
+	Evil high priest? (being possessed by Kyrillos?)
 
 12 - Spring - Taluvhas capital
 	Autumn King's palace

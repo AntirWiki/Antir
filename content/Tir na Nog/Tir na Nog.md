@@ -17,11 +17,11 @@ Most mortals perceive Elysium as the plane of ideals, and the form of the plane 
 Elysium is seen as the opposite of the Hells, embodying order, unity, and devotion.
 
 # The Hells
-The Six Hells each follow a general theme based on a mortal emotion, though their Devil residents and locales can be flexible in their interpretations. They are often seen as three pairs of opposites:
+The Six Hells each follow a general theme based on a mortal emotion, though their Devil residents and infernal locales can be flexible in their interpretations. They are often seen as three pairs of opposites:
 
-- The hells of Ambition and Sloth
-- The hells of Wrath and Cowardice
-- And the hells of Zealotry and Betrayal
+- The hells of Ambition and Sloth %%Virtue of Responsibility?%%
+- The hells of Wrath and Cowardice %%Virtue of Justice?%%
+- And the hells of Zealotry and Betrayal %%Virtue of Trust?%%
 
 The Hells are seen as the opposite of Elysium, embodying disorder and transactional relationships.
 

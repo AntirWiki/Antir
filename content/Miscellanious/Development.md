@@ -337,7 +337,7 @@ The soldiers, all prior allegiances forgot, united as one under the Sanctified M
 While the eyes of the continent turn towards the Holy Kingdom, what sinister forces go unseen? Shadows form behind the shining crusaders, in the basements of Foxfire, between the trees of Athraithe, in forgotten Legion armories, and countless more places across Antir. What lurks there? Who serves it? Do the people of Antir fear it, or live in blissful ignorance?
 
 # **1320**
-The Shining Crusade ends not with a bang, but with a resigned sigh. Too many deaths to the heat of the desert and the monsters of the fae-woods lead the Church and Throne to cut their losses, recall troops, and make peace with their neighbors. With weary hearts from a half-century of war, the nation sits back to digest what it’s consumed: every acre between the Great Forest and the desert, from the coast to Athraithe, is once again under the rule of the Holy Kingdom of Antir. 
+The Shining Crusade ends not with a bang, but with a resigned sigh. Too many deaths to the heat of the desert and the monsters of the fae-woods lead the Church and Throne to cut their losses, recall troops, and make peace with their neighbors. With weary hearts from a half-century of war, the nation sits back to digest what it’s consumed: every acre between the Everweald and the desert, from the coast to Athraithe, is once again under the rule of the Holy Kingdom of Antir. 
 
 But while the borders change, the people do not. They still have to deal with deaths, and births, and harvests - and taxes, regardless of who collects them. Their lives go mostly unchanged, and so too do their traditions. They celebrate and they mourn and they tell each other stories to make the nights a little less dark.
 

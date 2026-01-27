@@ -3,7 +3,7 @@ tags:
   - location
   - journey
 ---
-The Ravenwood is the name for the forest surrounding the [[Silent Woods]] in the [[Strioc an Athraithe]] and [[Holy Kingdom]].
+The Ravenwood is the name for the forest surrounding the [[Silent Woods]] in the [[Strioc an Athraithe]] and [[Lucentia]].
 
 Its trees are withered and sickly from exposure to the Silent Wood's blight, though not fully dead like the ones further within that cursed forest.
 

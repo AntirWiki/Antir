@@ -9,10 +9,10 @@ tags:
 > |  ----|  ----|
 > | **Titles** | Lucent Lumina |
 > | **Domains** | Healing, Repose, Sun, Truth |
-> | **Region** | [[Holy Kingdom]] |
+> | **Region** | [[Lucentia]] |
 > | **Pantheon** | [[Antiran Pantheon]] |
 > | **Symbol** | ? |
-> | **Followers** | Antiran royal family, healers, most citizens of the Holy Kingdom |
+> | **Followers** | Antiran royal family, healers, most Lucans |
 > | **Edicts** | Provide aid to the sick and wounded, be merciful, be honest |
 > | **Anathema** | Be cruel, deny healing to the needy, mislead others |
 > ### Devotee Benefits
@@ -25,13 +25,13 @@ tags:
 > | **Favored Weapon** | ? |
 > | **Cleric Spells** | ? ? ?|
 
-Lumina is the goddess of light and mercy in the [[Holy Kingdom|Holy Kingdom of Antir]]. She is the head of the [[Antiran Pantheon]] and the patron goddess of the royal family.
+Lumina is the goddess of light and mercy in [[Lucentia]]. She is the head of the [[Antiran Pantheon]] and the patron goddess of the royal family.
 
 She was once an aspect of the goddess Lucent until the 1020 BR schism between Lumina and [[Verita]] divided the goddess in two.
 
-Lumina's midsummer festival is the largest in the Kingdom calendar, and serves as both a celebration of the goddess and of the Kingdom.
+Lumina's midsummer festival is the grandest in the Lucentian calendar, and serves as both a celebration of the goddess and of the Kingdom.
 
-Her greatest champion on Antir is the [[Golden Saint]], monarch of the Holy Kingdom.
+Her greatest champion on Antir is the [[Golden Saint]], monarch of Lucentia.
 
 # History
 ## Lucent's Schism

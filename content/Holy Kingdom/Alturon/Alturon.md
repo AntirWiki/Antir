@@ -8,14 +8,14 @@ tags:
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Country** | [[Holy Kingdom]] |
+> | **Country** | [[Lucentia]] |
 > | **Size** | Large City |
 > | **Trades** | Varied |
 
-Alturon is the capital of the Holy Kingdom of Antir and the largest city in [[Antir|Antir]]
+Alturon is the capital of Lucentia and the largest city in [[Antir|Antir]]
 
 # Locations
-**The [[Sunlit Palace]]** is a beautiful palace in the center of the city, and is home to the Holy Kingdom's monarchs and religious leaders.
+**The [[Sunlit Palace]]** is a beautiful palace in the center of the city, and is home to Lucentia's monarchs and religious leaders.
 
 **Catsi Quarter** is a mostly residential neighborhood that also features a number of 'rural' trades such as butchers and spinners. It was once populated by refugees from [[Catsi Crossing]] after the town's destruction in 950 BR. Its name and historical connection to the town have given it an association with witches, causing a number of alchemists and healers to set up shop there.
 

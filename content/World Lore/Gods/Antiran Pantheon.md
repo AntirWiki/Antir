@@ -3,12 +3,12 @@ tags:
   - lore
   - god
 ---
-Religion is highly valued in the society of the [[Holy Kingdom]], and they worship several official gods (and a number of unofficial ones as well). Some of their number are listed below. These are just some of the gods worshipped in the Holy Kingdom, and many parts of Antir recognize different pantheons altogether
+Religion is highly valued in the society of the [[Lucentia]], and they worship several official gods (and a number of unofficial ones as well). Some of their number are listed below. These are just some of the gods worshipped in the Holy Kingdom, and many parts of Antir recognize different pantheons altogether
 
 Each major god has a yearly festival in the Kingdom. Festivals last from a few days to a week, and include public celebrations, sermons, and sacrifices to the gods. The last festival of the year, known unofficially as the "Festival of Small Gods", celebrates all the lesser gods who don't have a dedicated festival.
 
 # Greater Gods
-These deities form the core of the Antiran pantheon, and are honored to some degree in almost all Kingdom churches.
+These deities form the core of the Antiran pantheon, and are honored to some degree in almost all Lucentian churches.
 
 ## [[Lumina]]
 Goddess of light and mercy 
@@ -29,7 +29,7 @@ The Silent Hunter, god of the woods and the hunt. They are said to be completely
 God of love, passion, and obsession. They represent not only lust and romance, but passion in all its forms - be it for a person, a craft, a cause, or anything else.
 
 ## Ceartas
-God of protection, freedom, and justice. Patron god of the Holy Kingdom military.
+God of protection, freedom, and justice. Patron god of the Lucan military.
 
 %%
 ## Harvest god?

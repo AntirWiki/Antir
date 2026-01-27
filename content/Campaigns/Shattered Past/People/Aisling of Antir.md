@@ -22,7 +22,7 @@ tags:
 > | [[Faolan of Antir]] | Brother |
 > | [[Lasairian of Antir]] | Brother |
 
-Aisling of Antir (pronounced Osh-ling) was queen of the [[Holy Kingdom]] from 960 BR until her death in 1021 BR. She was also a paladin of [[Lumina]], and during her reign she brought that church under royal control.
+Aisling of Antir (pronounced Osh-ling) was queen of the [[Lucentia]] from 960 BR until her death in 1021 BR. She was also a paladin of [[Lumina]], and during her reign she brought that church under royal control.
 
 # Description
 As a youth, Aisling was a thin but strong girl with long blonde hair and a serious expression.

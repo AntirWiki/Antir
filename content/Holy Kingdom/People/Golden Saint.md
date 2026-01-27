@@ -19,15 +19,15 @@ aliases:
 > | **Occupation** | Monarch |
 > | **Status** | Alive |
 
-Áine of Antir (pronounced Awn-ya), better known as The Golden Saint, is the ruling monarch of the [[Holy Kingdom|Holy Kingdom of Antir]]. They are a [[Gods#Saints|Saint]] of [[Lumina]], which grants them immortality and great divine power.
+Áine of Antir (pronounced Awn-ya), better known as The Golden Saint, is the ruling monarch of the [[Lucentia|Holy Kingdom of Antir Lucentia]]. They are a [[Gods#Saints|Saint]] of [[Lumina]], which grants them immortality and great divine power.
 
-They rule over the Holy Kingdom with a merciful hand, but are mostly detached from the real administration. They seem to genuinely believe that ruling the entire continent - or world - is the best way to bring peace to all people. As shown in the Shining Crusade, they do not hesitate to wage war to further this goal of ultimate peace.
+They rule over Lucentia with a merciful hand, but are mostly detached from the real administration. They seem to genuinely believe that ruling the entire continent - or world - is the best way to bring peace to all people. As shown in the Shining Crusade, they do not hesitate to wage war to further this goal of ultimate peace.
 
 # Description
 The Monarch has pale white skin crossed by glowing golden lines, like a porcelain vessel that was shattered and repaired with gold. Their face and figure are androgynous, and their faintly glowing white hair is just long enough to cover their ears.
 
 # Abilities
-The powers of the Golden Saint are myriad, and no two Kingdom residents agree on which stories are true. 
+The powers of the Golden Saint are myriad, and no two Lucentians agree on which stories are true. 
 
 Some rumors say that you cannot lie in their presence, that they can turn the wicked to ash with a gaze, and that they can sprout angelic wings to soar through the air. 
 

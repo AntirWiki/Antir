@@ -12,7 +12,6 @@ tags:
 > | **Age** | ? |
 > | **Gender** | Female |
 > | **Home** | [[Tir na Nog]] |
-> | **Occupation** | ? |
 > | **Status** | Alive |
 
 Story is a pixie who has been seen across the planes playing many roles. Her loyalties are unclear, and she seems to go wherever her whimsy takes her.

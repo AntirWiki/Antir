@@ -5,7 +5,7 @@ tags:
 aliases:
   - Adventurers
 ---
-Each nation of Antir has its own stereotypes of Adventurers. In the [[Holy Kingdom]], adventurers are heroes that slay monsters and defeat villains for the good of all. In [[Zauberei]], they're like a crisis team that deal with strange beasts and magic gone wrong. For the [[Strioc an Athraithe]], adventurers are treated like specialty mercenaries and guides. [[Blackwing]] treats adventurers as elite strike teams to deal with specific threats the military can't handle.
+Each nation of Antir has its own stereotypes of Adventurers. In [[Lucentia]], adventurers are heroes that slay monsters and defeat villains for the good of all. In [[Zauberei]], they're like a crisis team that deal with strange beasts and magic gone wrong. For the [[Strioc an Athraithe]], adventurers are treated like specialty mercenaries and guides. [[Blackwing]] treats adventurers as elite strike teams to deal with specific threats the military can't handle.
 
 Despite these varied views of adventuring, an adventurer's work is more or less the same in any nation: dealing with threats that the local authority cannot or will not handle. Adventurers spend their days delving dungeons, hunting monsters, investigating mysteries, and doing any other odd task they can get paid for. 
 
@@ -66,9 +66,9 @@ As chronicled by Hisuth Nightingale, Uso Tohko O’Hare, Spruce Leek, and Quilp 
 ### Foreword  
 Historians regard Cianan of Antir, the Wizard King, as the ruler whose brief yet tumultuous reign (c. 953 – 960 BR) marked a turning point that beckoned magical dangers upon the world. Prior to his rule, catastrophic otherworldly events were all but unheard of – or, if they had occurred, none lived to tell the tale.
 
-Alturon’s defenses had stretched thin after the creation of the Silent Woods. Most of the kingdom’s forces were stationed at its borders, desperately holding back the necrotic roots that threatened to breach the capital’s walls. Thousands had already perished to the creeping blight. Autumn had vanished, its absence unexplained. No one in the Holy Kingdom understood why – or how – or what could be done to stop it.
+Alturon’s defenses had stretched thin after the creation of the Silent Woods. Most of the kingdom’s forces were stationed at its borders, desperately holding back the necrotic roots that threatened to breach the capital’s walls. Thousands had already perished to the creeping blight. Autumn had vanished, its absence unexplained. No one in The Holy Kingdom understood why – or how – or what could be done to stop it.
 
-The ban on magic had made matters worse for the kingdom. Wisdoms, once respected, were now viewed with the same suspicion as wizards. Many, driven mad by fae whispers, withdrew from society, and cooperation became scarce. Some witches even embraced the strange occurrences plaguing the land. The Zauberans avoided crossing into Stríoc an Athraithe or the Holy Kingdoms, wary of both persecution and the unknown horrors beyond their borders.
+The ban on magic had made matters worse for the kingdom. Wisdoms, once respected, were now viewed with the same suspicion as wizards. Many, driven mad by fae whispers, withdrew from society, and cooperation became scarce. Some witches even embraced the strange occurrences plaguing the land. The Zauberans avoided crossing into Stríoc an Athraithe or the Holy Kingdom, wary of both persecution and the unknown horrors beyond their borders.
 
 To the north, the owlfolk – Moondancers, in their own tongue – pushed further into contested lands, locked in endless war with the Halit peoples. To the south, dragons and the growing conflict with the southern continent remained an ever-present threat. Trade routes grew increasingly treacherous. Villages swelled as refugees sought shelter, for beyond the safety of their walls lay destruction. The economy withered. Hope dwindled. 
 
@@ -98,7 +98,7 @@ The guilds in this region provide adventuring as a stable career, with no shorta
 
 Additional duties include, but are not limited to: Escorting travelers/merchants, charting and updating maps as it shifts, defending against fae incursions (and activities of their witch sympathizers), engaging in diplomatic efforts with the Catsi Crossing nation, containing the spread of the Silent Woods, providing refuge and support to those warped by fae/occult/primal magic, aiding in the restoration and maintenance of the region’s natural health, including collaboration with local spirits and efforts to reclaim corrupted lands from fae control.
 
-### Holy Kingdom Branches
+### Lucentia Branches
 
 >[!quote] 
 >A blade drawn in rage is a curse. A blade drawn in service is a prayer.

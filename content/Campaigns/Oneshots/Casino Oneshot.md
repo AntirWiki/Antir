@@ -30,7 +30,7 @@ Monologue - "You're in the Golden Crane, friends. And the house always wins."
 - The Crane (combat 3, severe)
 
 # Objective
-You've each been chosen for your unique skills. Perhaps you're a renowned gambler, a con artist, a bank robber. Whoever you are, you've been approached by one Lady Marietta Soleil, the femme fatale of the Holy Kingdom's finance world. She has a job for you: her husband owns the Golden Crane, the finest casino in Alturon. He hasn't emerged in weeks, and has been unreachable by means mundane or magical.
+You've each been chosen for your unique skills. Perhaps you're a renowned gambler, a con artist, a bank robber. Whoever you are, you've been approached by one Lady Marietta Soleil, the femme fatale of Lucentia's finance world. She has a job for you: her husband owns the Golden Crane, the finest casino in Alturon. He hasn't emerged in weeks, and has been unreachable by means mundane or magical.
 
 Your task: find him, and get him out. If Lord Soleil makes it out alive, you'll be handsomely rewarded. How you do so is up to you, but you'll get extra cash if you do it with discretion.
 

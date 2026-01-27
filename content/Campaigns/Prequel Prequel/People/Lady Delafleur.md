@@ -19,8 +19,11 @@ tags:
 > | [[Cianan of Antir]] | Associate |
 > | [[Zella Brightflower]] | Friend |
 > | Marianne Delafleur | Daughter |
+> | [[Lord Lanstree]] | Rival |
 
 Lady Delafleur was a noblewoman in Zauberei and an ally of Cianan of Antir before the [[Three Kings War]].
+
+Her daughter Marianne was one of Cianan's first apprentices.
 
 # Description
 Delafleur is a tan-skinned elf who typically wears long flowing dresses, often with floral patterns. She wears the tastefully expensive jewelry of one with old money and no need to show off.

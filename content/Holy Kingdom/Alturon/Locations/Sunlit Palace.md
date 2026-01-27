@@ -2,7 +2,7 @@
 tags:
   - location
 ---
-The Sunlit Palace is a large manor in [[Alturon]] that houses the royal family of [[Holy Kingdom|the Holy Kingdom of Antir]], also serving as a center of government and religious authority.
+The Sunlit Palace is a large manor in [[Alturon]] that houses the royal family of [[Lucentia]], also serving as a center of government and religious authority.
 
 The palace is made of white stone with elaborate stained glass windows. Thanks to the blessings of Lumina, the sunlight reflects off the windows in a dazzling golden display that, despite its brilliance, does not blind or hurt to look at.
 %%

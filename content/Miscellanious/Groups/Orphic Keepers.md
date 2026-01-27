@@ -2,7 +2,7 @@
 tags:
   - group
 ---
-The Orphic Keepers, known in some circles as simply "The Keepers", are a death cult that serve as assassins for hire in and around the [[Holy Kingdom]]. 
+The Orphic Keepers, known in some circles as simply "The Keepers", are a death cult that serve as assassins for hire in and around the [[Lucentia]]. 
 
 # History
 - 950: Attempted assassination of Lord Archibald Tener Bouchard by Finnleth Silverfang. 

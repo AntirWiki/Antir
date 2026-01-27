@@ -9,7 +9,7 @@ tags:
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Country** | [[Holy Kingdom]] |
+> | **Country** | [[Lucentia]] |
 > | **Size** | Village |
 > | **Trades** | Hunting, Forestry |
 
