@@ -1,6 +1,5 @@
 ---
 tags:
-  - incomplete
   - lore
 draft: false
 ---
