@@ -10,7 +10,7 @@ tags:
 > |  |  |
 > |  ----|  ----|
 > | **Ancestry** | Human |
-> | **Age** | 23 |
+> | **Age** | ? |
 > | **Gender** | Nonbinary (They/Them)|
 > | **Home** | [[Elmhollow]] |
 > | **Occupation** | Acolyte |
@@ -19,7 +19,7 @@ tags:
 > |  |  |
 > | ---- | ---- |
 > | [[Thistle Nightingale]] | Childhood friend |
-> | [[Willow]] | Sister? |
+> | [[Willow]] | Sister |
 > | [[Kirturok Stonehoof]] | Family friend |
 
 Summary
