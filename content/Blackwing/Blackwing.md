@@ -28,7 +28,7 @@ Near-constant wars with Taluvhas have led Blackwing to become highly militaristi
 
 ## Other
 %%
-The [[Great Gates]], a pair of dunes whose valley hosts several %%[[Firearms#Gunpowder|Gunpowder]]%% mines.
+The [[Great Gates]], a pair of dunes whose valley hosts several %%[[Firearms#Brightpowder|Brightpowder]]%% mines.
 %%
 # People
 - [[Amelia Bouchard]], High Minister of Trade

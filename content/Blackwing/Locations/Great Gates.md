@@ -14,5 +14,5 @@ The Great Gates are a pair of large sand dunes in the desert of [[Blackwing]].
 They are the location of the great spirit bones that sparked the Godsbone War between the Blackwing Legion and [[Taluvhas]].
 
 %%
-Mines in the region are the only known source of [[Firearms#Gunpowder|Gunpowder]], and thus the locale is heavily guarded by the [[Blackwing Legion]].
+Mines in the region are the only known source of [[Firearms#Brightpowder|Brightpowder]], and thus the locale is heavily guarded by the [[Blackwing Legion]].
 %%

@@ -10,6 +10,6 @@ The only known method of creating a saint is through divine intervention, by a p
 
 Arcane experiments to replicate sanctification have only ever ended in tragedy. 
 
-[[Dragon|Dragons]] are the first recorded examples of sainthood, created by holy rituals to the gods of the [[Drakos Empire]]. Given that the dragons eventually overthrew their gods and masters, they are seen as a precautionary tale against any faith over relying on the power of saints. 
+[[Dragon|Dragons]] are the first recorded examples of sainthood, created by holy rituals to the gods of the ancient [[Drakos Empire]]. Given that the dragons eventually overthrew their gods and masters, they are seen as a precautionary tale against any faith over relying on the power of saints. 
 
 The most famous Saint in Antir is the [[Golden Saint]], ruler of [[Lucentia]].

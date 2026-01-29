@@ -26,7 +26,7 @@ tags:
 
 Sir Darios O'Mael is a famed [[Adventurer|adventurer]], former general of the Kingdom of [[Antir]], and former member of [[Tooth and Claw]].
 
-Darios served as a general to [[Lasairian of Antir]] during the [[Three Kings War]], during which time he forged a connection with the Magma [[Dragon]] Velns. The bond gave him the ability to transform into a powerful draconic shape. He was captured during the Siege of [[Dun Na Fal]] after the death of Velns sent him into an indiscriminate rampage.
+Darios served as a general to [[Lasairian of Antir]] during the [[Three Kings War]], during which time he forged a connection with the Magma [[Dragon]] Velns. The bond gave him the ability to transform into a powerful draconic shape. He was captured during the Siege of [[Dun na Fal]] after the death of Velns sent him into an indiscriminate rampage.
 
 After he prevented a mass prison break, he was released and brought into the employ of [[Cianan of Antir]].
 

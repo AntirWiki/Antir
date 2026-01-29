@@ -27,7 +27,7 @@ It's clear that the tallest one was once a person - the fungus is grown over a s
 # ???
 Something to break up the combats - tracking the cat? Getting lost in the woods? Finding evidence of some sinister happenings?
 
-Maybe evidence of some act of worship to the Autumn King, that Rock and Willow can recocognize as religious thanks to their 
+Maybe evidence of some act of worship to the Autumn King, that Rock and Willow can recocognize as religious thanks to their experiences?
 
 # The Tree
 The party finds themselves in a clearing, with a massive twisted oak in the center. The other trees leave it a wide berth, as if afraid to be touched by its reaching, spiked branches with ends like clawed hands.

@@ -4,7 +4,7 @@ tags:
 ---
 The source of magic is a topic of much debate. Some say that living beings create a steady stream of magic from their souls. Others claim that magic has an outside source, and that the soul is merely a filter that shapes the energy that passes through a being. Either way, magic flows through all living things and is shaped by them - either consciously or, more often, subconsciously.
 
-Usually, this energy is "shaped" or "colored" by whatever the being is thinking when it passes through them. This energy then flows into the world, where it either feeds a spirit or, if there are no spirits with the right "shape" nearby, creates an entirely new one.
+Usually, this energy is "shaped" or "colored" by whatever the being is thinking when it passes through them. This energy then flows into the world, where it either feeds [[Spirits]] or, if there are no spirits with the right "shape" nearby, creates an entirely new one.
 
 Plants and animals, having little in the way of imagination, tend to create plant and animal spirits - since they spend most of their time thinking about themselves, their mates, or their food. These spirits usually share the lower intelligence of the beings that feed them.
 
