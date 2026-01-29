@@ -3,6 +3,10 @@ tags:
   - location
   - lore
 ---
+%%
+# CELTIC INSPIRED
+%%
+
 Avhalae is a continent west of [[Antir]], far across the ocean. It is the original home of humans, [[Elf|Elves]], [[Dwarf|Dwarves]], and [[Halfling|Halflings]].
 
 It is plagued by an army of undead%% known as [[Undead Horde]]%%, and its people are locked in constant war with these living corpses. The horde's arrival over a thousand years ago ruined the original nations on the continent, sending many of its residents feeing to the [[Valley of Cold Sun]] (and later Antir). A group of humans also fled by boat to [[Taluvhas]].
