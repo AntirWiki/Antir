@@ -124,7 +124,7 @@ Divine magic is similar to primal, but instead of a transaction with local spiri
 Occult magic is less easily defined than the other three. It includes things like personal magic - where a caster manipulates the spirits in a person's own body, or even that person's soul. It also includes most necromancy, where a caster interacts with the lingering souls or bodies of the dead.
 
 # Religion
-Gods in Antir are born of faith. Though most faiths deny this fact, if enough people worship a god, it will eventually be created by the energy these prayers put into the world. It will then grow more powerful as it receives more faith. As it gains more power, it can use that to create more servants - angels and other lesser celestials - and grant miracles to its clerics and other followers.
+[[Gods]] in Antir are born of faith. Though most faiths deny this fact, if enough people worship a god, it will eventually be created by the energy these prayers put into the world. It will then grow more powerful as it receives more faith. As it gains more power, it can use that to create more servants - angels and other lesser celestials - and grant miracles to its clerics and other followers.
 
 Some also worship powerful fae, devils, or demons as gods. The line between such beings and a true celestial god is vague, and with enough worship, a spirit of another type can change and become a god - in whole or in part.
 
