@@ -1,8 +1,7 @@
 ---
 tags:
-  - incomplete
-  - private
-draft: true
+  - lore
+draft: false
 aliases:
   - Guns
   - Gun

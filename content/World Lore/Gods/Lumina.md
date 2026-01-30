@@ -12,7 +12,7 @@ tags:
 > | **Region** | [[Lucentia]] |
 > | **Pantheon** | [[Antiran Pantheon]] |
 > | **Symbol** | ? |
-> | **Followers** | Antiran royal family, healers, most Lucans |
+> | **Followers** | Antiran royal family, healers, most Lucentians |
 > | **Edicts** | Provide aid to the sick and wounded, be merciful, be honest |
 > | **Anathema** | Be cruel, deny healing to the needy, mislead others |
 > ### Devotee Benefits

@@ -30,6 +30,6 @@ She was spared execution thanks to pleas from the adventurers, and instead impri
 Her surname comes from her time as Faolan's guard. Late in the war, their camp was attacked in the night by [[Lasairian of Antir]]'s black [[dragon]] companion Ozymandias. When the dragon's acid ate away her shield, she instead took up a silver serving tray - and the magically-disruptive properties of silver made it immune to the dragon's breath. Using this tray alone, she held back the dragon long enough for her king to don his armor and arm himself to slay the beast. From that day forward she wielded a silver-plated shield.
 
 # Description
-Yvonne has the short and stocky build typical to dwarves, with copper skin and braided blonde hair. Unlike most dwarves, she wore no beard - perhaps in an attempt to appeal to Faolan's human tastes.
+Yvonne has the short and stocky build typical to dwarves, with sandstone-like skin and braided blonde hair. Unlike most dwarves, she wore no beard - perhaps in an attempt to appeal to Faolan's human tastes.
 
 She bears a large scar on her face, where her left eye and cheek were withered by necromancy in her fight with Kyrillos. The skin is greyed and the eye is a pale, pupil-less white.

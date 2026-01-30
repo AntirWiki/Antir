@@ -1,3 +1,8 @@
+---
+tags:
+  - private
+draft: true
+---
 The Autumn King:
 - Tension: Crumbling Tower (deltarune)
 - Battle: SPAWN (dark), GUARDIAN (dramatic)

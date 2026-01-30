@@ -8,7 +8,7 @@ Welcome, traveler, to the realm of [[Antir]]. It is a place of magic and wonder,
 ![[Antir Map.jpg]]
 
 # Locales
-Since the end of the Shining Crusade in 1352 BR, the continent can easily be divided into five parts. Though many Antirans still remember times of war, the major powers are currently in a tenuous peace - with open borders and open trade. Anyone can travel and live anywhere, as long as they're careful to follow local law and custom.
+Since the end of the Shining Crusade in 1352 BR, the continent can be easily divided into five parts. Though many Antirans still remember times of war, the major powers are currently in a tenuous peace - with open borders and open trade. Anyone can travel and live anywhere, as long as they're careful to follow local law and custom.
 
 ## The Holy Kingdom of Antir Lucentia
 The largest territory on Antir is the [[Lucentia|Holy Kingdom of Antir Lucentia]]. It is a vast theocratic monarchy, powerful in both economy and military, whose culture is dedicated to their gods.
@@ -27,7 +27,7 @@ Athraithe is not unified - dozens of small kingdoms, city-states, and other less
 Thanks to the thin veil with the spirit realm, spirits and magical creatures are even more common here than elsewhere on the continent, especially the nature-aligned fae. Because of this and the twisting landscape, [[Adventurer|Adventurers]] are frequently hired as guides and guards to those traveling in Athraithe.
 
 Some of the notable locales in the Strioc an Athraithe include:
-- [[Dragun Mac Tire]], the city that houses the Antiran [[Adventurer|Adventurers]] Guild's headquarters
+- [[Dragun Mac Tire]], the city that houses the [[Adventurer#The Adventurer's Guild|Antiran Adventurer’s Guild]] headquarters
 - [[Catsi Crossing]], a city where [[Witch|Witches]] from all across the continent gather
 - The [[Silent Woods]], a cursed forest that slowly kills any who dare enter it
 
@@ -37,7 +37,7 @@ Some of the notable locales in the Strioc an Athraithe include:
 Though small, the country remains a political force thanks to their powerful magic and exceptional education. It is led by a council of five individuals, each of whom represents an important part of Zauberan society.
 
 ## Blackwing
-The desert nation of [[Blackwing]] has the most powerful military on the continent, bar none - the [[Blackwing Legion]]. This is because they are at near-constant war with [[Taluvhas]], the continent south of Antir.
+The desert nation of [[Blackwing]] has the most powerful military on the continent: the [[Blackwing Legion]]. This is because they are at near-constant war with [[Taluvhas]], the continent south of Antir.
 
 Blackwing's government is strict, led by a triumvirate of powers - the military, the trade ministry, and the church of [[Verita]].
 
@@ -55,7 +55,7 @@ Many monstrous creatures make their homes in the Riverlands, and most who enter 
 
 There are two major settlements on the coast of the Riverlands, where the rivers do not shift, known as the Dueling Cities - the naval city of [[Kaava]], and the pirate city of [[Vakash]].
 
-There is an [[Archipelago]] in the bay south of the Riverlands, which does not suffer from these perils. Those who live on it vary from mercantile to piratical.
+There is an [[Archipelago]] in the bay south of the Riverlands. Those who live on it vary from mercantile to piratical.
 
 ### The Mountains
 The mountains around Antir - both north and south - are unforgiving places. Harsh weather and deadly fauna mean that only the most hardy peoples can survive for long on their peaks.
@@ -94,11 +94,13 @@ The Adventurer's Guild has offices in every major city (and most large towns), a
 # Magic
 [[Magic]] is an undeniable fact of life everywhere on the planet, and Antir is no different. Magic flows constantly through the souls of every mortal being, though most are unable to harness it - so the magic, with their thoughts and feelings imprinted upon it, enters the world and feeds - or becomes - a Spirit.
 
+With training, some individuals can harness their innate magic in subtle and subconscious ways. This allows them to perform impossible feats of perception, strength, agility, or intellect. 
+
 ## Spirits
-[[Spirits]] are born by the magic that flows through all mortal beings. When the energy moves through them, it is changed by the thoughts and feelings they're currently experiencing. When it leaves their body, it feeds a nearby spirit that has an affinity to those emotions - or, if sufficient quantities go unconsumed, creates a new spirit.
+[[Spirits]] are born by the magic that flows through all mortal beings. %%Most mortals are unable to actively harness their magic - instead, whenever they think about a being that isn’t real, their mind subconsciously uses a bit of magic to make it real - thus feeding a nearby spirit, or making a new one. %%When the energy moves through a mortal, it is shaped by the thoughts and feelings they're currently experiencing. When it leaves their body, it feeds a nearby spirit that has an affinity to those emotions - or, if sufficient quantities go unconsumed, creates a new spirit.
 
 Spirits are generally categorized into four types, though some spirits are difficult to classify. Each type has its own "layer" of [[Tir na Nog]], the realm of spirits:
-- Fae (a category that includes elementals) are made from thoughts about nature. Most magic from plants and animals becomes fae, since those creatures rarely have more complex thoughts or emotions. Most reside in the Faewild, but fae are the most common spirit to find in the mortal realm.
+- Fae (a category that includes elementals) are made from thoughts about nature. Most magic from plants and animals becomes fae. Most fae reside in the Faewild, but they are the most common spirit to find in the mortal realm.
 - Devils are born from desperation and deals, and live by transactions. They reside in the Six Hells.
 - Celestials (including gods and their servants) are born from faith and more abstract feelings, like justice or mercy. They are found in Elysium.
 - Demons are created and fed by fear. They dwell in the oceanic Abyss.
@@ -109,38 +111,38 @@ Most spirits live in [[Tir na Nog]], though they are often able to cross into th
 The methods of spellcasting vary widely by tradition:
 
 ### Arcane
-Arcane casters train themselves to harness their own magical energy. They are able to stop magic from flowing through them, and instead weild it to their own ends. Some see this as blasphemous or unnatural, since this practice prevents the energy from reaching the spirits (including gods).
+Arcane casters train themselves to harness their own magical energy. They are able to stop magic from flowing through them, and instead wield it to their own ends. Some see this as blasphemous or unnatural, since this practice prevents the energy from reaching the spirits (including gods).
 
-Some arcane casters learn this ability through careful study and practice - known as Wizards - while others are simply born with the capacity for arcana.
+Some arcane casters learn this ability through careful study and practice, and are known as Wizards. Others are simply born with the capacity for arcana.
 
 ### Primal
-Primal magic is done by a relationship with the spirits of nature. A primal caster provides local nature spirits - or a single spirit with which they have a close bond - with their magical energy, and in exchange, the spirits use their innate abilities to produce the desired spell effect.
+Primal magic is done by a symbiotic relationship with the spirits of nature. A primal caster gives some of their magical energy to local nature spirits (or a single spirit with which they have a close bond), and in exchange, the spirits use their innate abilities to produce the desired spell effect.
 
 ### Divine
-Divine magic is similar to primal, but instead of a transaction with local spirits, it is a transaction with the caster's god (or gods). Magical energy is provided to the god in the form of prayer, and the god uses their immense power to grant the effect the caster desires.
+Divine magic is similar to primal, but instead of a transaction with local spirits, it is a transaction with the caster's god (or gods). Magical energy is provided to the god in the form of prayer, and the god uses some of their immense power to grant the effect the caster desires.
 
 ### Occult
 Occult magic is less easily defined than the other three. It includes things like personal magic - where a caster manipulates the spirits in a person's own body, or even that person's soul. It also includes most necromancy, where a caster interacts with the lingering souls or bodies of the dead.
 
 # Religion
-[[Gods]] in Antir are born of faith. Though most faiths deny this fact, if enough people worship a god, it will eventually be created by the energy these prayers put into the world. It will then grow more powerful as it receives more faith. As it gains more power, it can use that to create more servants - angels and other lesser celestials - and grant miracles to its clerics and other followers.
+[[Gods]] in Antir are born of faith. Though most religions deny this fact, if enough people worship a god, it will eventually be created by the energy these prayers put into the world. It will then grow more powerful as it receives more faith. As it gains more power, it can use that to create more servants - angels and other lesser celestials - and grant miracles to its clerics and other followers.
 
-Some also worship powerful fae, devils, or demons as gods. The line between such beings and a true celestial god is vague, and with enough worship, a spirit of another type can change and become a god - in whole or in part.
+Some mortals also worship powerful fae, devils, or demons as gods. The line between such beings and a true celestial god is vague, and with enough worship, a spirit of another type can change and become a god - in whole or in part.
 
 Because gods are undeniably real, most people on Antir worship gods to some degree. A notable exception are the wizards of [[Zauberei]] - since wizards harness their own magical energy, they cannot provide it to a god, so the gods largely ignore their useless prayers.
 
 ## The Antiran Pantheon
-Most [[Lucentia|Lucentians]], and many outside that kingdom, worship a group of gods known as the [[Antiran Pantheon]]. This pantheon has several major gods and countless minor ones - going so far as to include gods of a single building, like the household *lares*.
+Most [[Lucentia|Lucentians]], and many outside that kingdom, worship a group of gods known as the [[Antiran Pantheon]]. This pantheon has several major gods and countless minor ones - even ones as small as the household *[[Antiran Pantheon#Lares|Lares]]*.
 
-Almost all who follow hte faith pay token respoect to the high gods of the pantheon, whose number includes:
+Almost all who follow the faith pay token respect to the high gods of the pantheon, whose number includes:
 - [[Lumina]], goddess of light and mercy - the leader of the pantheon and patron of the Lucentian royal family
 - Ceartas, god of justice and protection - the patron of the Lucentian military
+- Lamaera, god(dess) of passion and love
 - Raeldan, god of knowledge and history
 - [[Rhylea]], goddess of secrets and lies
 - Soln, the silent hunter, god of nature
-- Lamaera, god(dess) of passion and love
 
-Though these are the most powerful, the numerous lesser gods of the pantheon are not without dedicated followers, churches, and power.
+Though these are among the most powerful, the numerous lesser gods of the pantheon are not without dedicated followers, churches, and power.
 
 ## Verita
 Centuries ago, the faith of Lucent - goddess of light and truth - schismed into the faiths of Lumina and Verita. As a result, Lucent herself split in two - though each faith claims their goddess is the original, and the other a pretender.

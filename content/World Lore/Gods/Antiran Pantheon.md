@@ -15,6 +15,13 @@ Goddess of light and mercy
 - Leader of the pantheon and patron of the royal family
 - Formerly known as Lucent before the schism between Lumina and [[Verita]]
 
+## Ceartas
+(Pronounced care-tuss)
+God of protection, freedom, and justice. Patron god of the Lucentian military.
+
+## Lamaera
+God(dess) of love, passion, and obsession. They represent not only lust and romance, but passion in all its forms - be it for a person, a craft, a cause, or anything else.
+
 ## Raeldan
 God of history and discovery (twin and rival to Rhylea).
 His early summer festival includes storytellers, games of wit, poetry, debates, and public education.
@@ -24,12 +31,6 @@ Goddess of secrets and mystery (twin and rival to Raeldan).
 
 ## Soln
 The Silent Hunter, god of the woods and the hunt. They are said to be completely mute, and many members of their priesthood are as well - either by choice, birth, or injury.
-
-## Lamaera
-God of love, passion, and obsession. They represent not only lust and romance, but passion in all its forms - be it for a person, a craft, a cause, or anything else.
-
-## Ceartas
-God of protection, freedom, and justice. Patron god of the Lucan military.
 
 %%
 ## Harvest god?
@@ -50,4 +51,4 @@ God of those who suffer. Tival is a god for those whose woes cannot be cured. He
 The secret god of soldiers. They represent martyrs and those who do thankless work.
 
 # Lares
-Many faithful also give offerings and prayers to small celestial guardian spirits known as **Lares** or "Household Gods". These spirits tend to protect a single place, which is often a home but can also include other buildings, roadways, fields, and anywhere else enclosed by a boundary. Unlike most lesser celestials, Lares are not servants of a god, and are empowered directly by those who honor them. 
+Many faithful also give offerings and prayers to small celestial guardian spirits known as **Lares** (pronounced Lair-eez) or "Household Gods". These spirits tend to protect a single place, which is often a home but can also include other buildings, roadways, fields, and anywhere else enclosed by a boundary. Unlike most lesser celestials, Lares are not servants of a god, and are empowered directly by those who honor them.

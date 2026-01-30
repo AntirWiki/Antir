@@ -21,8 +21,10 @@ After their interactions with mortals as allies of [[Lasairian of Antir]]'s army
 Dragon-seers are mysterious spellcasters from the south of Antir, rumored to have similar bonds to dragons as the leadership of Lasairian's army during the Three Kings War.
 
 # Notable Dragons
-Ozymandias, black dragon, companion to Lasairian of Antir during the Three Kings War until the death of both during the final battle in 952 BR.
+**Ozymandias**, black dragon, companion to Lasairian of Antir during the Three Kings War until the death of both during the final battle in 952 BR.
 
 [[Dilitrius]], green dragon, master of [[General Tanner]] during and after the Three Kings War and mastermind of the 953 BR [[Alturon#Siege of 953|Siege of Alturon]] in which he was killed by [[Tooth and Claw]].
 
-Velns, magma dragon, companion to [[Darios O'Mael]] until the dragon's death in [[Dun na Fal]] during the Three Kings War.
+**Velns**, magma dragon, companion to [[Darios O'Mael]] until the dragon's death in [[Dun na Fal]] during the Three Kings War.
+
+**Pallax Hellwing**, the terror of [[Manaius]].

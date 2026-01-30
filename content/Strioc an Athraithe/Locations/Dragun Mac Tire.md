@@ -28,7 +28,7 @@ The city attracts butterflies and moths en masse. The reason is unknown, but sch
 
 The city hosts several learning institutions, in many different areas of interest. These include both natural skills, like the herbalism and alchemy practiced by [[Witch|Wisdoms]], and magical talents like the arcana of Wizards.
 
-Markets across the city advertise to travelers and adventurers alike, offering trinkets, potions, and more (legitimate or otherwise) to assist in dangerous quests.
+Markets across the city advertise to travelers and adventurers alike, offering trinkets, potions, and more (legitimate or otherwise) to assist in dangerous quests. The most popular of these is just outside Heroes Square, a colorful assortment of tents and stalls known as the **Painted Market**.
 
 # People
 **Rosaline and Kastenia Valentine** - Founders of the guild. The sorcerous twins still lead the organization, but have not made a public appearance in many years.

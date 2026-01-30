@@ -25,7 +25,7 @@ tags:
 > | **Favored Weapon** | Dagger |
 > | **Cleric Spells** | ? ? ? |
 
-Rhylea is the Antiran goddess of secrets and darkness. She is twin and rival to [[Antiran Pantheon#**Raeldan**|Raeldan]], god of knowledge and history.
+Rhylea is the Lucentian goddess of secrets and darkness. She is twin and rival to [[Antiran Pantheon#**Raeldan**|Raeldan]], god of knowledge and history.
 
 Her most elite followers are the [[Keyshadows]], a group of assassins that serve the interests of [[Lucentia]] both domestically and abroad.
 
