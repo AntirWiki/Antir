@@ -18,11 +18,14 @@ Despite these varied views of adventuring, an adventurer's work is more or less 
 
 The adventurer's guild is an organization that spans across Antir, offering community and support for adventurers of all types.
 
-Guild members are given a badge in a metal that shows their rank: copper, silver, or gold. Some have questioned the lack of a platinum rank, but common logic says that if one deserves a platinum badge, one is likely so famous they no longer need a badge at all. 
-
 The symbol of the Guild is a wolf and a dragon, entwined around a sword. It represents legendary heroes [[Valerie Bouchard|Corsair Molossus Valerie]] and [[Darios O'Mael|Sir Darios Scalemaster]], who are seen as the first modern adventurers.
 
 The guild's headquarters are located in [[Dragun Mac Tire]].
+
+## Ranks
+Guild members are given a badge in a metal that shows their rank: copper, silver, or gold. Most guild quests are posted with a required rank, higher ranked quests being more dangerous but more profitable. 
+
+Some have questioned the lack of a platinum rank, but if an adventurer deserves a platinum badge, they are likely so famous they no longer need a badge at all. They are also likely too expensive for the Guild’s clients, and so powerful that the Guild services are no longer useful to them. 
 
 ## Services
 ### The Grand Leger

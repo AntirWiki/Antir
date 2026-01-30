@@ -26,8 +26,8 @@ The Dragon Wars
 - 1100: Magic is declared illegal in the Holy Kingdom. [[Zauberei]] declares its independence, soon followed by [[Catsi Crossing]] in the fae-warped [[Strioc an Athraithe]].
 - 1168: [[Adventurer#The Adventurer's Guild|The Adventurer's Guild]] is founded in [[Dragun Mac Tire]] and quickly spreads across the continent.
 - 1217: [[Blackwing]] declares its independence, causing the remaining lands of the Kingdom to shatter into dozens of smaller states. This period is known by Kingdom historians as **The Dissolution**. The Holy Kingdom is reduced to a shadow of its former glory.
-- 1270 BR: The [[Golden Saint]] is sanctified in the Kingdom and begins the **Shining Crusade**. Kingdom armies begin retaking all land north of Blackwing and west of Athraithe. As it is reborn, the nation is once again given a new title: [[Lucentia|The Holy Kingdom of Antir Lucentia]].
+- 1270: The [[Golden Saint]] is sanctified in the Kingdom and begins the **Shining Crusade**. Kingdom armies begin retaking all land north of Blackwing and west of Athraithe. As it is reborn, the nation is once again given a new title: [[Lucentia|The Holy Kingdom of Antir Lucentia]].
 
-1352 BR-Present (1372) (Name pending)
-- 1352: The Shining Crusade ends, and borders (except those in the chaotic Athraithe) solidify. Most nations open their borders to one another, and a tentative peace settles over the continent
+1352 BR-Present (1372) (The Modern Era)
+- 1352: The Shining Crusade ends, and borders (except those in the chaotic Athraithe) solidify. Most nations open their borders to one another, and a tentative peace settles over the continent. 
 - 1362: The Autumn King completes his conquest of Taluvhas and turns his eyes northwards, towards the destruction of Antir.

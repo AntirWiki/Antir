@@ -31,5 +31,7 @@ The powers of the Golden Saint are myriad, and no two Lucentians agree on which 
 
 Some rumors say that you cannot lie in their presence, that they can turn the wicked to ash with a gaze, and that they can sprout angelic wings to soar through the air. 
 
+In combat they wield a blade known as *The Last Mercy*. It is allegedly the sword they were holding when they were sanctified, and it has a gold-and-porcelain appearance that compliments the Saint’s. 
+
 %% The saint always hears truth. If you lie in their presence, they don’t hear the lie at all - to their ears, you spoke the truth instead. The only known counter is a boon from Rhylea or a similar god of lies. 
 %%
