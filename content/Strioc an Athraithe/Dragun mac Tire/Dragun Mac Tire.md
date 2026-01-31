@@ -22,7 +22,7 @@ The town is known to have an active nightlife, but this is restricted to the bus
 The city attracts butterflies and moths en masse. The reason is unknown, but scholars theorize it is likely fae-related.
 
 # Locations
-**The [[Adventurer's Guild Headquarters]]**, a grand building that houses the leadership and logistics of the guild.
+**The [[Adventurer's Guild Headquarters]]**, a grand building that houses the leadership and logistics of the guild. It also serves as the center of city government.
 
 **Heroes Square**, a plaza in front of the headquarters that hosts statues of legendary adventurers [[Valerie Bouchard|Corsair Molossus Valerie]] and [[Darios O'Mael|Scalemaster Darios O'Mael]]. Offerings are often left under the statues, often including teeth, bones, flowers, and coins. Smaller statues of famed Guild adventurers line the outer edge of the plaza.
 
@@ -33,7 +33,7 @@ Markets across the city advertise to travelers and adventurers alike, offering t
 # People
 Many residents of the town are adventurers, either active or retired. 
 
-See [[Adventurer's Guild Headquarters#People]].
+See [[Adventurer's Guild Headquarters#People|Adventurer's Guild Headquarters]].
 
 # Government
 The city is run by a council of Guildhearts (senior members of the Guild), led by guild founders Rosaline and Kastenia Valentine. The founders rarely take direct interest in the town's administration.

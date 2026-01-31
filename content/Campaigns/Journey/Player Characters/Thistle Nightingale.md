@@ -27,7 +27,7 @@ draft: true
 > | [[Kirturok Stonehoof]] | Father figure |
 > %%
 > | [[Kuruk]] | Father |
-> | [[Yarrow Nightingale]] | Mother |
+> | [[Yarrow Nightingale]] (Deceased) | Mother |
 > %%
 
 Summary

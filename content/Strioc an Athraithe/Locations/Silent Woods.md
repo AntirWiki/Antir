@@ -12,7 +12,7 @@ Trees and other plants within the forest appear completely dead, yet somehow con
 
 There have been sightings of strange necrotic creatures living amongst the dead trunks, and legend says that some witches who followed the Autumn King - twisted by their master, and now known as [[Witch|Hags]] - still live within the forest's borders.
 
-The trees around the Silent Wood, while not dead like those within it, are still withered and gnarled. Locals call this area the [[Ravenwood]].
+The trees around the Silent Wood, while not dead like those within it, are still withered and gnarled. Locals call this liminal area the [[Ravenwood]].
 
 # Residents
 Scoth the Child-Flenser, [[Hag]].

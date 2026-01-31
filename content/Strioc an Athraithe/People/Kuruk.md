@@ -20,7 +20,7 @@ draft: true
 > |  |  |
 > | ---- | ---- |
 > | [[Thistle Nightingale]] | Child |
-> | [[Yarrow Nightingale]] | Late Partner |
+> | [[Yarrow Nightingale]] (Deceased) | Partner |
 
 Kuruk is the [[Spirits#The Fae|Fae]] guardian of the the [[Ravenwood]], the forest bordering the [[Silent Woods]].
 
