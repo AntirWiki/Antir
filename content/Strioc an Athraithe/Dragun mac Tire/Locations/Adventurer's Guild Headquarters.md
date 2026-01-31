@@ -2,7 +2,7 @@
 tags:
   - location
 ---
-![[GuildHQ.png|right|500]] The headquarters of the [[Adventurer#The Adventurer's Guild|Antiran Adventurer's Guild]] is located in [[Dragun Mac Tire]]. It is a grand building, with many towers and crenellations and enough twisting corridors to become lost in.
+![[GuildHQ.jpg|right|500]] The headquarters of the [[Adventurer#The Adventurer's Guild|Antiran Adventurer's Guild]] is located in [[Dragun Mac Tire]]. It is a grand building, with many towers and crenellations and enough twisting corridors to become lost in.
 
 It houses several key parts of the guild. Records of all registered adventurers, past and present, are found alongside the many tomes of the guild library. The building also houses the many relics that have been donated to or acquired by the guild, including the **Keystone Ledger** - the great message board that links the Grand Ledgers of guildhalls across Antir.
 

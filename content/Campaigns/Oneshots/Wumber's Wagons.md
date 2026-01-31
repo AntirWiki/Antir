@@ -10,10 +10,7 @@ The city of [Dragun mac Tire](https://antirwiki.github.io/Antir/Strioc-an-Athrai
 As a rookie adventurer yourself, you’ve made your way to the city in search of opportunity. Among the dozens of quest listings posted by the Guild, a particularly flashy one catches your eye. The pay is mediocre, but as a copper rank adventurer -especially a brand-new one - you have to take what you can get. 
 
 Those new to Antir are welcome to read (or skim) the [Voyager’s Guide](https://antirwiki.github.io/Antir/Miscellanious/Voyager's-Guide-to-Antir), but it’s totally optional. I’m also always always happy to answer questions about Antir or about pathfinder. 
-
-> A flyer that reads:
-> “WUMBER TIMBLE’S WONDROUS WAGONEERS need BRAVE HEROES!
-> Escort Antir’s most fantastical circus to the beautiful city of Marigold!”
+![[WumberPoster.png|center|300]]
 
 
 # Introduction
