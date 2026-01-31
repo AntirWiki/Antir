@@ -20,7 +20,7 @@ The adventurer's guild is an organization that spans across Antir, offering comm
 
 The symbol of the Guild is a wolf and a dragon, entwined around a sword. It represents legendary heroes [[Valerie Bouchard|Corsair Molossus Valerie]] and [[Darios O'Mael|Sir Darios Scalemaster]], who are seen as the first modern adventurers.
 
-The guild's headquarters are located in [[Dragun Mac Tire]].
+The guild's [[Adventurer's Guild Headquarters|headquarters]] are located in [[Dragun Mac Tire]].
 
 ## Ranks
 Guild members are given a badge in a metal that shows their rank: copper, silver, or gold. Most guild quests are posted with a required rank, higher ranked quests being more dangerous but more profitable. 
