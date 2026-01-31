@@ -1,6 +1,8 @@
 ---
 tags:
   - location
+aliases:
+  - Athraithe
 ---
 
 ![[AthraitheMap.jpg|right|500]]
