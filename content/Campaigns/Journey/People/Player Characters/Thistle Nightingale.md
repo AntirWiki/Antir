@@ -3,21 +3,20 @@ tags:
   - character
   - pc
   - journey
-  - private
   - incomplete
-draft: true
+draft: false
 ---
 > [!infobox]
 > ## Thistle Nightingale
-> ![[unknown.png|200]]
+> ![[thimble.png|200]]
 > ### General Info
 > |  |  |
 > |  ----|  ----|
 > | **Ancestry** | Human / Fae |
-> | **Age** | ? |
+> | **Age** | 24 |
 > | **Gender** | Non-Binary (They/Them)|
 > | **Home** | [[Elmhollow]] |
-> | **Occupation** | Adventurer |
+> | **Occupation** | [[Adventurer]] |
 > | **Status** | Alive |
 > ### Relationships
 > |  |  |
@@ -30,10 +29,10 @@ draft: true
 > | [[Yarrow Nightingale]] (Deceased) | Mother |
 > %%
 
-Summary
+Thistle Nightingale is an [[Adventurer]] active around [[Strioc an Athraithe]].
 
 # Description
-
+Thistle has tan skin and dark hair that transitions into black feathers towards their neck and around their face. They have large black wings and slightly avian features.
 %%
 Broken wings from the first fight
 %%

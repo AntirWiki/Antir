@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"efe48ed0afc601d3","type":"text","text":"#private #journey ","x":-660,"y":-460,"width":250,"height":60},
+		{"id":"edad1eba6a9c4131","type":"text","text":"[[Vada]]","x":-500,"y":-180,"width":110,"height":60,"color":"3"},
+		{"id":"72f22c62f662c71b","type":"text","text":"[[Kyrillos]]","x":-100,"y":260,"width":160,"height":60,"color":"1"},
+		{"id":"2d344eb065b805b9","type":"text","text":"[[Autumn King]]","x":-100,"y":320,"width":160,"height":60,"color":"1"},
+		{"id":"ad94f920d5f9e054","type":"text","text":"[[Juniper]]","x":-100,"y":200,"width":160,"height":60,"color":"3"},
+		{"id":"0a162696c92db82d","type":"text","text":"[[Kirturok Stonehoof]]","x":260,"y":-10,"width":200,"height":60,"color":"4"},
+		{"id":"8002caa8ef2fdf59","type":"text","text":"[[Otto Von Geist]]","x":-400,"y":-10,"width":170,"height":60,"color":"4"},
+		{"id":"65cc0c73c8b8d3d7","type":"text","text":"[[Willow]]","x":-400,"y":540,"width":125,"height":60,"color":"4"},
+		{"id":"7d6f131409a14d3d","type":"text","text":"The Retting","x":-260,"y":420,"width":138,"height":60,"color":"3"},
+		{"id":"a0d8590ce6783388","type":"text","text":"[[Archivaldo]]","x":-720,"y":-40,"width":151,"height":60,"color":"1"},
+		{"id":"859b5223ca45c414","type":"text","text":"[[Thistle Nightingale]]","x":320,"y":570,"width":190,"height":60,"color":"4"},
+		{"id":"691dbc2edd497aba","type":"text","text":"[[Kuruk]]","x":136,"y":515,"width":124,"height":55,"color":"3"},
+		{"id":"fb469248542732eb","type":"text","text":"[[Silent Woods]]","x":102,"y":395,"width":178,"height":50},
+		{"id":"87890b59c641f72c","x":510,"y":-210,"width":250,"height":60,"color":"1","type":"text","text":"[[Lord of Labyrinths]]"}
+	],
+	"edges":[
+		{"id":"e48b633033634acb","fromNode":"edad1eba6a9c4131","fromSide":"right","toNode":"8002caa8ef2fdf59","toSide":"top","fromEnd":"arrow","label":"Bound"},
+		{"id":"db336a23f82a259e","fromNode":"65cc0c73c8b8d3d7","fromSide":"top","toNode":"ad94f920d5f9e054","toSide":"left","fromEnd":"arrow","label":"Family"},
+		{"id":"1591d43b9abd7639","fromNode":"859b5223ca45c414","fromSide":"bottom","toNode":"65cc0c73c8b8d3d7","toSide":"bottom","fromEnd":"arrow","label":"Once Friends"},
+		{"id":"d029999c56f95e45","fromNode":"859b5223ca45c414","fromSide":"top","toNode":"ad94f920d5f9e054","toSide":"right","fromEnd":"arrow","label":"Love?"},
+		{"id":"59f76e649dbb32c1","fromNode":"859b5223ca45c414","fromSide":"left","toNode":"691dbc2edd497aba","toSide":"bottom","fromEnd":"arrow","label":"Family"},
+		{"id":"05de69c6671a4a0a","fromNode":"859b5223ca45c414","fromSide":"right","toNode":"0a162696c92db82d","toSide":"right","fromEnd":"arrow","label":"Friends"},
+		{"id":"79ca87ad77f5c8e2","fromNode":"72f22c62f662c71b","fromSide":"left","toNode":"7d6f131409a14d3d","toSide":"top"},
+		{"id":"3e07b7005a96c325","fromNode":"2d344eb065b805b9","fromSide":"left","toNode":"7d6f131409a14d3d","toSide":"top","label":"Needs"},
+		{"id":"b89c7f6019849808","fromNode":"691dbc2edd497aba","fromSide":"top","toNode":"fb469248542732eb","toSide":"bottom","label":"Needs"},
+		{"id":"144d7decf70b9a5f","fromNode":"fb469248542732eb","fromSide":"top","toNode":"72f22c62f662c71b","toSide":"right","label":"Needs"},
+		{"id":"114ce7d8d30d43e8","fromNode":"0a162696c92db82d","fromSide":"left","toNode":"ad94f920d5f9e054","toSide":"top","fromEnd":"arrow","label":"Friends?"},
+		{"id":"f11385c2e1724231","fromNode":"7d6f131409a14d3d","fromSide":"bottom","toNode":"65cc0c73c8b8d3d7","toSide":"right","label":"Host"},
+		{"id":"a1d1125823f5a3fa","fromNode":"a0d8590ce6783388","fromSide":"right","toNode":"8002caa8ef2fdf59","toSide":"left","fromEnd":"arrow","label":"Bound"},
+		{"id":"3b3102aa894d8b03","fromNode":"fb469248542732eb","fromSide":"left","toNode":"7d6f131409a14d3d","toSide":"right","toEnd":"none"},
+		{"id":"d0ed4520fd69c7d4","fromNode":"0a162696c92db82d","fromSide":"bottom","toNode":"2d344eb065b805b9","toSide":"right","label":"God-killing practice"},
+		{"id":"bbd20ed8e9e83e6e","fromNode":"0a162696c92db82d","fromSide":"top","toNode":"87890b59c641f72c","toSide":"left","label":"Hates"},
+		{"id":"f3e0ee2e7a8f9274","fromNode":"87890b59c641f72c","fromSide":"bottom","toNode":"0a162696c92db82d","toSide":"right","label":"Cultivating"},
+		{"id":"755e164808c70579","fromNode":"8002caa8ef2fdf59","fromSide":"bottom","toNode":"72f22c62f662c71b","toSide":"left","label":"Hunting"}
+	]
+}

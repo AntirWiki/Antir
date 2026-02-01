@@ -28,8 +28,6 @@ Antir is a large continent that is home to several nations and many peoples. The
 
 It is bordered to the north by the [[Everweald]], to the south by [[Taluvhas]], and to the east by the land of the [[Giant|Giants]]. There is also a small [[Archipelago]] off the southern coast.
 
-If you have never visited Antir before, you may be interested in the [[Voyager's Guide to Antir|Voyager's Guide]], which gives an overview of the realm and its people.
-
 # Locations
 The continent is divided into five main regions:
 
