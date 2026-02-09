@@ -17,11 +17,12 @@ Alturon is the capital of Lucentia and the largest city in [[Antir|Antir]]
 # Locations
 **The [[Sunlit Palace]]** is a beautiful palace in the center of the city, and is home to Lucentia's monarchs and religious leaders.
 
-**The Ceartenaeum** is a grand temple and administrative building that also serves as the high courthouse of Lucentia. High profile trials are held here, under the watchful gazes of massive statues of [[Lumina]] and [[Antiran Pantheon#Ceartas|Ceartas]]. 
+**The Ceartenaeum** is a grand temple and administrative building that also serves as the high courthouse of Lucentia. High profile trials are held here, under the watchful gazes of massive statues of [[Lumina]] and [[Ceartas]]. 
 
 **Catsi Quarter** is a mostly residential neighborhood that also features a number of 'rural' trades such as butchers and spinners. It was once populated by refugees from [[Catsi Crossing]] after the town's destruction in 950 BR. Its name and historical connection to the town have given it an association with witches, causing a number of alchemists and healers to set up shop there.
 
 # People
+- The [[Golden Saint]], saint of [[Lumina]] and monarch of Lucentia, resides in the [[Sunlit Palace]].
 
 # History
 In the Great Kingdom era, Alturon was the capital of the unified Kingdom of Antir. 

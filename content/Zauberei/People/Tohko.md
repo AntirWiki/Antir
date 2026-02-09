@@ -3,7 +3,7 @@ tags:
   - character
 ---
 > [!infobox]
-> ## Tohko
+> ## Mayor Tohko
 > ### General Info
 > |  |  |
 > |  ----|  ----|
@@ -11,10 +11,18 @@ tags:
 > | **Age** | ? |
 > | **Gender** | Nonbinary (Any pronouns) |
 > | **Home** | [[Zauberei]] |
-> | **Occupation** | Mayor |
+> | **Occupation** | Mayor, Councilor |
 > | **Status** | Alive |
+> ### Relationships
+> |  |  |
+> | ---- | ---- |
+> | [[General Konketsu]] | Colleague |
+> | [[Miriam Varazs]] | Colleague |
 
-Tohko is the mayor of Zauberei.
+Tohko is the mayor of [[Zauberei City]] and the Vox Populi on the Zauberan Council.
 
 # Description
 A slender kitsune with white fur. They have a humanoid form, with pale skin and long dark hair, though he does not often use it.
+
+# History
+Tohko was a member of [[Cianan of Antir]]'s staff before the [[Three Kings War]]. At one point during the war she was in a relationship with [[West Hemlocke]].

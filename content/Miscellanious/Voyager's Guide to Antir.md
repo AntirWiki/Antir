@@ -13,7 +13,9 @@ Since the end of the Shining Crusade in 1352 BR, the continent can be easily div
 ## The Holy Kingdom of Antir Lucentia
 The largest territory on Antir is the [[Lucentia|Holy Kingdom of Antir Lucentia]]. It is a vast theocratic monarchy, powerful in both economy and military, whose culture is dedicated to their gods.
 
-Religion has a central place in the lives of most Lucentians. Their [[Antiran Pantheon|pantheon]] of gods - led by [[Lumina]], goddess of light and mercy - are given great respect in every day life, and each of the major gods has a dedicated festival each year. Arcane magic is seen as an affront to the gods in Lucentia- its use is heavily frowned upon, and selling arcane goods or services anywhere in the nation is illegal.
+Religion has a central place in the lives of most Lucentians. Their [[Antiran Pantheon|pantheon]] of gods - led by [[Lumina]], goddess of light and mercy - are given great respect in every day life, and each of the major gods has a dedicated festival each year. Though they favor their own pantheon, all gods and faiths are welcome in the kingdom. 
+
+Arcane magic is seen as an affront to the gods in Lucentia- its use is heavily frowned upon, and selling arcane goods or services anywhere in the nation is illegal.
 
 The monarch of the kingdom is a [[Saint]] (a half-spirit demigod) known as the [[Golden Saint]]. Their sanctification by Lumina about a century ago started the 50-year campaign known as the Shining Crusade, which returned the Holy Kingdom - much diminished, at the time - to a place of power.
 
@@ -41,7 +43,7 @@ The desert nation of [[Blackwing]] has the most powerful military on the contine
 
 Blackwing's government is strict, led by a triumvirate of powers - the military, the trade ministry, and the church of [[Verita]].
 
-The people of Blackwing are deeply religious, almost every resident following the Veritan faith. Verita is a goddess of truth and righteousness, unmerciful but powerful - traits that have greatly influenced the militaristic society of the country.
+The people of Blackwing are deeply religious, almost every resident following the Verax faith. Verita is a goddess of truth and righteousness, unmerciful but powerful - traits that have greatly influenced the militaristic society of the country.
 
 Blackwing has also recently gained notoriety as the only nation that makes regular use of [[Firearms]], and mines in the country are the only source of the strange substance known as "[[Firearms|Brightpowder]]" that powers them.
 
@@ -136,11 +138,12 @@ Most [[Lucentia|Lucentians]], and many outside that kingdom, worship a group of 
 
 Almost all who follow the faith pay token respect to the high gods of the pantheon, whose number includes:
 - [[Lumina]], goddess of light and mercy - the leader of the pantheon and patron of the Lucentian royal family
-- Ceartas, god of justice and protection - the patron of the Lucentian military
-- Lamaera, god(dess) of passion and love
-- Raeldan, god of knowledge and history
+- [[Ceartas]], god of justice and protection - the patron of the Lucentian military
+- [[Lamaera]], god(dess) of passion and love
+- [[Raeldan]], god of knowledge and history
 - [[Rhylea]], goddess of secrets and lies
-- Soln, the silent hunter, god of nature
+- [[Soln]], the silent hunter, god of nature
+- [[Tarbh]], god of wealth, luck, and the harvest.
 
 Though these are among the most powerful, the numerous lesser gods of the pantheon are not without dedicated followers, churches, and power.
 

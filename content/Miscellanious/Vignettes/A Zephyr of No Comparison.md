@@ -1,3 +1,8 @@
+---
+tags:
+  - story
+  - lore
+---
 _Perhaps a tale spread by pirates? Merchants? Traders and Thieves from somewhere and headed somewhere else. A story spread from shop to ship? Perhaps not._ 
 
 > [!quote] An order tacked to a ship’s mast.

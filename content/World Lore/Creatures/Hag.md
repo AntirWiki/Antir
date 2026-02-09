@@ -1,3 +1,7 @@
+---
+tags:
+  - lore
+---
 Hags are [[Witch|Witches]] who have been twisted in both mind and body by their dealings with the spirits. Most hags appear inhuman and terrifying, and as such hide away from mortal society. Many hags hate other mortals for their transgressions against nature and the spirits.
 
 Hags typically live in the dark and unvisited places of the world. They are most commonly found residing within the [[Silent Woods]]. Many of these hags were followers of the [[Autumn King]] before he was banished from Antir, or are fanatical extremist worshippers of the [[Witch Queen]].
@@ -9,6 +13,7 @@ Hags rarely interact with each other, and even more rarely interact with other w
 - Scoth the Child Flenser, an "upsettingly attractive" hag with even more upsetting habits
 
 # The Space Between Fevered Breaths
+#story
 _Perhaps flashes of heat, flesh, and a desperate dance in the Zauberan countryside? Perhaps not._ 
 
 The [[Zauberei City|wizard city]] glows in a contained stronghold of multicolored arcane light. It is perhaps the place in Antir most separate from the natural order of flora and fauna, and the magics associated with it. It stands as a proud bastion of the raw power of the Arcane, even to the point of standing separate from the rest of the country’s supporting of wizardry but proud following of divine magics above all. It was the ultimate playground for magical development, and stood as a center for superiority over all other forms of performing what is seemingly miracles and marvels out of thin air. The place was thick with superiority complex over clerical studies, and a deep rooted hatred for and fear of witches. 

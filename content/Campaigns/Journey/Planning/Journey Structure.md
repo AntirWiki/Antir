@@ -6,6 +6,7 @@ draft: true
 ---
 1 - Fall - Elmhollow
 	Get ass beat, get to Zauberei 
+	Introduction to travel?
 
 2 - Fall - Zauberei
 	Foxfire dungeon
@@ -21,6 +22,7 @@ draft: true
 	Rhylea's festival?
 
 6 - Spring - Kingdom
+	Getting support from the Kingdom?
 	[[On Trial]]
 
 7 - Spring - Kingdom/border town
@@ -40,4 +42,4 @@ draft: true
 
 12 - Spring - Taluvhas capital
 	Autumn King's palace
-	Kill Kyrillos before the two can remerge
+	Kill Kyrillos before the two can remerge (giant tree monster?)

@@ -29,7 +29,7 @@ Lumina is the goddess of light and mercy in [[Lucentia]]. She is the head of the
 
 She was once an aspect of the goddess Lucent until the 1020 BR schism between Lumina and [[Verita]] divided the goddess in two.
 
-Lumina's midsummer festival is the grandest in the Lucentian calendar, and serves as both a celebration of the goddess and of the Kingdom.
+Lumina's midsummer festival, the Luminalia, is the grandest in the Lucentian calendar, and serves as both a celebration of the goddess and of the Kingdom.
 
 Her greatest champion on Antir is the [[Golden Saint]], monarch of Lucentia.
 

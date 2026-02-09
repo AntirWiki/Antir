@@ -29,15 +29,11 @@ Near-constant wars with Taluvhas have led Blackwing to become highly militaristi
 ## Other
 %%
 The [[Great Gates]], a pair of dunes whose valley hosts several %%[[Firearms#Brightpowder|Brightpowder]]%% mines.
-%%
-# People
-- [[Amelia Bouchard]], High Minister of Trade
-%%
 
 # Government
 Blackwing is led by three bodies:
 
-The [[Blackwing Legion]], the largest and most powerful group, is the nation's military. It is led by the High General, who is chosen by contests of might within the Legion.
+The [[Blackwing Legion]], the largest and most powerful group, is the nation's military. It is led by the [[High General]], who is chosen by contests of might and skill within the Legion. A worthy challenger faces three contests: one chosen by them, one chosen by the High General they are challenging, and one chosen by the church of Verita. The current High General, a dark-skinned human man, is known for choosing chess.
 
 The church of [[Verita]], led by the Highpriest, advises the High General and performs some bureaucratic duties.
 
@@ -54,18 +50,29 @@ The roles and leadership of each body are governed by a set of rules known as th
 >
 >**Commerce commands Legion**. For our militia to flow, trade, too, must flow. In our quest for might, we must not forget what feeds our people. Then, our statecraft dictate the existence of a High Minister of Trade and a Ministry of Trade, who holds complete control over our internal and external trades, as well as the organization and arrangement of our logistical supply chain. They must also research the arts of agriculture and horticulture, and has the responsibility to provide the people of our land with ample food. A new High Minister of Trade is to be elected internally within the board of the Ministry of Trade once every ten years. May we hold Dominion unto ourselves.
 
+# Culture
+Most residents of Blackwing follow the faith of [[Verita]]. Worship of other gods is not outright banned, but it is heavily frowned upon.
+
 # Geography
 https://www.tumblr.com/wheelie-sick/754212172926697472/oh-i-live-in-a-desert-and-wow-that-must-be-so
-The deserts and plains of southern Antir are arid and hostile, but still serve as habitats for numerous plants, animals, and spirits. Birds, reptiles, and insects make up most of the fauna of the region, alongside a few specially adapted mammals. Most plant life is found in scrub grass, cacti, and weathered trees adapted to retain water.
-
-Many of the magical beings in the desert have increased body temperatures to account for the heat around them, and some (such as the desert drake, commonly used as mounts by the people of the country) can use that heat to generate smoke or even flame.
+The deserts and plains of southern Antir are arid and hostile, but still serve as habitats for numerous plants, animals, and spirits. Birds, reptiles, and insects make up most of the fauna of the region, alongside a few specially adapted mammals. Most plant life is found in scrub grass, cacti, and weathered trees adapted to retain water, though some areas are known for beautiful floral blooms after rainfall.
 
 There are very few sources of freshwater, with the largest body of water of the country being a saltwater lake. Most mortal residents drink stored rainwater, groundwater from wells, or liquid from harvested fruits and other plants.
+
+Many of the magical beings in the desert have increased body temperatures to account for the heat around them, and some (such as the **desert drake**, commonly used as Legionary mounts) can use that heat to generate smoke or even flame. 
+
+>[!caption|right]
+>![[Chull.png|right|300]]
+>A chull with rider
+
+**Chulls** are large crustaceans that wear a massive rocky shell on their backs, often used as beasts of burden due to their ability to tow large cargo great distances - though not very quickly.
+
+**Spark Lilies** are [pyrophytic](https://en.wikipedia.org/wiki/Pyrophyte) flowers known for starting spontaneous fires when blooming in large quantities. The wildfires they cause typically burn up the flowers, but the thermal gusts disperse their fireproof seeds far across the savannah.
+
 %%
 Colony creatures, territorial, burrowers? (Meercat)
 Things that burrow in the sand (spiders? Web traps?)
 Creature that phases out to avoid heat
-In the savannahs - plants that, when present in large enough quantities, use magic to combust and spread seeds
 %%
 
 # History

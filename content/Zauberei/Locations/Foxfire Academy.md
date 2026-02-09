@@ -24,8 +24,6 @@ The university is divided into several schools, each with numerous departments a
 ## Magus College
 The magus college teaches a blend of martial and magical techniques for those with high magical potential but less interest in the academic side of arcana.
 
-The Magi are the most recent addition to the university. Before the college's inception, magi mostly learned in small schools taught by a single master.
-
 ## School of the Boundary
 The School of the Boundary is a direct continuation of university founder Cianan of Antir's work on animancy, the magic of souls. It also concerns itself with research on [[Spirits]].
 

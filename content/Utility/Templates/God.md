@@ -8,7 +8,7 @@ tags:
 > |  |  |
 > |  ----|  ----|
 > | **Titles** | ? |
-> | **Domains** | ? |
+> | **Domains** | https://2e.aonprd.com/Domains.aspx |
 > | **Region** | ? |
 > | **Pantheon** | ? |
 > | **Symbol** | ? |
@@ -25,4 +25,3 @@ tags:
 > | **Favored Weapon** | ? |
 > | **Cleric Spells** | ? ? ?|
 
-https://2e.aonprd.com/Domains.aspx

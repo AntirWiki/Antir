@@ -21,8 +21,8 @@ draft: false
 > ### Relationships
 > |  |  |
 > | ---- | ---- |
-> | [[Willow]] | Childhood Friend |
-> | [[Juniper]] | Childhood Friend |
+> | [[Willow Beaumont]] | Childhood Friend |
+> | [[Juniper Beaumont]] | Childhood Friend |
 > | [[Kirturok Stonehoof]] | Father figure |
 > %%
 > | [[Kuruk]] | Father |

@@ -2,8 +2,8 @@
 tags:
   - character
 aliases:
-  - Aine of Antir
   - The Sanctified Monarch
+  - Aine of Antir
 ---
 > [!infobox]
 > ## Áine of Antir
@@ -14,7 +14,7 @@ aliases:
 > | **Titles** | The Golden Saint |
 > | **Ancestry** | Saint (Formerly Human) |
 > | **Age** | 124 |
-> | **Gender** | None |
+> | **Gender** | None (They/Them) |
 > | **Home** | [[Alturon]] |
 > | **Occupation** | Monarch |
 > | **Status** | Alive |
@@ -35,3 +35,6 @@ In combat they wield a blade known as *The Last Mercy*. It is allegedly the swor
 
 %% The saint always hears truth. If you lie in their presence, they don’t hear the lie at all - to their ears, you spoke the truth instead. The only known counter is a boon from Rhylea or a similar god of lies. 
 %%
+
+# History
+Áine was sanctified by [[Lumina]] in **1270 BR**, during a civil war in the greatly-diminished [[Lucentia|Holy Kingdom]]. This immediately ended the war and began the Shining Crusade, in which the new Saint attempted to bring peace by unifying Antir. (See [[Dawn of Mercy]])

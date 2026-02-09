@@ -16,12 +16,15 @@ tags:
 
 Elmhollow is a small town near the [[Silent Woods]] in the northwest of the [[Strioc an Athraithe]]. Known for its diverse and generally accepting population, it is a trading destination for some of the less widely-accepted folk, like [[Minotaur]].
 
-The [[Ravenwood]] lies on the town's western border.
+The [[Ravenwood]] lies just beyond the town's western border.
 
 # Locations
-**The Lucentian church** - A chapel to the [[Antiran Pantheon]], particularly [[Lumina]]. 
+**The Lucentian chapel** - A church to the [[Antiran Pantheon]], particularly [[Lumina]]. 
 
 # People
-The Lucentian church hosts a growing congregation, based around the (**name tbd**) family of missionaries who came to Elmhollow and founded the church around 1350 BR. Many townsfolk have begun blending Lucentian religion with their traditional spirituality, which some see as the first step to the entire town being converted. The more faithful within the congregation denounce the traditional beliefs completely - though many secretly practice the old traditions, which are often necessary for survival in the fae-warped woods of Athraithe.
+The Lucentian chapel hosts a growing congregation, based around the Beaumont family of missionaries who came to Elmhollow and founded the church around 1350 BR. Many townsfolk have begun blending Lucentian religion with their traditional spirituality, which some see as the first step to the entire town being converted. The most faithful within the congregation denounce the traditional beliefs completely - though many secretly practice the old traditions, which are often necessary for survival in the fae-warped woods of Athraithe.
+- Priests **Silas and Callantha Beaumont** lead the congregation, helped by their children [[Willow Beaumont|Willow]] and [[Juniper Beaumont|Juniper]].
 
-There is a [[Witch]] who lives on the outskirts of town. Does not intervene in town politics, but offers guidance when needed and is highly respected. Even the Lucentian faithful sometimes seek the witch's aid, though most of them do so in shameful secrecy.
+**Leskella** is a [[Witch]] who lives on the outskirts of town. She does not intervene in town politics, but offers guidance when needed and is highly respected. Even the Lucentian faithful sometimes seek her aid, though most of them do so in shameful secrecy.
+
+**Farmer Worm**, a grumpy [[Halfling]] pig farmer. 

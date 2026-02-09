@@ -6,7 +6,7 @@ aliases:
   - Fontian
 ---
 > [!infobox]
-> ## The Font
+> ## The Font (Corrupted)
 > ### General Info
 > |  |  |
 > |  ----|  ----|
@@ -15,8 +15,8 @@ aliases:
 > | **Region** | [[Antir]] |
 > | **Symbol** | Golden mare |
 > | **Followers** | [[Defied]] |
-> | **Edicts** | ? |
-> | **Anathema** | ? |
+> | **Edicts** | Spread the [[Defied]] |
+> | **Anathema** | Kill Demons, work against a [[Defied]] |
 > ### Devotee Benefits
 > |  |  |
 > |  ----|  ----|
@@ -26,9 +26,8 @@ aliases:
 > | **Divine Skill** | Deception or Stealth |
 > | **Favored Weapon** | ? |
 > | **Cleric Spells** | ? ? ?|
-
-> [!infobox]
-> ## The Font (Apocryphal)
+> ## ---
+> ## The Font (Uncorrupted)
 > ### General Info
 > |  |  |
 > |  ----|  ----|

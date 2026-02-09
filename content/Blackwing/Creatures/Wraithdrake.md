@@ -1,6 +1,11 @@
+---
+tags:
+  - creature
+---
 The Wraithdrake is an urban legend spoken of by members of the [[Blackwing Legion]]. It is supposedly the ghost of a [[Dragon]] that wipes out entire platoons of soldiers silently in the night.
 
 ## A Whisper On The Wind
+#story 
 _Perhaps hushed tones spoken serious around a Legionnaire campfire? Perhaps not._ 
 
 Fire crackles bright and embers leap out to attack soldiers’ bootstrings. Men sit huddled for warmth, the women in the battalion left hours ago for the tents perhaps filled with too much common sense to continue sitting out in the cold, or resigned from caring much about night watches due to the pointlessness that had begun to fill everyone’s spirits about the tail end of this war. 

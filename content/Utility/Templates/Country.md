@@ -22,6 +22,8 @@ Summary
 
 # Government
 
+# Culture
+
 # Geography
 
 # History

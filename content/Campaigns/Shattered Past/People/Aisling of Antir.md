@@ -5,7 +5,7 @@ tags:
 ---
 >[!infobox]
 >## Aisling of Antir
->  ![[aisling.webp|200]] <small>Image from https://oustomiaworld.fandom.com/wiki/Thevaull_Emberblade</small>
+>  ![[aisling.webp|200]] <small>https://oustomiaworld.fandom.com/wiki/Thevaull_Emberblade</small>
 > ### General Info
 > |  |  |
 > |  ----|  ----|
