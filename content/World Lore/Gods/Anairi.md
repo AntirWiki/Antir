@@ -9,7 +9,7 @@ tags:
 > |  |  |
 > |  ----|  ----|
 > | **Titles** | The Soldier's God |
-> | **Domains** | ? |
+> | **Domains** | Duty, Sorrow, Toil |
 > | **Region** | [[Lucentia]] |
 > | **Pantheon** | [[Antiran Pantheon]] |
 > | **Symbol** | ? |
@@ -25,7 +25,5 @@ tags:
 > | **Divine Skill** | Athletics |
 > | **Favored Weapon** | Shortsword |
 > | **Cleric Spells** | ? ? ?|
-
-https://2e.aonprd.com/Domains.aspx
 
 Anairi is the secret god of soldiers in [[Lucentia]]. They represent martyrs and those who do thankless work.

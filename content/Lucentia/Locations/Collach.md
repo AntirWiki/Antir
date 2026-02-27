@@ -13,7 +13,7 @@ tags:
 > | **Size** | Village |
 > | **Trades** | Hunting, Forestry |
 
-Collach is a small town south of [[Alturon]], sitting on the crossroads of the main roads east to the [[Strioc an Athraithe]] and south to [[Blackwing]]. It is primarily a hunting town, but also deals with some commerce from the roads.
+Collach is a small town just south of [[Alturon]], sitting on the crossroads of the main roads east to the [[Strioc an Athraithe]] and south to [[Blackwing]]. It is primarily a hunting town, but also deals with some commerce from the roads.
 
 The town is named after its guardian, a great nature spirit that takes the form of a boar.
 
@@ -22,10 +22,9 @@ The town is named after its guardian, a great nature spirit that takes the form 
 
 **The Hunter's Lodge**, a gathering place for those who hunt in the woods around the town.
 
-**The Refuge**, a small place of worship dedicated to the forest god [[Antiran Pantheon#Soln|Soln]]. %%Tended to by **Warden Alaran**%%
-
-# People
+**The Refuge**, a small place of worship dedicated to the forest god [[Soln]]. %%Tended to by **Warden Alaran**%%
 %%
+# People
 - **Warden Alaran** is a preacher of [[Antiran Pantheon#**Soln**|Soln]] and caretaker of **The Refuge**. He has been deaf and mute since birth, a condition that is seen as a mark of Soln's blessing. The priest offers guidance to the people of the town, and occasionally assists in hunts.
 %%
 # History

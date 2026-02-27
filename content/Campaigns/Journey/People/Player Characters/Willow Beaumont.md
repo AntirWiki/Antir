@@ -12,7 +12,7 @@ draft: false
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | Human |
+> | **Ancestry** | Human/[[Elf]] |
 > | **Age** | 22 |
 > | **Gender** | Female |
 > | **Home** | [[Elmhollow]] |

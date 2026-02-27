@@ -1,7 +1,6 @@
 ---
 tags:
   - private
-  - incomplete
   - journey
 draft: true
 ---

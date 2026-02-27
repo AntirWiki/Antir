@@ -14,7 +14,7 @@ draft: false
 > |  ----|  ----|
 > | **Ancestry** | Human / Fae |
 > | **Age** | 24 |
-> | **Gender** | Non-Binary (They/Them)|
+> | **Gender** | Non-Binary (Any pronouns)|
 > | **Home** | [[Elmhollow]] |
 > | **Occupation** | [[Adventurer]] |
 > | **Status** | Alive |

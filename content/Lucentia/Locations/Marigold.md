@@ -15,6 +15,10 @@ tags:
 Marigold is a village approximately 250 miles west of Alturon. It is named after the fields of flowers that once surrounded the village.
 
 It stands on the border between [[Lucentia]] and [[Strioc an Athraithe]]
+
+%%
+The flower fields that once gave the town its name are now eternally withered but never dying. It is said that there was once a beautiful spirit who watched over the fields and the town, who fought the [[Autumn King]] during the [[Black Autumn]] and was slain. Since then, undead and unseelie fae seem to be drawn to the site. 
+%%
 %%
 # Locations
 

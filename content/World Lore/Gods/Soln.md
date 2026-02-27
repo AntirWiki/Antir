@@ -9,7 +9,7 @@ tags:
 > |  |  |
 > |  ----|  ----|
 > | **Titles** | The Silent Hunter |
-> | **Domains** | ? |
+> | **Domains** | Freedom, Nature, Wood |
 > | **Region** | [[Lucentia]] |
 > | **Pantheon** | [[Antiran Pantheon]] |
 > | **Symbol** | ? |
@@ -25,8 +25,6 @@ tags:
 > | **Divine Skill** | Survival |
 > | **Favored Weapon** | Longbow |
 > | **Cleric Spells** | ?, Silence, ?|
-
-https://2e.aonprd.com/Domains.aspx
 
 Soln is the god of nature and the hunt in [[Lucentia]].
 

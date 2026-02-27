@@ -9,7 +9,7 @@ tags:
 > |  |  |
 > |  ----|  ----|
 > | **Titles** | ? |
-> | **Domains** | ? |
+> | **Domains** | Glyph, Knowledge |
 > | **Region** | [[Lucentia]] |
 > | **Pantheon** | [[Antiran Pantheon]] |
 > | **Symbol** | Open Book |
@@ -25,8 +25,6 @@ tags:
 > | **Divine Skill** | Society |
 > | **Favored Weapon** | ? |
 > | **Cleric Spells** | ? ? ?|
-
-https://2e.aonprd.com/Domains.aspx
 
 Raeldan is the god of history and discovery in [[Lucentia]].
 

@@ -9,10 +9,10 @@ tags:
 > |  |  |
 > |  ----|  ----|
 > | **Titles** | ? |
-> | **Domains** | ? |
+> | **Domains** | Duty, Protection, Zeal |
 > | **Region** | [[Lucentia]] |
 > | **Pantheon** | [[Antiran Pantheon]] |
-> | **Symbol** | ? |
+> | **Symbol** | Shield? |
 > | **Followers** | Soldiers, Judges |
 > | **Edicts** | ? |
 > | **Anathema** | ? |
@@ -26,7 +26,6 @@ tags:
 > | **Favored Weapon** | Shield Boss |
 > | **Cleric Spells** | ? ? ?|
 
-https://2e.aonprd.com/Domains.aspx
 Ceartas (Pronounced Care-tuss) is the god of protection and justice in [[Lucentia]].
 
 His primary temple is known as the **Ceartenaeum**, in the heart of [[Alturon]].

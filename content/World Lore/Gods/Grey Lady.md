@@ -9,7 +9,7 @@ tags:
 > |  |  |
 > |  ----|  ----|
 > | **Titles** | ? |
-> | **Domains** | ? |
+> | **Domains** | Cities, Travel, Trickery |
 > | **Region** | [[Lucentia]] |
 > | **Pantheon** | [[Antiran Pantheon]] |
 > | **Symbol** | ? |
@@ -25,8 +25,6 @@ tags:
 > | **Divine Skill** | Persuasion or Thievery |
 > | **Favored Weapon** | ? |
 > | **Cleric Spells** | ? ? ?|
-
-https://2e.aonprd.com/Domains.aspx
 
 The Grey Lady is the veiled goddess of thieves, urchins, and the downtrodden in [[Lucentia]].
 

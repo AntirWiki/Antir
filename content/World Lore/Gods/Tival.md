@@ -9,7 +9,7 @@ tags:
 > |  |  |
 > |  ----|  ----|
 > | **Titles** | ? |
-> | **Domains** | ? |
+> | **Domains** | Healing, Repose, Sorrow |
 > | **Region** | [[Lucentia]] |
 > | **Pantheon** | [[Antiran Pantheon]] |
 > | **Symbol** | Closed Eye with Falling Tear |
@@ -25,7 +25,5 @@ tags:
 > | **Divine Skill** | Medicine |
 > | **Favored Weapon** | ? |
 > | **Cleric Spells** | ? ? ?|
-
-https://2e.aonprd.com/Domains.aspx
 
 Tival is a [[Lucentia|Lucentian]] god for those whose woes cannot be cured. He offers sympathy and company, a shoulder to cry on and a helping hand when needed.

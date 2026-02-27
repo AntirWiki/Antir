@@ -19,7 +19,7 @@ draft: true
 
 5 - Winter - Kingdom
 	[[Rock's Rival]]?
-	Rhylea's festival?
+	Rhylea's festival? Murder mystery? Juniper in the city for some reason? JUNIPER TRIES TO KILL THEM IN DISGUISE???
 
 6 - Spring - Kingdom
 	Getting support from the Kingdom?
@@ -27,9 +27,11 @@ draft: true
 
 7 - Spring - Kingdom/border town
 	[[Charlatan]], rumors of Autumn King's ascension
+	
 
 8 - Summer - Blackwing
 	[[Dispossession]]?
+	
 
 9 - Summer - Blackwing
 

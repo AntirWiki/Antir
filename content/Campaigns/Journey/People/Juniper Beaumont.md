@@ -2,7 +2,6 @@
 tags:
   - character
   - journey
-  - incomplete
 ---
 > [!infobox]
 > ## Juniper Beaumont
@@ -10,7 +9,7 @@ tags:
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | Human |
+> | **Ancestry** | Human/[[Elf]] |
 > | **Age** | 24 |
 > | **Gender** | Nonbinary (They/Them)|
 > | **Home** | [[Elmhollow]] |
