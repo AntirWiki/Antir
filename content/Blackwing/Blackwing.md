@@ -33,7 +33,7 @@ The [[Great Gates]], a pair of dunes whose valley hosts several %%[[Firearms#Bri
 # Government
 Blackwing is led by three bodies:
 
-The [[Blackwing Legion]], the largest and most powerful group, is the nation's military. It is led by the [[High General]], who is chosen by contests of might and skill within the Legion. A worthy challenger faces three contests: one chosen by them, one chosen by the High General they are challenging, and one chosen by the church of Verita. The current High General, a dark-skinned human man, is known for choosing chess.
+The [[Blackwing Legion]], the largest and most powerful group, is the nation's military. It is led by the [[High General]], who is chosen by contests of might and skill within the Legion. A worthy challenger faces three contests: one chosen by them, one chosen by the High General they are challenging, and one chosen by the church of Verita. The current High General is known for choosing chess.
 
 The church of [[Verita]], led by the Highpriest, advises the High General and performs some bureaucratic duties.
 

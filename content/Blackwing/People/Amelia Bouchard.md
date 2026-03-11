@@ -29,7 +29,7 @@ High Minister Amelia Verbena Bouchard is the leader of the Blackwing Ministry of
 
 # History
 
-In 954 BR, at the behest of her parents, Amelia entered an arranged marriage with the southern human lord Aelev Tassen. The Bouchards, noble merchants themselves, hoped that a marital connection would reaffirm business ties with the south that had been weakened by the [[Three Kings War]].
+In 954 BR, at the behest of her parents, Amelia entered an arranged marriage with the southern [[Human]] lord Aelev Tassen. The Bouchards, noble merchants themselves, hoped that a marital connection would reaffirm business ties with the south that had been weakened by the [[Three Kings War]].
 
 Despite the arranged relationship and Aelev’s relatively short life, the two had a happy partnership. When he died, Amelia remained a part of the family - and as an elf among humans, she naturally became the family matriarch after a few generations. As time passed, her influence became so great that the family was renamed as a branch of the Bouchards.
 

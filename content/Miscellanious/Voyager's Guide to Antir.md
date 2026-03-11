@@ -62,7 +62,7 @@ There is an [[Archipelago]] in the bay south of the Riverlands. Those who live o
 ### The Mountains
 The mountains around Antir - both north and south - are unforgiving places. Harsh weather and deadly fauna mean that only the most hardy peoples can survive for long on their peaks.
 
-The northern mountains are home to the tribes known as the [[Hallit]], while the southern mountains are home to the people known as the [[Skell]]. Both of these cultures are mostly made up of [[Orc|Orcs]] and humans, but others have been known to settle among them.
+The northern mountains are home to the tribes known as the [[Hallit]], while the southern mountains are home to the people known as the [[Skell]]. Both of these cultures are mostly made up of [[Orc|Orcs]] and [[Human|Humans]], but others have been known to settle among them.
 
 ### The Everweald
 The [[Everweald]] is a massive forest north of Antir. It is nearly impassable - when the original Antirans traveled through it, the journey took years - and was so deadly that the refugees chose to begin the Dragon Wars rather than settle inside those woods.
@@ -82,7 +82,7 @@ The people who remain on Avhalae are still fighting against the undead horde, in
 # People
 Folk of many different types call Antir home. Since much of the population were either subjugated by the ancient [[Dragon|Dragons]] or were refugees from [[Avhalae]], there are no "ancestral" nations on the continent. People of any ancestry can be found almost anywhere, though of course some have preferred climates.
 
-Humans, [[Halfling|Halflings]], [[Elf|Elves]], and [[Dwarf|Dwarves]] came to these lands over a thousand years ago, as refugees from Avhalae. [[Gnome|Gnomes]], native to the [[Everweald]], soon followed them into Antir. Goblins, Kobolds, and Beastfolk lived on the continent during the age of dragons, though most lived in hiding or under subjugation from the tyrannical beasts. [[Orc|Orcs]], once seen only in the mountains around Antir, have recently become more common in the lowlands.
+[[Human|Humans]], [[Halfling|Halflings]], [[Elf|Elves]], and [[Dwarf|Dwarves]] came to these lands over a thousand years ago, as refugees from Avhalae. [[Gnome|Gnomes]], native to the [[Everweald]], soon followed them into Antir. Goblins, Kobolds, and Beastfolk lived on the continent during the age of dragons, though most lived in hiding or under subjugation from the tyrannical beasts. [[Orc|Orcs]], once seen only in the mountains around Antir, have recently become more common in the lowlands.
 
 Some ancestries from [[Taluvhas]] have also recently become more common in Antir, as many of those peoples fled the [[Autumn King]]'s subjugation of their homelands. These include the [[Manaius|Centaur]], the insectoid Surki, arachnid Anadi, and more.
 

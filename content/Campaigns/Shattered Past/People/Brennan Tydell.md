@@ -7,7 +7,7 @@ tags:
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | Human/[[Elf]] |
+> | **Ancestry** | [[Human]]/[[Elf]] |
 > | **Age** | 60 (in 953) |
 > | **Gender** | Male |
 > | **Home** | [[Alturon]] |

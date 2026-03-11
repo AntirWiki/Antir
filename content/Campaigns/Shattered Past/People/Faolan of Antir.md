@@ -9,7 +9,7 @@ tags:
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | Human (Quarter-[[Elf]])|
+> | **Ancestry** | [[Human]] (Quarter-[[Elf]])|
 > | **Age** | 30 (In 953) |
 > | **Gender** | Male |
 > | **Home** |[[Alturon]]|

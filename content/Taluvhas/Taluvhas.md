@@ -16,7 +16,7 @@ The northern reaches of the continent are lush wetland and forests with frequent
 # People
 The [[Autumn King]], necrotic archfae emperor of the continent.
 
-The people of Taluvhas - known to Antirans as Taluvsi - are diverse in ancestry. Unlike the people of Antir, most Taluvsi natives vary significantly from the humanoid form - such as the half-equine Centaurs of [[Manaius]], the insectoid Surki, and the arachnid Anadi. There is also a sizeable population of humans on the continent, who arrived centuries ago as refugees from [[Avhalae]].
+The people of Taluvhas - known to Antirans as Taluvsi - are diverse in ancestry. Unlike the people of Antir, most Taluvsi natives vary significantly from the humanoid form - such as the half-equine Centaurs of [[Manaius]], the insectoid Surki, and the arachnid Anadi. There is also a sizeable population of [[Human|Humans]] on the continent, who arrived centuries ago as refugees from [[Avhalae]].
 
 # Government
 Though home to several countries, the entire continent is ruled by the court of the [[Autumn King]].

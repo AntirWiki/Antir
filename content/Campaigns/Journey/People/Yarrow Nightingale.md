@@ -11,7 +11,7 @@ draft: true
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | Human/[[Elf]] |
+> | **Ancestry** | [[Human]]/[[Elf]] |
 > | **Age** | ? |
 > | **Gender** | Female |
 > | **Home** | [[Strioc an Athraithe]] |

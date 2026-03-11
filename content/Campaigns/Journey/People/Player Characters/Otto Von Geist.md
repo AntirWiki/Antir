@@ -12,7 +12,7 @@ draft: false
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | Human | %%/Demon |%%
+> | **Ancestry** | [[Human]] | %%/Demon |%%
 > | **Age** | Late 20s |
 > | **Gender** | Male |
 > | **Home** | [[Antir]] |

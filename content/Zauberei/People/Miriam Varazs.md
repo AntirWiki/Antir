@@ -8,7 +8,7 @@ tags:
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | [[Orc]] / Human |
+> | **Ancestry** | [[Orc]] / [[Human]] |
 > | **Age** | 47 |
 > | **Gender** | Female |
 > | **Home** | [[Zauberei]] |

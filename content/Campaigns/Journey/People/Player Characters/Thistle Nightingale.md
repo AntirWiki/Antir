@@ -12,7 +12,7 @@ draft: false
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | Human / Fae |
+> | **Ancestry** | [[Human]] / [[Elf]] / Fae |
 > | **Age** | 24 |
 > | **Gender** | Non-Binary (Any pronouns)|
 > | **Home** | [[Elmhollow]] |
@@ -35,4 +35,10 @@ Thistle Nightingale is an [[Adventurer]] active around [[Strioc an Athraithe]].
 Thistle has tan skin and dark hair that transitions into black feathers towards their neck and around their face. They have large black wings and slightly avian features.
 %%
 Broken wings from the first fight
+%%
+
+%%
+# GM Notes
+Is technically a member of the Autumn King's court
+
 %%

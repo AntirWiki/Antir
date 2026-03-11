@@ -33,6 +33,6 @@ Her most elite followers are the [[Keyshadows]], a group of assassins that serve
 
 Many in Lucentia refer to a new moon as "Rhylea's Moon", and believe that her followers are especially active on these dark nights.
 
-Rhylea's festival, held in early winter, is exclusively nocturnal - it is considered taboo to even mention the festival during the daytime. At night, citizens venture out in costumes that hide their identities.
+Rhylea's festival has no common name, as it is considered taboo to even mention it at any time except while it is occuring. Held in early winter, it is exclusively nocturnal - during the day, it's as if the festival does not exist. At night, citizens venture out in costumes that hide their identities and partake in revelry - often including small crimes or blasphemies that the authorities turn a blind eye to during this time.
 
 In some myths, Rhylea is coupled (or even married) with [[Anairi]], god of soldiers and martyrs. The pair represent the “necessary evils” of secrets and violence, a direct contrast to [[Lumina]]’s philosophy of truth and mercy. Followers of Anairi often give small tribute to Rhylea, since the soldier’s god is typically honored in secret. 

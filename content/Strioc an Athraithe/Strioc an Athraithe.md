@@ -8,7 +8,7 @@ aliases:
 ![[AthraitheMap.jpg|right|500]]
 Strioc an Athraithe (pronounced "Stree-awk on Arr-ruh-hey" in common Antiran), often known simply as Athraithe, is a region in northern [[Antir]] with an unusually strong connection to [[Tir na Nog]]. It is bordered by [[Lucentia]] in the west, [[Zauberei]] to the northeast, and the [[Riverlands]] to the south. To the north lies the impassable [[Everweald]].
 
-The supernatural influence results in an unchartable landscape, with constantly shifting landmarks, borders, roads, and rivers. It is said that a person walking through Athraithe twice will pass through different places each time, even if they follow the same road. A traveler through the region will always find their destination eventually, but the length and contents of their journey are unknowable. For this reason, [[Adventurer|Adventurers]] are commonly hired as guides and guards.
+Its connection to the spirit realm results in an unchartable landscape, with constantly shifting landmarks, borders, roads, and rivers. It is said that a person walking through Athraithe twice will pass through different places each time, even if they follow the same road. A traveler through the region will always find their destination eventually, but the length and contents of their journey are unknowable. For this reason, [[Adventurer|Adventurers]] are commonly hired as guides and guards.
 
 The thin borders between worlds also leads to a large population of [[Witch|Witches]], whose practice is made easier by the close connection to the other world. Many communities rely on a local witch or wisdom to appease the local [[Spirits]], whose presence is felt much more strongly than in other parts of the continent.
 

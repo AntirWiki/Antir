@@ -7,7 +7,7 @@ Orcs are native to the mountains around [[Antir]], surviving in some of the hars
 
 There is much debate about if orcish hero-gods are actually ascended Orcs, or if they’re just gods that look and act like famous orcs of history.
 
-The majority of the [[Hallit]] and [[Skell]] communities were Orcs until humans arrived.
+The majority of the [[Hallit]] and [[Skell]] communities were Orcs until [[Human|Humans]] arrived.
 
 ![[orc roast.png|500]]
 

@@ -57,7 +57,7 @@ Most of the country does not experience the season of Autumn, due to the events 
 Thanks to help from druids and nature spirits, this loss of a season was not as catastrophic as it could have been. Flora and fauna have adapted - trees drop their leaves all at once when winter strikes, and many animals are able to rapidly enter a hibernation state under the sudden snows, or near-instantly grow their winter coats.
 
 # History
-The Kingdom of Antir was founded in the year 0 BR after the [[Dragon|Dragons]] were driven south into [[Taluvhas]]. While it began in the north, around what would become Alturon, it quickly spread to every border of the continent (except, of course, the dangerous and ever-shifting [[Riverlands]]). This began what was known as the "Great Kingdom Era". A human general from the Dragon Wars was chosen as its first monarch.
+The Kingdom of Antir was founded in the year 0 BR after the [[Dragon|Dragons]] were driven south into [[Taluvhas]]. While it began in the north, around what would become [[Alturon]], it quickly spread to every border of the continent (except, of course, the dangerous and ever-shifting [[Riverlands]]). This began what was known as the "Great Kingdom Era". A [[Human]] general from the Dragon Wars was chosen as its first monarch.
 
 During the Great Kingdom era, when a monarch of Antir was to be crowned, they chose which priesthood conducted the ritual. The most common choice was the church of Lucent, as her message of light and truth tended to be a good image for a potential ruler. [[Cianan of Antir]] was crowned by the priesthood of Raeldan, god of knowledge (a common choice for monarchs cultivating an image of wisdom).
 

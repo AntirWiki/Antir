@@ -9,7 +9,7 @@ tags:
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | [[Elf]]/Human |
+> | **Ancestry** | [[Elf]]/[[Human]] |
 > | **Age** | 40 (In 953) |
 > | **Gender** | Male |
 > | **Home** | [[Collach]] |

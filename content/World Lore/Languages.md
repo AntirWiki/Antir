@@ -6,7 +6,7 @@ Below is a list of languages found in and around the continent of [[Antir]] (and
 
 **Antiran/Common** (*English*) - The common tongue of the continent, which has numerous dialects that are mostly inter-intelligible. It's largely an evolution of Sylvan, but has acquired numerous loanwords and phrases from other languages, especially Elvish, Dwarven, and Gnomish.
 
-**Sylvan** (*Irish*) - Also known as Ancient Antiran, it is the original language of the Antirans; this is what the human and [[halfling]] refugees from [[Avhalae]] spoke during the Dragon Wars. Due to their long-lived and unchanging nature, most fae who interact with mortals still speak this language (it was the first one they learned, and they never bothered to learn others).
+**Sylvan** (*Irish*) - Also known as Ancient Antiran, it is the original language that the [[Human]] and [[halfling]] refugees from [[Avhalae]] spoke during the Dragon Wars. Due to their long-lived and unchanging nature, most fae who interact with mortals still speak this language (it was the first one they learned, and they never bothered to learn others).
 
 **Elvish** (*French*) - The [[Elf|Elven]] language has persisted in modern Antir thanks to the longevity of its speakers; some elves still living in Antir are just one generation removed from the elven homelands. In addition, the isolated elven communities where elders retire and many youths are raised typically speak the language.
 

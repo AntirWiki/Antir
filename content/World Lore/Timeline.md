@@ -11,14 +11,14 @@ Years in modern [[Antir]] are measured from the founding of the kingdom, which i
 - The Drakos Empire collapses and its people are driven to extinction. The dragons remain, ruling over a continent mostly devoid of mortals except their Kobold servants, the subterranean goblinoids, and the secluded beastfolk.
 
 **??-??: The Avhali Golden Age**
-- Nations rise and fall on the continent of [[Avhalae]], the homeland of Humans, [[Elf|Elves]], [[Dwarf|Dwarves]], and [[Halfling|Halflings]].
-- The [[Blight]] rise, destroying the Dwarven holds and besieging the other nations of the continent. Most flee north, passing through the [[Valley of Cold Sun]] and into the [[Everweald]]. A group of humans flee by ship to [[Taluvhas]].
+- Nations rise and fall on the continent of [[Avhalae]], the homeland of [[Human|Humans]], [[Elf|Elves]], [[Dwarf|Dwarves]], and [[Halfling|Halflings]].
+- The undead [[Blight]] rise, destroying the Dwarven holds and besieging the other nations of the continent. Most flee north, passing through the [[Valley of Cold Sun]] and into the [[Everweald]]. A group of humans flee by ship to [[Taluvhas]].
 
 **-48 - 0 BR: The Dragon Wars** 
 - A large group of Avhali refugees emerge from the [[Everweald]] into [[Antir]] and encounter the dragons. After decades of brutal conflict, the persistence, adaptability, and group coordination of the refugees lets them drive the dragons over the southern mountains and into [[Taluvhas]].
 
 **0 - 1099 BR: The Great Kingdom Era**
-- The Kingdom of Antir is founded, and quickly spreads across the entire continent. Its founders choose a human general from the Dragon Wars to lead it as monarch.
+- The Kingdom of Antir is founded, and quickly spreads across the entire continent. Its founders choose a [[Human]] general from the Dragon Wars to lead it as monarch.
 - Other peoples begin arriving in Antir, such as the beastfolk, [[Hallit]], and [[Skell]] from the outskirts, and the goblins from below ground.
 - 946-953: The [[Three Kings War]] is fought between royal brothers [[Lasairian of Antir|Lasairian]], [[Faolan of Antir|Faolan]], and [[Cianan of Antir]]. Cianan emerges victorious but with poor support.
 - 953: Remnants of Lasairian's army undermine the kingdom, culminating in the [[Alturon#Siege of 953|Siege of Alturon]]. They are stopped by [[Tooth and Claw]].

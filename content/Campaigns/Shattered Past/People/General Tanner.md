@@ -8,7 +8,7 @@ tags:
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | Human |
+> | **Ancestry** | [[Human]] |
 > | **Age** | 55 (in 953)|
 > | **Gender** | Male |
 > | **Home** | [[Blackwing]] |

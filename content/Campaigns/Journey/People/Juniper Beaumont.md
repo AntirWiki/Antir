@@ -9,7 +9,7 @@ tags:
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | Human/[[Elf]] |
+> | **Ancestry** | [[Human]]/[[Elf]] |
 > | **Age** | 24 |
 > | **Gender** | Nonbinary (They/Them)|
 > | **Home** | [[Elmhollow]] |
@@ -27,7 +27,7 @@ Juniper Beaumont is an acolyte of the [[Antiran Pantheon|Lucentian]] church in t
 They are well liked by the people of Elmhollow, even those not involved with the church. They're a devoted acolyte to [[Lumina]], and most members of the congregation expect that they will take over the church when their parents retire.
 
 # Description
-Juniper is a human with pale freckled skin, green eyes, and red hair that's shoulder-length in the back, and shorter on the sides and front. They are not especially tall, with an average build.
+Juniper is a half-elf with pale freckled skin, green eyes, and red hair that's shoulder-length in the back, and shorter on the sides and front. They are not especially tall, and have an average build.
 
 %%When they attacked Elmhollow, they wore massive plate armor made of cursed dead wood, bone, and fur. They wore a deer's antlered skull as a helmet, behind which their eyes glowed a bright sickly green. On their back was a massive sword, made of the same wood and bone as their armor, burning with green flames. 
 %%

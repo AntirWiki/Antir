@@ -9,7 +9,7 @@ tags:
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | Human (Quarter-[[Elf]])|
+> | **Ancestry** | [[Human]] (Quarter-[[Elf]])|
 > | **Age** | 45 (In 952) |
 > | **Gender** | Male |
 > | **Home** | [[Blackwing]]|

@@ -8,7 +8,7 @@ draft: true
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | Human / [[Moondancer]] |
+> | **Ancestry** | [[Human]] / [[Moondancer]] |
 > | **Age** | ? |
 > | **Gender** | Male |
 > | **Home** | [[Zauberei]] |

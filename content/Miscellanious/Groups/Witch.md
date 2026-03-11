@@ -17,7 +17,7 @@ Wisdoms are a common sight in rural Antiran villages and towns. They are influen
 Wisdoms are rarely active members of a coven, but most attend the decennial meeting of witches in [[Catsi Crossing]].
 
 ## Witches
-Most Antirans use the word "Witch" to describe a spiritual spellcaster who is mysterious, crafty, or even a bit inhuman. Active members of the [[Catsi Coven]] and similar circles are usually described as witches. They are usually viewed with respect and a bit of fear, and don't typically take on community leadership roles the way Wisdoms do. Instead, many witches outside Catsi Crossing are hermits or nomadic.
+Most Antirans use the word "Witch" to describe a spiritual spellcaster who is mysterious, crafty, or even a bit unnatural. Active members of the [[Catsi Coven]] and similar circles are usually described as witches. They are usually viewed with respect and a bit of fear, and don't typically take on community leadership roles the way Wisdoms do. Instead, many witches outside Catsi Crossing are hermits or nomadic.
 
 Many witches follow the [[Witch Queen]], the nightmarish goddess of witchcraft. 
 

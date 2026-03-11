@@ -9,7 +9,7 @@ tags:
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | Human (Quarter-[[Elf]]) |
+> | **Ancestry** | [[Human]] (Quarter-[[Elf]]) |
 > | **Age** | 17 (in 953) |
 > | **Gender** | Female |
 > | **Home** | [[Alturon]] |

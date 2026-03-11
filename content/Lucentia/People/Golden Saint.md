@@ -12,7 +12,7 @@ aliases:
 > |  |  |
 > |  ----|  ----|
 > | **Titles** | The Golden Saint |
-> | **Ancestry** | Saint (Formerly Human) |
+> | **Ancestry** | [[Saint]] (Formerly [[Human]]) |
 > | **Age** | 124 |
 > | **Gender** | None (They/Them) |
 > | **Home** | [[Alturon]] |

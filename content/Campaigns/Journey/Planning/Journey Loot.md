@@ -1,0 +1,52 @@
+---
+tags:
+  - private
+  - incomplete
+draft: true
+---
+- 1 - Elmhollow and journey to Foxfire
+	- P2 Cold Iron weapon? It's pissing off the vine spirits?
+	- P2 Stone of Encouragement if they don't kill the vine spirits.
+	- P1 Navigator's Star/Eye Slash (Otto starting)
+	- P1 Ring of Sigils (thistle foxfire graduation ring?)
+	- C2 Bronze Bull pendant for rock (Rock starting)
+	- C2 Hand of Mercy (Willow starting)
+	- C1 Healing potion (Minor) x3 (Given by Callantha)
+	- C1 Holy Water x2 (Given by Callantha)
+	- 40GP
+- 2 - Foxfire Dungeon
+	- P4 Staff of Bless, soothe, light (From sylas) OR accursed staff (rank 1 only)
+	- P3 Average manacles (From the sacrificed guard)
+	- P2
+	- P2
+	- C3 (Something offered by the mages to help against Silas?)
+	- C3
+	- C2
+	- C2
+	- 70GP
+- 3
+	- P3 
+	- P4
+	- P3
+	- P3
+	- C4
+	- C4
+	- C3
+	- C3
+	- C2
+	- C2
+	- Wayfinders (and aeon stones?) if the party joins the Guild?
+	- 120 GP
+- 4
+	- P5
+	- P5
+	- P4
+	- P4
+	- C5
+	- C5
+	- C4
+	- C4
+	- C3
+	- C3
+	- 200 GP
+![[Rewards]]

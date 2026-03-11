@@ -25,6 +25,6 @@ The [[Ravenwood]] lies just beyond the town's western border.
 The Lucentian chapel hosts a growing congregation, based around the Beaumont family of missionaries who came to Elmhollow and founded the church around 1350 BR. Many townsfolk have begun blending Lucentian religion with their traditional spirituality, which some see as the first step to the entire town being converted. The most faithful within the congregation denounce the traditional beliefs completely - though many secretly practice the old traditions, which are often necessary for survival in the fae-warped woods of Athraithe.
 - Half-elven priests **Silas and Callantha Beaumont** lead the congregation, helped by their children [[Willow Beaumont|Willow]] and [[Juniper Beaumont|Juniper]].
 
-**Leskella** is a [[Witch]] who lives on the outskirts of town. She does not intervene in town politics, but offers guidance when needed and is highly respected. Even the Lucentian faithful sometimes seek her aid, though most of them do so in shameful secrecy.
+**Marigold Stalwart** is a [[Witch]] who lives on the outskirts of town. She does not intervene in town politics, but offers guidance when needed and is highly respected. Even the Lucentian faithful sometimes seek her aid, though most of them do so in shameful secrecy. %%Her patron is [[Kuruk]], who grants her power in exchange for protecting [[Thistle Nightingale|Thistle]] and serving as a liaison with the mortals around the Ravenwood%%
 
 **Farmer Worm**, a grumpy [[Halfling]] pig farmer. 

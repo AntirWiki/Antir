@@ -11,7 +11,7 @@ Each major god has a yearly festival in the Kingdom. Festivals last from a few d
 ![[Heptagram.png|right|200]]These deities form the core of the Antiran pantheon, and are honored to some degree in almost all Lucentian churches. Each has a dedicated annual festival. Seven is a holy number in the faith, representing the gods of the Heavenly Court. They are often represented symbolically by a seven pointed star (also known as a heptagram), which the faithful commonly refer to as "the Holy Star". 
 
 ## [[Lumina]]
-Goddess of light and mercy 
+Goddess of light and mercy.
 - Leader of the pantheon and patron of the royal family
 - Formerly known as Lucent before the schism between Lumina and [[Verita]]
 
@@ -25,18 +25,18 @@ God(dess) of love, passion, and obsession.
 - They represent not only lust and romance, but passion in all its forms - be it for a person, a craft, a cause, or anything else.
 
 ## [[Raeldan]]
-God of history and discovery
+God of history and discovery.
 - Twin and rival to Rhylea
 
 ## [[Rhylea]]
-Goddess of secrets and mystery
+Goddess of secrets and mystery.
 - Twin and rival to Raeldan
 
 ## [[Soln]]
 The Silent Hunter, god of the woods and the hunt.
 
 ## [[Tarbh]]
-God of wealth, luck, and the harvest.
+Jovial god of wealth, luck, and the harvest.
 
 # Earthly Court
 This group contains all other deieties in the pantheon. The worship of these deities is less widespread, since they generally cover more niche or unpopular domains. Still, to their devoted followers, they're just as important as the Heavenly Court - if not more. There are dozens or perhaps hundreds of gods in the Earthly Court, including:
@@ -44,11 +44,11 @@ This group contains all other deieties in the pantheon. The worship of these dei
 ## [[Anairi]]
 The secret god of soldiers. They represent martyrs and those who do thankless work.
 
-## The [[Grey Lady]]
+## [[Grey Lady|The Grey Lady]]
 Veiled goddess of thieves, urchins, and the downtrodden 
 
 ## [[Tival]]
-God for those who suffer. 
+A god who provides comfort to those who suffer. 
 
 # Lares
 Many faithful also give offerings and prayers to small celestial guardian spirits known as **Lares** (pronounced Lair-eez) or "Household Gods". These spirits tend to protect a single place, which is often a home but can also include other buildings, roadways, fields, and anywhere else enclosed by a boundary. Unlike most lesser celestials, Lares are not servants of a god, and are empowered directly by those who honor them.

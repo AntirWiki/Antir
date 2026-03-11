@@ -7,7 +7,7 @@ tags:
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | Human/[[Orc]] |
+> | **Ancestry** | [[Human]]/[[Orc]] |
 > | **Age** | 16 (in 946) |
 > | **Gender** | Nonbinary |
 > | **Home** | [[Zauberei]] |

@@ -11,7 +11,7 @@ tags:
 > |  |  |
 > |  ----|  ----|
 > | **Aliases** | "The Dragon", "Scalemaster" |
-> | **Ancestry** | Human |
+> | **Ancestry** | [[Human]] |
 > | **Age** | ? |
 > | **Gender** | Male |
 > | **Home** | [[Antir]], formerly [[Blackwing]] |

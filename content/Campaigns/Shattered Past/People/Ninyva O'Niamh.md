@@ -10,7 +10,7 @@ tags:
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | Human |
+> | **Ancestry** | [[Human]] |
 > | **Age** | 24 (in 953) |
 > | **Gender** | Female |
 > | **Home** | [[Alturon]], formerly [[Catsi Crossing]] |

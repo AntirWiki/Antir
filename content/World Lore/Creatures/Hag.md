@@ -1,6 +1,7 @@
 ---
 tags:
   - lore
+  - creature
 ---
 Hags are [[Witch|Witches]] who have been twisted in both mind and body by their dealings with the spirits. Most hags appear inhuman and terrifying, and as such hide away from mortal society. Many hags hate other mortals for their transgressions against nature and the spirits.
 
