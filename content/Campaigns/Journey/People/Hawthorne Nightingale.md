@@ -31,6 +31,7 @@ A tall, slender elf with dark skin and shoulder-length braids.
 %% Stories:
 - Swam down Vakash Falls
 - Climbed pandemonium for the view
-- 
+- Went to Hell for a dinner party
+	- This one's true, [[Irina Varazs]] was also there
 
 %%

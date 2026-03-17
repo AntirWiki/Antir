@@ -52,5 +52,5 @@ Formerly a spirit of life and sibling to the God of [[Death]]. Not worshipped as
 
 Now corrupted by the demon [[Athanasius]] over a period slightly over a hundred years. In the modern day, she acts as a spirit linking the [[Spirits#Demons|Demons]] of the abyss to those with Fontian blood. She suffers under demonic influence, and [[Demon Hunter|Demon Hunters]] throughout Antir wish to see her redeemed and golden again.
 
-# The Fontian
+# Faith - The Fontian
 Followers of The Font. Originating back to around the [[Three Kings War]]. A religion that grew with the needs of the wartorn country. Eventually isolated themselves in the mountains of Antir, in [[New Fontia]], where they were corrupted by demon influence. Their blood is tainted, and only those with Fontian blood have the ability to [[Defied|defy]], unless granted by the demon hunter [[Vada]].

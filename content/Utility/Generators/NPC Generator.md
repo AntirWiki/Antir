@@ -28,12 +28,13 @@ tags:
 | -------- | ---------------------------------------------------------------------- |
 | 01-10    | Catfolk                                                                |
 | 11-20    | Gnoll                                                                  |
-| 21-30    | Grippli                                                                |
+| 21-25    | Grippli                                                                |
+| 26-30    | Shellfolk                                                              |
 | 31-40    | Kitsune                                                                |
 | 41-50    | Lizardfolk                                                             |
-| 51-60    | Nagaji                                                                 |
-| 61-70    | Ratfolk                                                                |
-| 71-80    | Tengu                                                                  |
+| 51-55    | Nagaji                                                                 |
+| 56-65    | Ratfolk                                                                |
+| 65-80    | Tengu                                                                  |
 | 81-90    | Human-`dice:[[NPC Generator#^beastfolk]]`                              |
 | 91-100   | `dice:[[NPC Generator#^beastfolk]]`-`dice:[[NPC Generator#^ancestry]]` |
 ^beastfolk

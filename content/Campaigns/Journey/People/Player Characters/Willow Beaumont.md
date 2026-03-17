@@ -5,6 +5,8 @@ tags:
   - journey
   - incomplete
 draft: false
+aliases:
+  - Willow
 ---
 > [!infobox]
 > ## Willowbranch Cervine Beaumont
@@ -22,14 +24,15 @@ draft: false
 > |  |  |
 > | ---- | ---- |
 > | [[Juniper Beaumont]] | Sibling |
-> | [[Thistle Nightingale]] | Childhood friend |
+> | [[Thistle Nightingale]] | Acquaintance |
 > | [[Kirturok Stonehoof]] | Family friend |
+> | [[Otto Von Geist]] | ? |
 > | Waxwing | Cat |
 
 Willow Beaumont is an acolyte of the [[Antiran Pantheon|Lucentian]] church in the town of [[Elmhollow]]. Her parents are the founders and priests of the church, and her sibling [[Juniper Beaumont]] is also an acolyte.
 
 # Description
-Willow has long red hair and pale skin. She is usually seen wearing priestly garments that cover almost all of her body. She often wears a censer woven into her braided hair.
+Willow has long red hair and pale skin. She is usually seen wearing priestly garments that cover almost all of her body. She often wears a censer woven into the end of her long braided hair.
 
 %%
 # The Retting

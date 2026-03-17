@@ -6,8 +6,6 @@ draft: true
 ---
 Warn the players - this is session zero, so it might get a bit railroady. Your choices do matter, but there are certain things that need to happen.
 
-On that note, request that people keep an eye on their DMs. Tell cas "Help Juniper when they get stuck, you'll know what I mean when you get there"
-
 # Blight
 While in the woods, a Blight check must occasionally be made. The first time this happens, it is a DC 10 fortitude save. On a failure, the character becomes Drained 1. Each subsequent test has a DC 5 higher, and increases drained value by one.
 
@@ -19,9 +17,9 @@ While in the woods, a Blight check must occasionally be made. The first time thi
 > 
 > You know that Madam Verelle will hear about it if you don't at least *try* to follow her advice, so you go looking. As fortune would have it, you soon find the perfect scene.
 > 
-> Two red-haired humans, around your age, are standing in a yard and seem to be starting some kind of game. The younger one, a girl, is holding a cat. Cas, can you describe what Willow looks like at this time of her life?
+> Two red-haired half-elves, around your age, are standing in a yard and seem to be starting some kind of game. The younger one, a girl, is holding a cat. Cas, can you describe what Willow looks like at this time of her life?
 > 
->The older, with shorter hair, is her sibling Juniper. They’re wearing simple clothes, and are holding a wooden sword. You three at least know *of* each other, even if you haven't interacted much. There's not that many kids in town, especially so close to your own age. Thistle, you know these two are the priests' children, and Willow, you'd know that Thistle is the odd orphan who hangs out with the local witch, Leskella. You may have interacted in the past, that’s up to you to decide. 
+>The older, with shorter hair, is her sibling Juniper. They’re wearing simple clothes, and are holding a wooden sword. You three at least know *of* each other, even if you haven't interacted much. There's not that many kids in town, especially so close to your own age. Thistle, you know these two are the priests' children, and Willow, you'd know that Thistle is the odd orphan who hangs out with the local witch. You may have interacted in the past, that’s up to you to decide. 
 >
 > Thistle, you also notice the massive figure leaning against a building nearby, watching over them. Rock, you've been asked to keep an eye on the Beaumont kids for today. Their parents have given you a lot of support lately, so you accepted the chance to return the favor a bit. How does Rock look? 
 > 
@@ -39,7 +37,11 @@ While in the woods, a Blight check must occasionally be made. The first time thi
 Just as the game is about to begin, Waxwing suddenly stiffens and leaps from Willow's arms. The cat runs off towards the treeline on the west side of town, stops, looks back at the group, then darts into the bushes.
 
 >[!recite] Otto
->Otto, your mentor left you here in town a few days ago with one instruction: don't get into any trouble. You've decided to spend some time outdoors - what is Otto doing?
+>Otto, you've made your way to Elmhollow. Were you left here, or did you slip away on your own?
+>
+>A:  your mentor left you here in town a few days ago with one instruction: don't get into any trouble. You've decided to spend some time outdoors - what is Otto doing?
+>
+>B: You're keeping an eye out for trouble.
 >
 >Suddenly you catch a very strange sight. You just watched three children and a *minotaur* run out of town, moving directly towards the Silent Wood. Either those children are about to be in danger, or there's something *very* suspicious going on. It'd be *negligence* to just ignore something like that, wouldn't it? You should probably follow them to find out what's going on.
 
@@ -80,7 +82,7 @@ The players continue walking, and must make another Blight save.
 
 The party finds themselves in a much much larger clearing, with a massive twisted oak in the center. The other trees leave it a wide berth, as if afraid to be touched by its reaching, spiked branches with ends like clawed hands.
 
-Juniper sees the cat nestled in a hollow of the tree's roots, and rushes forward - completely missing the corpses of people and animals that rise up around them. (Six **Zombie Shambler**s with reduced HP - 12 each)
+Juniper sees the cat nestled in a hollow of the tree's roots, and rushes forward - completely missing the corpses of people and animals that rise up around them. (Six **Weak Zombie Shambler**s)
 
 The enemies block anyone but Willow and Juniper from approaching the tree. Juniper rushes to the cat, but as they step forward to grab it, are suddenly caught in the tree's roots.
 

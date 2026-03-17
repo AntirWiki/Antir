@@ -5,10 +5,12 @@ tags:
   - journey
   - incomplete
 draft: false
+aliases:
+  - Otto
 ---
 > [!infobox]
 > ## Otto Von Geist
-> ![[unknown.png|200]]
+> ![[otto.png|200]]
 > ### General Info
 > |  |  |
 > |  ----|  ----|
@@ -21,15 +23,19 @@ draft: false
 > ### Relationships
 > |  |  |
 > | ---- | ---- |
+> | [[Kirturok Stonehoof]] | Friend |
+> | [[Thistle Nightingale]] | Friend |
+> | [[Willow Beaumont]] | ? |
+> | [[Juniper Beaumont]] | Friend |
 %%
 > | [[Vada]] | Mentor |
 > | [[Athanasius]] | Enemy |
 %%
 
-Otto Von Geist is an [[Adventurer]] active across Antir.
+Otto Von Geist is an [[Adventurer]] active across Antir. He's known for a friendly, helpful attitude.
 
 # Description
-?
+Otto is a human man with a muscled but otherwise average build, short messy hair and a beard. He wears fighter's garb, underneath which one arm is constantly wrapped in bandages.
 
 %%
 # Backstory

@@ -46,6 +46,8 @@ The Monarch and other members of the royal family live and work in the [[Sunlit 
 
 The sale of magical goods or services is seen as heresy, and has been banned in Lucentia since 1100 BR.
 
+%%https://en.wikipedia.org/wiki/Vidame %%
+
 # Culture
 Though the Lucentian government and most of its residents favor the [[Antiran Pantheon]], all faiths are welcome in the Kingdom (so long as they do not break other laws). Even the faith of [[Verita]] has a small presence in Lucentia despite that goddess's antagonistic relationship with other gods, especially [[Lumina]].
 

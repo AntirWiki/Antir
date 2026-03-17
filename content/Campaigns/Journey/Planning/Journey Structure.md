@@ -19,15 +19,17 @@ Plan on 2-4 sessions per level
 
 4 - Winter - Athraithe 
 	[[Food Hoard]]
+	[[Rock's Rival]]
 
 5 - Winter - Kingdom
-	[[Rock's Rival]]?
+
 	Arrival in Alturon
 	[[Midnight Gospel]]
+	[[On Trial]]
 
 6 - Spring - Kingdom
 	Getting support from the Kingdom? Sealing magic from a priest Archmage Ivana or Willow’s mom knows?
-	[[On Trial]]
+	Needs help with their research, classic dungeon dive?
 
 7 - Spring - Kingdom/border town
 	[[Charlatan]], rumors of Autumn King's ascension

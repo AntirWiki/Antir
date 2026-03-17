@@ -5,6 +5,8 @@ tags:
   - journey
   - incomplete
 draft: false
+aliases:
+  - Thistle
 ---
 > [!infobox]
 > ## Thistle Nightingale
@@ -12,7 +14,7 @@ draft: false
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | [[Human]] / [[Elf]] / Fae |
+> | **Ancestry** | [[Human]] / [[Elf]](?) %%/Fae%% |
 > | **Age** | 24 |
 > | **Gender** | Non-Binary (Any pronouns)|
 > | **Home** | [[Elmhollow]] |
@@ -21,9 +23,10 @@ draft: false
 > ### Relationships
 > |  |  |
 > | ---- | ---- |
-> | [[Willow Beaumont]] | Childhood Friend |
-> | [[Juniper Beaumont]] | Childhood Friend |
-> | [[Kirturok Stonehoof]] | Father figure |
+> | [[Juniper Beaumont]] | Friend(?) |
+> | [[Willow Beaumont]] | Acquaintance |
+> | [[Kirturok Stonehoof]] | Friend |
+> | [[Otto Von Geist]] | Friend |
 > %%
 > | [[Kuruk]] | Father |
 > | [[Yarrow Nightingale]] (Deceased) | Mother |
