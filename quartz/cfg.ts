@@ -58,7 +58,7 @@ export interface GlobalConfiguration {
   /** Analytics mode */
   analytics: Analytics
   /** Glob patterns to not search */
-  ignorePatterns: string[]
+  ignorePatterns: string["**/Session Plans", "**/Side Quests"]
   /** Whether to use created, modified, or published as the default type of date */
   defaultDateType: ValidDateType
   /** Base URL to use for CNAME files, sitemaps, and RSS feeds that require an absolute URL.
