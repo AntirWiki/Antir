@@ -23,9 +23,61 @@ The symbol of the Guild is a wolf and a dragon, entwined around a sword. It repr
 The guild's [[Adventurer's Guild Headquarters|headquarters]] are located in [[Dragun Mac Tire]].
 
 ## Ranks
-Guild members are given a badge in a metal that shows their rank: copper, silver, or gold. Most guild quests are posted with a required rank, higher ranked quests being more dangerous but more profitable. 
+Guild members are given a badge in a metal that shows their rank: copper, silver, or gold. Most guild quests are posted with a required rank, higher ranked quests being more dangerous but more profitable. These ranks are each further divided into titles, as follows:
 
-Some have questioned the lack of a platinum rank, but if an adventurer deserves a platinum badge, they are likely so famous they no longer need a badge at all. They are also likely too expensive for the Guild’s clients, and so powerful that the Guild services are no longer useful to them. 
+### Initiates
+“Pups” / “Sparks” - Bronze clearance
+New recruits and probationary members entrusted only with low-risk assignments: escort work, scouting within settled regions, courier duties, and minor monster suppression. At times, their work borders on the menial – pest control, labor assistance, or other tasks in service to local communities.
+
+Initiates are typically required to operate under the supervision or approval of a higher-ranking member. Provisions are minimal, and they are not entitled to room or board within guild halls.
+
+Advancement from this rank can occur quickly, particularly for individuals who arrive with prior experience. Bronze contracts offer little financial reward.
+
+### Pathfinders
+“Runners” / “Embers” -  Silver clearance
+Proven adventurers capable of independent travel and sound field judgment. Commonly assigned to exploratory missions, caravan protection, and moderate threat elimination.
+
+Pathfinders are granted: independent contract rights (no supervision/approval needed for quests), the ability to operate between guild branches, access to improved equipment (weapons, armor, potions, charts, and monster reports).
+They are typically provided shared barracks accommodations.
+
+This rank forms the backbone of the guild. In rare cases, experienced individuals may be inducted directly at this level. Silver contracts generally provide consistent financial reward.
+
+### Vanguards
+“Fangs” / “Flamebearers” - Silver clearance
+
+Veteran Pathfinders entrusted with leadership in the field. Vanguards command small parties and are expected to respond to regional crises, particularly where higher authority is unavailable.
+
+They are granted: formal party command authority, the right to register official adventuring companies, the ability to take on apprentices, limited authority to requisition supplies and aid from other guild branches.  
+Some Vanguards are afforded private quarters within guild barracks.
+
+### Keepers
+“Claws” / “Scale-Keepers” - Gold clearance
+
+Highly trusted defenders assigned to major population centers or volatile frontiers. Keepers are authorized to undertake high-risk contracts involving powerful magical threats, territorial defense, and relic retrieval.
+
+They are expected to respond to priority alerts and often serve as the guild’s primary stabilizing force in dangerous regions.
+
+Keepers are granted: access to elite magical equipment, authority to deploy multiple guild parties, recognition by local authorities as official guild representatives, the ability to establish safe zones, evacuation hubs, and temporary outposts, access to advanced archives, including records of ancient threats and magical disasters
+
+Many guild members remain at this rank permanently. In rare cases, Keepers may apprentice under a Guildheart.
+
+### Champions
+“Alphas” / “Drakesworn” - Gold clearance
+
+Elite adventurers entrusted with matters of continental significance: dragon hunts, large-scale incursions, catastrophic magical events, and politically sensitive crises.
+
+This rank is not earned through standard promotion, but bestowed by the Guildhearts.
+
+Champions are granted: access to the Relic Vault (legendary and sentient artifacts), authority to mobilize guild forces in times of crisis, significant political and diplomatic influence, access to classified intelligence (emerging threats, instability reports, relic discoveries), private, magically warded quarters within [[Dragun Mac Tire]], the right to petition Guildhearts and city leadership directly, the ability to issue priority alerts across the Grand Ledger network.
+
+They may attend Guildheart councils and play a role in shaping guild doctrine.
+
+Champions are widely known figures, often celebrated, or feared, across entire regions.
+
+However, this rank carries immense burden as they are rarely off duty, their failures are public and far-reaching and their freedom is significantly diminished.  
+Some decline elevation to this rank, choosing instead to remain Keepers.
+
+Champions are often considered potential successors to the [[#Guildhearts]].
 
 ## Services
 ### The Grand Leger
@@ -53,9 +105,17 @@ In order to ensure that guilds across Antir remain aligned with the adventuring 
 
 First established by the guild’s founding sisters, the Guildhearts are entrusted with overarching authority across all guilds; any new guild must agree to abide by their oversight. Guildhearts often serve as the heads of notable guilds throughout Antir and are responsible for supervising all branches within a certain radius of their post. Any misconduct — wrongful deaths, corruption, or entanglement with local authorities — ultimately falls upon the Guildheart’s shoulders (see The Fall of the White Elk Guild, c. 1198). All prospective guild branches must be approved and established under the guidance of a Guildheart, following a thorough assessment of the branch’s efficiency and its ability to uphold the guild’s ideals. Upon establishment, a guild is then granted access to the main resource pool – gold, materials, talent, and more.
 
-Guild members who have served their communities and respective branches with distinction for a considerable time may be chosen to apprentice under a Guildheart. After further evaluation and training, if accepted unanimously by the circle, they are formally instated as a Guildheart themselves.
+Their word carries the weight of law across all guild branches. Guildhearts have the authority to bestow the rank of Champion to keepers who distinguish themselves. They are also able to revoke the rank.
+
+Guild members who have served their communities and respective branches with distinction for a considerable time - usually Keepers or Champions - may be chosen to apprentice under a Guildheart. After further evaluation and training, if accepted by the leaders of the guild, they are formally instated as a Guildheart themselves.
 
 Guilds are also bound by mutual defense pacts: within a set radius, branches are expected to come to one another’s aid in times of need.
+
+Guildhearts are granted direct access to Rosaline through enchanted communication stones and may enter her private sanctum. As she ages, governance increasingly falls to them, with Rosaline serving as a symbolic and unifying figure.
+
+Due to the demands of their role, Guildhearts rarely undertake missions directly, instead delegating such tasks to Champions.
+
+The position is lifelong.
 
 %%
 Send prospective members out on a trial quest? Supervised?

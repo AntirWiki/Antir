@@ -8,7 +8,7 @@ Religion is highly valued in the society of [[Lucentia]], and they worship sever
 Each major god has a yearly festival in the Kingdom. Festivals last from a few days to a week, and include public celebrations, sermons, and sacrifices to the gods. The last festival of the year, known unofficially as the "Festival of Small Gods", celebrates all the lesser gods who don't have a dedicated festival.
 
 # Heavenly Court
-![[Heptagram.png|right|200]]These deities form the core of the Antiran pantheon, and are honored to some degree in almost all Lucentian churches. Each has a dedicated annual festival. Seven is a holy number in the faith, representing the gods of the Heavenly Court. They are often represented symbolically by a seven pointed star (also known as a heptagram), which the faithful commonly refer to as "the Holy Star". 
+![[Heptagram.png|right|200]]These deities form the core of the Antiran pantheon, and are honored to some degree in almost all Lucentian churches. Each has a dedicated annual festival. Seven is a holy number in the faith, representing the gods of the Heavenly Court. They are often represented symbolically by a seven pointed star (also known as a heptagram), which the faithful commonly refer to as "the Holy Star". While often shown in white to honor all seven, it can be colored to show particular favor to a certain god (the second most common color is gold, honoring Lumina)
 
 ## [[Lumina]]
 Goddess of light and mercy.

@@ -22,7 +22,6 @@ Plan on 2-4 sessions per level
 	[[Rock's Rival]]
 
 5 - Winter - Kingdom
-
 	Arrival in Alturon
 	[[Midnight Gospel]]
 	[[On Trial]]

@@ -27,6 +27,7 @@ aliases:
 > | [[Thistle Nightingale]] | Friend |
 > | [[Willow Beaumont]] | ? |
 > | [[Juniper Beaumont]] | Friend |
+
 %%
 > | [[Vada]] | Mentor |
 > | [[Athanasius]] | Enemy |
