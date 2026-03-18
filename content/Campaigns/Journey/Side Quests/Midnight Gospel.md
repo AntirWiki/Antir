@@ -1,3 +1,10 @@
+---
+tags:
+  - private
+  - incomplete
+  - journey
+draft: true
+---
 Rhylea's festival
 
 Party has an objective during the festival - get in contact with someone?
