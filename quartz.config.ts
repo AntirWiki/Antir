@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "https://antirwiki.github.io/Antir",
-    ignorePatterns: ["Utility", "private", "templates", ".obsidian"],
+    ignorePatterns: ["Utility", "private", "templates", ".obsidian", "Session Plans", "Side Quests"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
