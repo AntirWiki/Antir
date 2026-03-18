@@ -50,4 +50,10 @@ Otto is a human man with a muscled but otherwise average build, short messy hair
 8.) Goes to [[Elmhollow]] on a hunt. 
 
 So he essentially is a vessel for Vada to resurrect through, because I think rn she could be acting as a Defied or as a spirit in Antir without a physical body. But he thinks he's going to turn into the demon king one day and cause a lot of harm, so he chooses to do the most good while he can
+
+### Dwarf Dad
+- A warden, and a master weapon/armor smith
+- Basically Ottos second dad Be a point for Otto to work with for several years while he is training 
+- Get injured during an excursion or during an attack on the lodge 
+- Dies, and defies because he's got fontian blood, of which Otto then has to tragically kill to fulfill a rule that Vada has stating that all hunters must exorcise a demon before going on missions solo (which will be right before Otto leaves for the beginning of the campaign)
 %%

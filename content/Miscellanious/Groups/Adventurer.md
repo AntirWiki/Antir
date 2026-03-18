@@ -27,6 +27,7 @@ Guild members are given a badge in a metal that shows their rank: copper, silver
 
 ### Initiates
 “Pups” / “Sparks” - Bronze clearance
+
 New recruits and probationary members entrusted only with low-risk assignments: escort work, scouting within settled regions, courier duties, and minor monster suppression. At times, their work borders on the menial – pest control, labor assistance, or other tasks in service to local communities.
 
 Initiates are typically required to operate under the supervision or approval of a higher-ranking member. Provisions are minimal, and they are not entitled to room or board within guild halls.
@@ -35,6 +36,7 @@ Advancement from this rank can occur quickly, particularly for individuals who a
 
 ### Pathfinders
 “Runners” / “Embers” -  Silver clearance
+
 Proven adventurers capable of independent travel and sound field judgment. Commonly assigned to exploratory missions, caravan protection, and moderate threat elimination.
 
 Pathfinders are granted: independent contract rights (no supervision/approval needed for quests), the ability to operate between guild branches, access to improved equipment (weapons, armor, potions, charts, and monster reports).
