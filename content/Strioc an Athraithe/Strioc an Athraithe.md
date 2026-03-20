@@ -23,6 +23,9 @@ The region is filled with small kingdoms, city-states, and other small independe
 [[Dragun Mac Tire]], the heart of [[Adventurer#The Adventurer's Guild|The Adventurer's Guild]].
 
 [[Elmhollow]], a small town in the northwest that borders the Silent Woods.
+
+Twynreed, Belthanos - Towns
+
 ## Other
 The [[Silent Woods]], a cursed, deathly forest on the western edge of the region.
 - The [[Ravenwood]], a forest of withered trees and carrion feeders surrounding the Silent Wood.

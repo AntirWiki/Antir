@@ -26,7 +26,7 @@ aliases:
 > | **Divine Skill** | Deception or Stealth |
 > | **Favored Weapon** | ? |
 > | **Cleric Spells** | ? ? ?|
-> ## ---
+> ---
 > ## The Font (Uncorrupted)
 > ### General Info
 > |  |  |

@@ -21,9 +21,6 @@ The Headmaster, a trusted associate of the Archmage, handles bureaucratic admini
 # Organization
 The university is divided into several schools, each with numerous departments and specialties. Some of these schools are labelled as Colleges - usually those that teach a particularly unique form of magic, such as the combat art of the Magus.
 
-## Magus College
-The magus college teaches a blend of martial and magical techniques for those with high magical potential but less interest in the academic side of arcana.
-
 ## School of the Boundary
 The School of the Boundary is a direct continuation of university founder Cianan of Antir's work on animancy, the magic of souls. It also concerns itself with research on [[Spirits]].
 
@@ -33,16 +30,21 @@ The department of animetrics focuses on the examination and measurement of souls
 ### Department of Applied Theology
 Includes all research into gods and the mechanics by which they operate.
 
+## School of Battle Magic
+The school of battle magic is the oldest course of study in Foxfire, hailing back to its days as a war college during the [[Three Kings War]]. The battle mages and other students have a mutual disrespect; the other students see battle mages as unintellectual killers, and the battle mages see the other schools as stuck-up cowards.
+
 ## School of Civic Wizardry
 The school of civic wizardry teaches about the practical and grounded uses of magic. Civic wizardry has uses in fields like infrastructure, architecture, and disaster recovery.
 
 The school was originally founded in 954 BR as an independent college in [[Alturon]], but moved to become part of Foxfire some time before [[Lucentia|The Holy Kingdom]] effectively banned arcane magic in 1100 BR.
 
-## School of Battle Magic
-The school of battle magic is the oldest course of study in Foxfire, hailing back to its days as a war college during the [[Three Kings War]]. The battle mages and other students have a mutual disrespect; the other students see battle mages as unintellectual killers, and the battle mages see the other schools as stuck-up cowards.
+## Magus College
+The magus college teaches a blend of martial and magical techniques for those with high magical potential but less interest in the academic side of arcana.
 
 ## College of the Occult
 The occultists are strange, even by the standards of wizards. Sequestered in a wooded campus outside the city, they teach strange and secret subjects - necromancy, augury, dowsing, and more - that are often looked down upon by the academics of the other schools.
+
+Their curriculum is full of strange rituals and traditions that many claim are mere hazing, but the Occultists insist are vital to the practice of their shadowy arts.
 
 # History
 The academy was founded in 948 BR by [[Cianan of Antir]] to train battlemages during the [[Three Kings War]]. The central spire was originally the king's personal wizard tower. After the war, it quickly transitioned from a military academy to a civilian institution.

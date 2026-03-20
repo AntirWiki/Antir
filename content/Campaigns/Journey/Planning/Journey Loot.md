@@ -11,7 +11,7 @@ draft: true
 	- P1 Ring of Sigils (thistle foxfire graduation ring?)
 	- C2 Bronze Bull pendant for rock (Rock starting)
 	- C2 Hand of Mercy (Willow starting)
-	- C1 Healing potion (Minor) x3 (Given by Callantha)
+	- C1 Healing potion (Minor) x3 (Given by townsfolk)
 	- C1 Holy Water x2 (Given by Callantha)
 	- 40GP
 - 2 - Foxfire Dungeon

@@ -5,7 +5,7 @@ Welcome to the Antiran Compendium, the source for all knowledge about the contin
 
 Antir is a fantasy world created by me with help from my friends, so I could have a setting of my own for TTRPG games (particularly Pathfinder 2e).
 
-If you are searching for content about a specific campaign, search for its tag (such as #shattered-past). If you have never visited Antir before, you may be interested in the [[Voyager's Guide to Antir|Voyager's Guide]], which gives an overview of the realm and its people.
+If you are searching for content about a specific campaign, search for its tag (such as #shattered-past or #journey). If you have never visited Antir before, you may be interested in the [[Voyager's Guide to Antir|Voyager's Guide]], which gives an overview of the realm and its people.
 
 Enjoy!
 ![[Antir|clean]]

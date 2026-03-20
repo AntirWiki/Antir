@@ -14,9 +14,9 @@ aliases:
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Ancestry** | [[Human]] / [[Elf]](?) %%/Fae%% |
+> | **Ancestry** | [[Human]] / [[Elf]]? %%/Fae%% |
 > | **Age** | 24 |
-> | **Gender** | Non-Binary (Any pronouns)|
+> | **Gender** | Nonbinary (Any pronouns)|
 > | **Home** | [[Elmhollow]] |
 > | **Occupation** | [[Adventurer]] |
 > | **Status** | Alive |

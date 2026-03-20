@@ -25,7 +25,7 @@ tags:
 
 Once a mortal who stood up to [[Athanasius]], now a [[Spirits#Demons|Demon]] spirit born from the fears of other [[Spirits#Demons|Demons]] and [[Font|Fontian]] alike. Archivaldo brought ruin to [[New Fontia]] hidden away in the mountains, and caused their reintegration with society. His spirit is demonic in nature now, and has the ability to be reborn whenever a Fontian dies. Although, he likes to stay low–unless Athanasius has been reborn as well.
 
-Stories from the [[Antiran Pantheon|Lucentian Church]] tell of a demon king who is occasionally reincarnated and attampts to destroy the church. Though many of these stories end with his defeat, several others end with him simply disappearing.
+Stories from the [[Antiran Pantheon|Lucentian Church]] tell of a demon king who is occasionally reincarnated and attempts to destroy the church. Though many of these stories end with his defeat, several others end with him simply disappearing.
 
 # Description
 Appearance Unknown

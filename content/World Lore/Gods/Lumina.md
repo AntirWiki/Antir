@@ -7,7 +7,7 @@ tags:
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Titles** | Lucent Lumina |
+> | **Titles** | Lucent Lumina, the Mother of Mercy |
 > | **Domains** | Healing, Repose, Sun, Truth |
 > | **Region** | [[Lucentia]] |
 > | **Pantheon** | [[Antiran Pantheon]] |
@@ -38,7 +38,7 @@ Lumina's midsummer festival, the Luminalia, is the grandest in the Lucentian cal
 
 # History
 ## Drakos Empire
-Some scholars believe Lucent (and by extension, Lumina and Verita) to be a modern incarnation of the ancient [[Drakos Empire|Draku]] goddess Lucimater, discovered and revived by the Antirans sometime after the Dragon Wars. Lucimater's domains were light, fire, and purity.
+Some scholars believe Lucent (and by extension, Lumina and Verita) to be a modern incarnation of the ancient [[Drakos Empire|Drakos]] goddess Lucimater, discovered and revived by the Antirans sometime after the Dragon Wars. Lucimater's domains were light, fire, and purity.
 
 ## Lucent's Schism
 [[Aisling of Antir|Queen Aisling]]'s connection to Lucent was born in a moment of desperation. In 953 BR, when her dearest friend was afflicted with lycanthropy - a curse that orthodox doctrine deemed a mark of evil requiring purification by fire - Aisling saw past centuries of dogma. Where others saw a beast to be purged, she witnessed a friend trapped between light and shadow. In her desperate prayer, Lucent revealed herself not as a harsh arbiter, but as a force of transformative mercy, bringing even those touched by darkness back to the light. Her Lucent was benevolent, warm, and kind - a goddess who could cure even those afflictions the Church condemned as unholy. This miracle shaped her reign, as she guided Antir towards a path of grace rather than persecution. 

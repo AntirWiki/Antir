@@ -10,3 +10,6 @@ draft: true
 # Full Campaigns
 - Spies/agents of an evil government
 - Rebels in a [[Taluvhas]] or [[Blackwing]] city overrun by fascists
+- [[Drakos Empire]]
+	- Saving some Drakos from the dragon-extinction by either moving them to a new continent or sending them into the FUTURE (time dragon???)
+		- Takes place in both time frames - end of part one you get sent to the future, and in part two you have to delve the ruins of the places that existed in part one?

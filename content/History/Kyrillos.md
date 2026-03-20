@@ -33,15 +33,15 @@ Murals on his tomb depict Kyrillos and his undead legions fighting against armie
 ## Awakening
 In 953 BR his tomb was discovered and unsealed by [[Yvonne Silvershield]], who sought to revive her liege [[Faolan of Antir]] using the magics in Kyrillos' spellbook. This roused the lich from his slumber, and he attacked Yvonne when she attempted to resurrect the dragon Ozymandias in an act of desperation.
 
-[[Tooth and Claw]], agents of the king, found Yvonne and defeated her, then destroyed Kyrillos while he was still regaining his strength. They took his spellbook reliquary to deliver it to [[Cianan of Antir]], so he could study the magic within and destroy the lich's soul.
+[[Tooth and Claw]], agents of the king, found Yvonne and defeated her, then destroyed Kyrillos while he was still regaining his strength. They took his spellbook [[Lich#Reliquary|reliquary]] to deliver it to wizard king [[Cianan of Antir]], so he could study the magic within and destroy the lich's soul.
 
 [[Ninyva O'Niamh]], refusing to allow Cianan the power of lichdom, made a deal with the Lord of Gilded Leaves (the archfae who would become the Autumn King). The fae took Kyrillos' soul captive, and re-wrote the book into a tome of plant-inspired soul magic.
 
 ## The Autumn King
 *See “[[The Haervest Affairs|The Hærfest Affairs]]”*:
 
-As a captive of the Lord of Gilded Leaves, Kyrillos capitalized on the archfae's naivety and fear. When Ninyva was defeated by the remainder of Tooth and Claw with Cianan's assistance, Kyrillos used this event as evidence that mortals were too dangerous to be allowed in Antir. He offered to teach the Lord the secrets of necromancy, and the rattled fae accepted.
+As a captive of the Lord of Gilded Leaves, Kyrillos capitalized on the archfae's naivety and fear. When Ninyva was defeated by the remainder of Tooth and Claw with Cianan's assistance, Kyrillos used this event to convince the fae that mortals were too dangerous to be allowed in Antir. He offered to teach the Lord the secrets of necromancy, and the rattled fae accepted.
 
-After spending a century helping the Lord gain the title of the Autumn King, Kyrillos requested a physical form as payment. The Autumn King obliged, but was tricked, and Kyrillos drew him into the great arboreal titan he created. The two, fighting for power in their new form, wreaked havoc through the Feywild and into Antir, tearing into reality near [[Marigold]] and moving towards [[Alturon]]. See [[Black Autumn]].
+After spending a century helping the Lord win the title of the Autumn King, Kyrillos requested a physical form as payment. The Autumn King obliged, but was tricked, and Kyrillos drew him into the great arboreal titan he created. The two, fighting for control in their new form, wreaked havoc through the Feywild and into Antir, tearing into reality near [[Marigold]] and moving towards [[Alturon]]. See [[Black Autumn]].
 
 The titan of oak was defeated, and the Autumn King banished. Kyrillos' damaged soul was sealed away in a great dead oak tree far from Alturon. The malaise that seeped from this vessel had a deadly effect on the nature around it, ultimately creating the [[Silent Woods]].

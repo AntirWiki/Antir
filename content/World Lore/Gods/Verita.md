@@ -33,9 +33,9 @@ Verita is a goddess of light, truth, and purity worshipped mainly in [[Blackwing
 
 Verita is the patron goddess of Blackwing, and her church there has a significant role in the nation's government.
 
+# Faith
 Her worshippers are known as the **Verax**, the Celestial word for "truthful".
 
-# Worship
 Verita's worshippers believe that she is not the only god - as others demonstrably exist, and hiding their nature would be an untruth  - but that she is the only one worthy of worship.
 
 Her followers believe that from her realm in Elysium, Verita wages constant war with the other gods. Eventually, they say, she will destroy all those unworthy of divinity and stand as the only god. The Verax believe that when they die, their souls go to Elysium to join this war.
@@ -44,7 +44,7 @@ Verax temples are usually constructed of glass and white marble, which represent
 
 # History
 ## Drakos Empire
-Some scholars believe Lucent (and by extension, Lumina and Verita) to be a modern incarnation of the ancient [Draku](app://obsidian.md/Drakos%20Empire) goddess Lucimater, discovered and revived by the Antirans sometime after the Dragon Wars. Lucimater's domains were light, fire, and purity.
+Some scholars believe Lucent (and by extension, Lumina and Verita) to be a modern incarnation of the ancient [[Drakos Empire|Drakos]] goddess Lucimater, discovered and revived by the Antirans sometime after the Dragon Wars. Lucimater's domains were light, fire, and purity.
 
 ## Lucent's Schism
 [[Aisling of Antir|Queen Aisling]]'s connection to Lucent was born in a moment of desperation. In 953 BR, when her dearest friend was afflicted with lycanthropy - a curse that orthodox doctrine deemed a mark of evil requiring purification by fire - Aisling saw past centuries of dogma. Where others saw a beast to be purged, she witnessed a friend trapped between light and shadow. In her desperate prayer, Lucent revealed herself not as a harsh arbiter, but as a force of transformative mercy, bringing even those touched by darkness back to the light. Her Lucent was benevolent, warm, and kind - a goddess who could cure even those afflictions the Church condemned as unholy. This miracle shaped her reign, as she guided Antir towards a path of grace rather than persecution. 

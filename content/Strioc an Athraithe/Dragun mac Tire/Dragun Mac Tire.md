@@ -36,7 +36,7 @@ Many residents of the town are adventurers, either active or retired.
 See [[Adventurer's Guild Headquarters#People|Adventurer's Guild Headquarters]].
 
 # Government
-The city is run by a council of Guildhearts (senior members of the Guild), led by guild founders Rosaline and Kastenia Valentine. The founders rarely take direct interest in the town's administration.
+The city is run by a council of Guildhearts (senior members of the Guild), led by guild founders [[Rosaline and Kastenia Valentine]]. The founders rarely take direct interest in the town's administration.
 
 %%
 # Geography

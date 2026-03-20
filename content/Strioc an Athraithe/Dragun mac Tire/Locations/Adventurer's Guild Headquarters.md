@@ -13,7 +13,7 @@ The building is the center of guild leadership, and [[Adventurer#Guildhearts|Gui
 Not least, it serves as a hub for quests across [[Strioc an Athraithe]], which is one of the most active regions for adventurers.
 
 # People
-**Rosaline and Kastenia Valentine** - Founders of the guild. The sorcerous twins still lead the organization, but have not made a public appearance in many years.
+**[[Rosaline and Kastenia Valentine]]** - Founders of the guild. The sorcerous twins still lead the organization, but Kastenia has not made a public appearance in many years. 
 
 **Kurogh** - A guild official who helps manage newer members. A large orc man who wears fine outfits and reading glasses.
 

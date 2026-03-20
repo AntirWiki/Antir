@@ -24,6 +24,7 @@ tags:
 > | [[Ninyva O'Niamh]] | Friend |
 > | [[Yvonne Silvershield]] | ? |
 > | [[Amelia Bouchard]] | Sister |
+> | [[Rosaline and Kastenia Valentine]] | Wards |
 
 *-Of Bloody Fist and Brutal Heart-*
 

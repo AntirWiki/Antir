@@ -21,8 +21,9 @@ tags:
 > |  |  |
 > | ---- | ---- |
 > | [[Valerie Bouchard]] | Companion |
-> | Velns | Ally |
+> | Velns | Former Ally |
 > | [[Lasairian of Antir]] | Former Comander |
+> | [[Rosaline and Kastenia Valentine]] | Wards |
 
 Sir Darios O'Mael is a famed [[Adventurer|adventurer]], former general of the Kingdom of [[Antir]], and former member of [[Tooth and Claw]].
 

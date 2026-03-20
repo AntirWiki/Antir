@@ -20,7 +20,7 @@ The adventurer's guild is an organization that spans across Antir, offering comm
 
 The symbol of the Guild is a wolf and a dragon, entwined around a sword. It represents legendary heroes [[Valerie Bouchard|Corsair Molossus Valerie]] and [[Darios O'Mael|Sir Darios Scalemaster]], who are seen as the first modern adventurers.
 
-The guild's [[Adventurer's Guild Headquarters|headquarters]] are located in [[Dragun Mac Tire]].
+The guild's [[Adventurer's Guild Headquarters|headquarters]] are located in [[Dragun Mac Tire]]. It is led by its original founders, elven twins [[Rosaline and Kastenia Valentine]].
 
 ## Ranks
 Guild members are given a badge in a metal that shows their rank: copper, silver, or gold. Most guild quests are posted with a required rank, higher ranked quests being more dangerous but more profitable. These ranks are each further divided into titles, as follows:
@@ -76,8 +76,7 @@ They may attend Guildheart councils and play a role in shaping guild doctrine.
 
 Champions are widely known figures, often celebrated, or feared, across entire regions.
 
-However, this rank carries immense burden as they are rarely off duty, their failures are public and far-reaching and their freedom is significantly diminished.  
-Some decline elevation to this rank, choosing instead to remain Keepers.
+However, this rank carries immense burden as they are rarely off duty, their failures are public and far-reaching and their freedom is significantly diminished. Some decline elevation to this rank, choosing instead to remain Keepers.
 
 Champions are often considered potential successors to the [[#Guildhearts]].
 
@@ -141,7 +140,7 @@ To the north, the owlfolk – Moondancers, in their own tongue – pushed furthe
 
 Each realm turned inward, consumed by its own crises. Every new catastrophe demanded more resources than the land could provide. The people of Antir – farmers, traders, craftsmen – became forgotten. 
 
-The combined creep of the Silent Woods and the thinning barrier between realms invited all manner of bizarre creatures and even more bizarre forms of devastation. One such region was home to a small village, where twin elven girls - Rosaline and Kastenia Valentine - lived unaware that the slow infestation of outside forces would soon shape their destiny. On one terrible night, just as summer was to come to a close, their village was caught in the crossfires of a battle between fae courts –  salvation came in the form of a group of heroes, led by the legendary Corsair Molossus Valerie Bouchard and Scalemaster Darios O’Mael, who fought desperately to drive them back. Though the invaders were repelled, much of the village lay in ruin. The twin girls, now orphaned, had lost everything.
+The combined creep of the Silent Woods and the thinning barrier between realms invited all manner of bizarre creatures and even more bizarre forms of devastation. One such region was home to a small village, where twin elven girls - [[Rosaline and Kastenia Valentine]] - lived unaware that the slow infestation of outside forces would soon shape their destiny. On one terrible night, just as summer was to come to a close, their village was caught in the crossfires of a battle between fae courts –  salvation came in the form of a group of heroes, led by the legendary Corsair Molossus Valerie Bouchard and Scalemaster Darios O’Mael, who fought desperately to drive them back. Though the invaders were repelled, much of the village lay in ruin. The twin girls, now orphaned, had lost everything.
 
 The heroes took them in, not just as wards, but as family – guiding them through their grief, training them in the ways of battle and survival, renewing their strength to keep going. And as the twins grew, so too did the fire for adventure in their hearts.
 

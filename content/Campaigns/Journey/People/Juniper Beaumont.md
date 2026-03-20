@@ -20,7 +20,7 @@ aliases:
 > ### Relationships
 > |  |  |
 > | ---- | ---- |
-> | [[Thistle Nightingale]] | Friend |
+> | [[Thistle Nightingale]] | Friend(?) |
 > | [[Willow Beaumont]] | Sister |
 > | [[Kirturok Stonehoof]] | Family friend |
 > | [[Otto Von Geist]] | Friend |
