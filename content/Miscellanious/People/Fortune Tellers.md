@@ -1,1 +1,7 @@
-Chord and Walker
+---
+tags:
+  - character
+  - private
+draft: true
+---
+Chord and Walker 
