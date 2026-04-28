@@ -29,3 +29,5 @@ tags:
 Ceartas (Pronounced Care-tuss) is the god of protection and justice in [[Lucentia]].
 
 His primary temple is known as the **Ceartenaeum**, in the heart of [[Alturon]].
+
+Usually depicted as a well-muscled human in shining armor. 

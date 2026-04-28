@@ -47,3 +47,5 @@ Inkmaker in zauberei / dyemaker in antir
 When kyrillos attacks Zauberei, a higher level party is sent after him. We see them before they go in. Then we see them defeated and missing several party members. The missing ones were killed, and are later encountered as raised minions of kyrillos. 
 
 Changelings 
+
+Wildfire spirit if the party leaves a fire unattended, or dryad criticizing them?

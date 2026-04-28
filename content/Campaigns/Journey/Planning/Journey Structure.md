@@ -19,7 +19,7 @@ Plan on 2-4 sessions per level
 
 4 - Winter - Athraithe 
 	[[Food Hoard]]
-	[[Rock's Rival]]
+	[[Rock's Rival]] (in marigold?)
 
 5 - Winter - Kingdom
 	Arrival in Alturon

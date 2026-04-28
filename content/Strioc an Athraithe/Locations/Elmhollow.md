@@ -28,3 +28,5 @@ The Lucentian chapel hosts a growing congregation, based around the Beaumont fam
 **Marigold Stalwart** is a [[Witch]] who lives on the outskirts of town. She does not intervene in town politics, but offers guidance when needed and is highly respected. Even the Lucentian faithful sometimes seek her aid, though most of them do so in shameful secrecy. %%Her patron is [[Kuruk]], who grants her power in exchange for protecting [[Thistle Nightingale|Thistle]] and serving as a liaison with the mortals around the Ravenwood%%
 
 **Farmer Worm**, a grumpy [[Halfling]] pig farmer. 
+
+**Madam Verelle,** a kindly old widow.

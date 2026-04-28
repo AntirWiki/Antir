@@ -25,6 +25,8 @@ High Minister Amelia Verbena Bouchard is the leader of the Blackwing Ministry of
 %%
 
 # Description
+Tan skin and long blonde hair
+![[amelia.jpeg|200]]
 %%
 
 # History

@@ -29,3 +29,5 @@ tags:
 Soln is the god of nature and the hunt in [[Lucentia]].
 
 They are said to be completely mute, and many members of their priesthood are as well - either by choice, birth, or injury.
+
+Usually depicted as a human or elf

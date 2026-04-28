@@ -35,6 +35,9 @@ Willow Beaumont is an acolyte of the [[Antiran Pantheon|Lucentian]] church in th
 Willow has long red hair and pale skin. She is usually seen wearing priestly garments that cover almost all of her body. She often wears a censer woven into the end of her long braided hair.
 
 %%
+# History
+After being infiltrated by the Retting, lost the divine favor that had been shining on her for her entire childhood. Quickly lost favor with her parents, who turned to the seemingly uncorrupted Juniper as their main focus - though they never stopped pressuring Willow to be the perfect child she once was.
+
 # The Retting
 The [[Retting]] is a spirit that has attached itself to Willow, granting her necromantic abilities. 
 

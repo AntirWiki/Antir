@@ -43,7 +43,7 @@ Rosaline and Kastenia Valentine are the founders and current leaders of the Anti
 %%Kastenia, mutated into the form of a giant moth by her fae powers, is kept in a garden deep within the guild headquarters. Rosaline uses the vast network of the Guild to search for a way to reverse this condition.%%
 
 # Description
-Both twins are elves, with their ancestry's characteristic thin and tall builds.
+The sisters - non-identical twins - are elves, with their ancestry's characteristic tall and thin builds.
 
 Rosaline has pale skin and long pink hair flowing almost to her feet, with white marks on her cheeks that resemble butterflies.
 
@@ -63,7 +63,9 @@ The twins and their companions retraced the paths of their mentors, returning to
 Today, Dragún Mac Tíre remains the headquarters for all guild activity across the continent, anchored by a formidable city-state of the same name that continues to spread outward. It has drawn youthful, passionate, and powerful individuals from across the realm, earning a reputation as an energetic, bustling city where dreamers go to stake their claim in history. The founding twins continue to oversee much of the city and have become figures akin to its queens.
 # Gallery
 ![[ValentineParty.png|500]]
+
 Rosaline (center left) and Kastenia (left) in their youth, with the other members of their adventuring party.
 
 ![[Rosaline and moth.png|500]]
+
 Rosaline and ???
