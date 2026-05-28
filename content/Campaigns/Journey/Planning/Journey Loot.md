@@ -17,30 +17,30 @@ draft: true
 - 2 - Foxfire Dungeon
 	- P4 Staff of Bless, soothe, light (From sylas) OR accursed staff (rank 1 only)
 	- P3 Average manacles (From the sacrificed guard)
-	- P2
-	- P2
-	- C3 (Something offered by the mages to help against Silas?)
-	- C3
+	- P2 A pair of Farlight Stones, left behind by the glowing slime if defeated or imprisoned
+	- P2 +1 weapon potency rune (if the party turns in the loot from the spent Coppers)
+	- C3 Bane Oil (undead) x2
 	- C2
-	- C2
-	- 70GP
+	- C2 Crying Angel pendant from funeral
+	- 60 GP from the college for dealing with sylas
+	- 8 GP from the Duke if they help cure his daughter
+	- 2 GP from the guild if they turn in the spent Coppers' loot
 - 3
-	- P3 
-	- P4
+	- P4  
 	- P3
 	- P3
+	- P2 Wayfinders for the party if they join the guild
 	- C4
 	- C4
 	- C3
 	- C3
 	- C2
 	- C2
-	- Wayfinders (and aeon stones?) if the party joins the Guild?
 	- 120 GP
 - 4
 	- P5
 	- P5
-	- P4
+	- P4 +1 Striking rune
 	- P4
 	- C5
 	- C5

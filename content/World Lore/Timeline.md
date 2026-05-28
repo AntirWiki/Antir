@@ -28,7 +28,7 @@ Years in modern [[Antir]] are measured from the founding of the kingdom, which i
 
 **1100-1351 BR: The Fractured Era**
 - 1100: Magic is declared illegal in the Holy Kingdom. [[Zauberei]] declares its independence, soon followed by [[Catsi Crossing]] in the fae-warped [[Strioc an Athraithe]].
-- 1168: [[Adventurer#The Adventurer's Guild|The Adventurer's Guild]] is founded in [[Dragun Mac Tire]] and quickly spreads across the continent.
+- 1168: The Antiran [[Adventurer's Guild]] is founded in [[Dragun Mac Tire]] and quickly spreads across the continent.
 - 1217: [[Blackwing]] declares its independence, causing the remaining lands of the Kingdom to shatter into dozens of smaller states. This period is known by Kingdom historians as **The Dissolution**. The Holy Kingdom is reduced to a shadow of its former glory.
 - 1270: The [[Golden Saint]] is sanctified in the Kingdom and begins the **Shining Crusade**. Kingdom armies begin retaking all land north of Blackwing and west of Athraithe. As it is reborn, the nation is once again given a new title: [[Lucentia|The Holy Kingdom of Antir Lucentia]].
 

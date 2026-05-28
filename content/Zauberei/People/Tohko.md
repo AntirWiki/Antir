@@ -19,7 +19,7 @@ tags:
 > | [[General Konketsu]] | Colleague |
 > | [[Miriam Varazs]] | Colleague |
 
-Tohko is the mayor of [[Zauberei City]] and the Vox Populi on the Zauberan Council.
+Tohko is the mayor of [[Zauberei]] and the Vox Populi on the Zauberan Council of Five.
 
 # Description
 A slender kitsune with white fur. They have a humanoid form, with pale skin and long dark hair, though he does not often use it.

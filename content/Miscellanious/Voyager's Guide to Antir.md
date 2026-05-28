@@ -29,12 +29,12 @@ Athraithe is not unified - dozens of small kingdoms, city-states, and other less
 Thanks to the thin veil with the spirit realm, spirits and magical creatures are even more common here than elsewhere on the continent, especially the nature-aligned fae. Because of this and the twisting landscape, [[Adventurer|Adventurers]] are frequently hired as guides and guards to those traveling in Athraithe.
 
 Some of the notable locales in the Strioc an Athraithe include:
-- [[Dragun Mac Tire]], the city that houses the [[Adventurer#The Adventurer's Guild|Antiran Adventurer’s Guild]] headquarters
+- [[Dragun Mac Tire]], the city that houses the [[Adventurer's Guild|Antiran Adventurer’s Guild]] headquarters
 - [[Catsi Crossing]], a city where [[Witch|Witches]] from all across the continent gather
 - The [[Silent Woods]], a cursed forest that slowly kills any who dare enter it
 
 ## Zauberei
-[[Zauberei]] is a magical city-state located in the northeastern mountains. [[Zauberei City]], the heart of the nation, is well-known for its wizardry thanks to [[Foxfire Academy]], the premier arcane university on the continent.
+[[Zauberei]] is a magical city-state located in the northeastern mountains. Zauberei City, the heart of the nation, is well-known for its wizardry thanks to [[Foxfire Academy]], the premier arcane university on the continent.
 
 Though small, the country remains a political force thanks to their powerful magic and exceptional education. It is led by a council of five individuals, each of whom represents an important part of Zauberan society.
 
@@ -89,7 +89,7 @@ Some ancestries from [[Taluvhas]] have also recently become more common in Antir
 All kinds of other ancestries can be found as well, whether as immigrants from far off lands, the unique spawn of some magic, or numerous other sources.
 
 ## Adventurers
-[[Adventurer|Adventuring]] as a profession only became common in 1168 BR, when [[Adventurer#The Adventurer's Guild|The Antiran Adventurers Guild]] was founded. Since then, the number of adventurers on the continent has skyrocketed. They find work in many places - as magic-cleanup crews in Zauberei, mercenaries and guides in Athraithe, monster hunters in Lucentia, tactical units in Blackwing - anywhere, doing anything that the local authorities cannot or will not handle. Whether it be fighting wild spirits, delving one of Antir's many ancient ruins, guarding some strange treasure, or anything else, it's rare for an adventurer to lack work if they're skilled and willing to get their hands dirty.
+[[Adventurer|Adventuring]] as a profession only became common in 1168 BR, when [[Adventurer's Guild|The Antiran Adventurers Guild]] was founded. Since then, the number of adventurers on the continent has skyrocketed. They find work in many places - as magic-cleanup crews in Zauberei, mercenaries and guides in Athraithe, monster hunters in Lucentia, tactical units in Blackwing - anywhere, doing anything that the local authorities cannot or will not handle. Whether it be fighting wild spirits, delving one of Antir's many ancient ruins, guarding some strange treasure, or anything else, it's rare for an adventurer to lack work if they're skilled and willing to get their hands dirty.
 
 The Adventurer's Guild has offices in every major city (and most large towns), and offers many resources to its members - job listings, pay negotiation, housing, information sharing, basic supplies, and more. Not all adventurers are members, but most see the monthly gold piece as more than worth the benefits.
 

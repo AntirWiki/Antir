@@ -20,13 +20,19 @@ The region is filled with small kingdoms, city-states, and other small independe
 ## Cities
 [[Catsi Crossing]], the land of witches.
 
-[[Dragun Mac Tire]], the heart of [[Adventurer#The Adventurer's Guild|The Adventurer's Guild]].
+[[Dragun Mac Tire]], the heart of the [[Adventurer's Guild]].
 
 [[Elmhollow]], a small town in the northwest that borders the Silent Woods.
+
+[[Havlin]], a small kingdom in the north
+- Havelburg, its capital
+- Brynhill, a village
 
 Twynreed, Belthanos - Towns
 
 ## Other
+The Deanach river passes through northern Athraithe, originating in [[Zauberei]] and leading into [[Lucentia]]. 
+
 The [[Silent Woods]], a cursed, deathly forest on the western edge of the region.
 - The [[Ravenwood]], a forest of withered trees and carrion feeders surrounding the Silent Wood.
 

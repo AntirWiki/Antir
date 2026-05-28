@@ -4,7 +4,7 @@ tags:
   - journey
 draft: true
 ---
-%%First appeared in [[2. Foxfire Crypts]]%%
+%%First appeared in [[2.1 Road to Foxfire]]%%
 
 This party of silver-rank [[Adventurer|Adventurers]] tried to stop [[Juniper Beaumont|Juniper]] from recovering [[Kyrillos]]' tome in the library of [[Foxfire Academy]]. All but Abrail were slain, and their bodies were never recovered. %%Juniper raised them as servants and took them. Use them as minibosses throughout the Journey.%%
 

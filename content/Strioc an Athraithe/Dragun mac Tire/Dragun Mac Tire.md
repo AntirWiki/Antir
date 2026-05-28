@@ -15,7 +15,7 @@ tags:
 > | **Government** | Oligarchy |
 > | **Religion** | Diverse |
 
-Dragún Mac Tíre (Pronounced *Dragoon Mack Teer-uh*) is the heart of [[Antir]]'s [[Adventurer#The Adventurer's Guild|Adventurer's Guilds]]. Located in the [[Strioc an Athraithe]] near the border to the [[Silent Woods]], the city is built up around the guild headquarters in the center of town.
+Dragún Mac Tíre (Pronounced *Dragoon Mack Teer-uh*) is the heart of [[Antir]]'s [[Adventurer's Guild]]. Located in the [[Strioc an Athraithe]] near the border to the [[Silent Woods]], the city is built up around the guild headquarters in the center of town.
 
 The town is known to have an active nightlife, but this is restricted to the bustling downtown area.
 

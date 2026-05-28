@@ -38,7 +38,7 @@ tags:
 > | [[Valerie Bouchard]] | Mentor |
 > | [[Darios O'Mael]] | Mentor |
 
-Rosaline and Kastenia Valentine are the founders and current leaders of the Antiran [[Adventurer#The Adventurer's Guild|Adventurer's Guild]].
+Rosaline and Kastenia Valentine are the founders and current leaders of the Antiran [[Adventurer's Guild]].
 
 %%Kastenia, mutated into the form of a giant moth by her fae powers, is kept in a garden deep within the guild headquarters. Rosaline uses the vast network of the Guild to search for a way to reverse this condition.%%
 
