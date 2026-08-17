@@ -18,6 +18,8 @@ The Archmage, the most gifted wizard in the university, leads research efforts a
 The Headmaster, a trusted associate of the Archmage, handles bureaucratic administration.
 - Currently [[Miriam Varazs]], sister to Archmage Irina.
 
+- Janoura Biersby, Irina's secretary. A dwarven woman with braided auburn hair and beard
+
 # Organization
 The university is divided into several schools, each with numerous departments and specialties. Some of these schools are labelled as Colleges - usually those that teach a particularly unique form of magic, such as the combat art of the Magus.
 

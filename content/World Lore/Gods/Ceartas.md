@@ -11,7 +11,7 @@ tags:
 > | **Titles** | ? |
 > | **Domains** | Duty, Protection, Zeal |
 > | **Region** | [[Lucentia]] |
-> | **Pantheon** | [[Antiran Pantheon]] |
+> | **Pantheon** | [[Lucentian Pantheon]] |
 > | **Symbol** | Shield? |
 > | **Followers** | Soldiers, Judges |
 > | **Edicts** | ? |

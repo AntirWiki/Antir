@@ -10,7 +10,7 @@ tags:
 > | **Titles** | Lucent Lumina, the Mother of Mercy |
 > | **Domains** | Healing, Repose, Sun, Truth |
 > | **Region** | [[Lucentia]] |
-> | **Pantheon** | [[Antiran Pantheon]] |
+> | **Pantheon** | [[Lucentian Pantheon]] |
 > | **Symbol** | ? |
 > | **Followers** | Antiran royal family, healers, most Lucentians |
 > | **Edicts** | Provide aid to the sick and wounded, bring others comfort, be honest |
@@ -25,7 +25,7 @@ tags:
 > | **Favored Weapon** | ? |
 > | **Cleric Spells** | ? ? ?|
 
-Lumina is the goddess of light and mercy in [[Lucentia]]. She is the head of the [[Antiran Pantheon]] and the patron goddess of the royal family.
+Lumina is the goddess of light and mercy in [[Lucentia]]. She is the head of the [[Lucentian Pantheon]] and the patron goddess of the royal family.
 
 She was once an aspect of the goddess Lucent until the 1020 BR schism between Lumina and [[Verita]] divided the goddess in two.
 

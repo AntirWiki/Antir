@@ -11,7 +11,7 @@ tags:
 > | **Titles** | ? |
 > | **Domains** | Cities, Travel, Trickery |
 > | **Region** | [[Lucentia]] |
-> | **Pantheon** | [[Antiran Pantheon]] |
+> | **Pantheon** | [[Lucentian Pantheon]] |
 > | **Symbol** | ? |
 > | **Followers** | Thieves, Urchins, Sex workers |
 > | **Edicts** | ? |

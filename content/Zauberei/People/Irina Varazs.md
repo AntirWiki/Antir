@@ -25,3 +25,5 @@ Her family comes from the [[Skell]] of the southern mountains. In her youth, she
 
 # Description
 Irina is a tall half-orc with greenish-tan skin and long black hair. She is more muscular than most wizards, but still thin by orc standards.
+
+Her speech is loud, blunt, and direct, often insultingly so. 

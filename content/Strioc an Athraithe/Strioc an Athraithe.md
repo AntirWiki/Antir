@@ -28,11 +28,11 @@ The region is filled with small kingdoms, city-states, and other small independe
 - Havelburg, its capital
 - Brynhill, a village
 
+
+
 Twynreed, Belthanos - Towns
 
 ## Other
-The Deanach river passes through northern Athraithe, originating in [[Zauberei]] and leading into [[Lucentia]]. 
-
 The [[Silent Woods]], a cursed, deathly forest on the western edge of the region.
 - The [[Ravenwood]], a forest of withered trees and carrion feeders surrounding the Silent Wood.
 
@@ -42,7 +42,7 @@ The [[Silent Woods]], a cursed, deathly forest on the western edge of the region
 # Geography
 Broadly, Athraithe is defined by the foothills of the [[Hallit]] mountains to the east, transitioning to dense forests in the west. However, the twisting influence of Tir na Nog results in numerous unexpected biomes across the region, ranging from the unlikely to the impossible.
 
-Two large rivers flow through Athraithe - one starting in the northern mountains of [[Zauberei]], the other starting in the eastern mountains just above the [[Riverlands]]. The two rivers eventually meet near [[Alturon]] in [[Lucentia]], before flowing into the ocean on the kingdom's western coast.
+Two large rivers flow through Athraithe - the **Deonach** starting in the northern mountains of [[Zauberei]], the other starting in the eastern mountains just above the [[Riverlands]]. The two rivers eventually meet near [[Alturon]] in [[Lucentia]], before flowing into the ocean on the kingdom's western coast.
 
 # History
 **1077 BR**

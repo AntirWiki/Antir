@@ -25,7 +25,7 @@ aliases:
 > | [[Kirturok Stonehoof]] | Family friend |
 > | [[Otto Von Geist]] | Friend |
 
-Juniper Beaumont is an acolyte of the [[Antiran Pantheon|Lucentian]] church in the town of [[Elmhollow]]. Their parents are the founders and priests of the church, and their sister [[Willow Beaumont]] is also an acolyte.
+Juniper Beaumont is an acolyte of the [[Lucentian Pantheon|Lucentian]] church in the town of [[Elmhollow]]. Their parents are the founders and priests of the church, and their sister [[Willow Beaumont]] is also an acolyte.
 
 They are well liked by the people of Elmhollow, even those not involved with the church. They're a devoted acolyte to [[Lumina]], and most members of the congregation expect that they will take over the church when their parents retire.
 

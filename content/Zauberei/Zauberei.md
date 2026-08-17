@@ -15,6 +15,7 @@ tags:
 > | **Trades** | Education, Arcana, Hunting, Lumber |
 > | **Government** | Oligarchy |
 > | **Religion** | None |
+> | **Population** | ~50,000 |
 
 Zauberei is a city-state located in the northeastern corner of [[Antir]]. It is famous for its population of wizards and other spellcrafters, thanks to the magical school [[Foxfire Academy]] that is located in the center of the city.
 
@@ -25,20 +26,37 @@ It shares its western border with [[Strioc an Athraithe]], and past the eastern 
 # Locations
 The majority of the country's trade and population are found in the capital, Zauberei City.
 ## Whitewall District
-The inner city has walls of white limestone surrounding it.
+>[!recite] Whitewall
+>The noises of the city change with the scenery around you. The horseshoes step on paved flagstones instead of rough cobbles, loud haggling over prices is replaced by the argument of students in a nearby cafe, and the conversation is a quiet murmur instead of competing shouts.
+>
+The buildings here are taller and sturdier than those in Earthwall - much of the wood is replaced by stone or brick, and almost every building has glass windows and tiled roofs. Past those roofs, you see the tall white spires of Foxfire Academy not far away.
+>
+The smell of unwashed human and animal recedes, overpowered now by the scents of coffee and magic.
+
+The inner city has heavily enchanted walls of white limestone surrounding it.
 
 The inner city is known for its tea and coffee houses, where merchants and students alike gather at all hours for business and pleasure.
 
 - [[Foxfire Academy]] is a magical university whose campus fills the core of the inner city.
+- The whitewall town square (brightflower s) is just outside the gates to the academy
 - **The Honeyed Ham** is a tavern and inn in the old town that caters to travelers and [[Hallit]].
 - The [[Zauberei Adventurer’s Guild]] is located on the edge of the inner city.
 
 ## Earthwall District
+> [!recite] Entering Earthwall
+> Stepping through the gate, the sounds you heard from outside hit you full force. Just from here you can see hundreds of people moving about the streets as they work and shop and converse amongst the simple wooden buildings.
+> 
+> The sounds are accompanied by the smell of the city - the usual scent of people and animals, but under it are hints of coffee, spices, paper, and the faint ozone scent of magic.
+> 
+> This is the Earthwall district, the home of Zauberei's working class.
+
 The outer city has a magically-built wall of packed earth. There are painted lines within the outer city where additional walls will be raised in case of a military assault. Citizens have been advised not to construct anything here, and have ignored this advice - why waste free land? The civic wizards either don't know or don't care about this - if the walls need to be raised, they will be, no matter how many buildings are in the way.
 
 ## Countryside
 Other notable locations include:
 - [[Luscgard]], a small town south of Zauberei City. 
+- The [[Kazadun Peaks]], a range of floating mountains near the southeastern borer
+- [[Carnaan]], a mining and logging town in the south, built on the side of a mountain.
 %%
 # People
 %%

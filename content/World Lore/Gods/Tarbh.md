@@ -11,7 +11,7 @@ tags:
 > | **Titles** | ? |
 > | **Domains** | Family, Luck, Wealth |
 > | **Region** | [[Lucentia]] |
-> | **Pantheon** | [[Antiran Pantheon]] |
+> | **Pantheon** | [[Lucentian Pantheon]] |
 > | **Symbol** | Yoked oxen |
 > | **Followers** | Farmers, Merchants |
 > | **Edicts** | ? |

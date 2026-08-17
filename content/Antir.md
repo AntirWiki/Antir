@@ -2,7 +2,7 @@
 tags:
   - location
 ---
-%%
+	%%
 ```leaflet
 id: Antir
 image: [[Antir Map.jpg]]

@@ -7,10 +7,10 @@ tags:
 > ### General Info
 > |  |  |
 > |  ----|  ----|
-> | **Titles** | ? |
+> | **Titles** | the Shroud Maiden |
 > | **Domains** | Darkness, Secrecy, Trickery |
 > | **Region** | [[Lucentia]] |
-> | **Pantheon** | [[Antiran Pantheon]] |
+> | **Pantheon** | [[Lucentian Pantheon]] |
 > | **Symbol** | Locked book |
 > | **Followers** | Spies, Assassins, Thieves |
 > | **Edicts** | Keep secrets, remain inconspicuous |

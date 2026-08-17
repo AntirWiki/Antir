@@ -11,7 +11,7 @@ tags:
 > | **Titles** | ? |
 > | **Domains** | Creation, Indulgence, Passion |
 > | **Region** | [[Lucentia]] |
-> | **Pantheon** | [[Antiran Pantheon]] |
+> | **Pantheon** | [[Lucentian Pantheon]] |
 > | **Symbol** | ? |
 > | **Followers** | ? |
 > | **Edicts** | ? |

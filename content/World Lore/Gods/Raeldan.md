@@ -11,7 +11,7 @@ tags:
 > | **Titles** | ? |
 > | **Domains** | Glyph, Knowledge |
 > | **Region** | [[Lucentia]] |
-> | **Pantheon** | [[Antiran Pantheon]] |
+> | **Pantheon** | [[Lucentian Pantheon]] |
 > | **Symbol** | Open Book |
 > | **Followers** | Scholars, Scribes, Teachers |
 > | **Edicts** | ? |

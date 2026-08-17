@@ -1,6 +1,8 @@
 ---
 tags:
   - country
+aliases:
+  - Manaiuud
 ---
 > [!infobox]
 > ## Manaius
@@ -10,7 +12,7 @@ tags:
 > | **Region** | Northeastern [[Taluvhas]] |
 > | **Size** | Large |
 > | **Capital** | None (Nomadic) |
-> | **Trades** | Horses, Large Game |
+> | **Trades** | Horses, Livestock, Large Game |
 > | **Government** | Aristocratic Oligarchy |
 > | **Religion** | ? |
 
@@ -18,8 +20,12 @@ Manaius is a region of arid steppes in the northeastern part of Taluvhas. It is 
 
 Its people are nomadic, as any permanent settlements risk drawing the attention of Pallax Hellwing, a cruel dragon that lives in the nearby mountains.
 
+%%Cowboy/western theme???%%
+
 # Locations
-There are no permanent settlements in Manaius, due to the everpresent threat of draconic attack.
+There are no permanent settlements in Manaius, due to the everpresent threat of attack by the dragon Pallax.
+
+%%Moving wagon towns?%%
 
 # People
 The nomadic Manaiuud are renowned horse breeders and riders. They are led by a noble class of centaurs, who act as both sociopolitical leaders and elite warriors.

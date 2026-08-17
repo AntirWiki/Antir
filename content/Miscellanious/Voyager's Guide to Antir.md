@@ -13,7 +13,7 @@ Since the end of the Shining Crusade in 1352 BR, the continent can be easily div
 ## The Holy Kingdom of Antir Lucentia
 The largest territory on Antir is the [[Lucentia|Holy Kingdom of Antir Lucentia]]. It is a vast theocratic monarchy, powerful in both economy and military, whose culture is dedicated to their gods.
 
-Religion has a central place in the lives of most Lucentians. Their [[Antiran Pantheon|pantheon]] of gods - led by [[Lumina]], goddess of light and mercy - are given great respect in every day life, and each of the major gods has a dedicated festival each year. Though they favor their own pantheon, all gods and faiths are welcome in the kingdom. 
+Religion has a central place in the lives of most Lucentians. Their [[Lucentian Pantheon|pantheon]] of gods - led by [[Lumina]], goddess of light and mercy - are given great respect in every day life, and each of the major gods has a dedicated festival each year. Though they favor their own pantheon, all gods and faiths are welcome in the kingdom. 
 
 Arcane magic is seen as an affront to the gods in Lucentia- its use is heavily frowned upon, and selling arcane goods or services anywhere in the nation is illegal.
 
@@ -134,7 +134,7 @@ Some mortals also worship powerful fae, devils, or demons as gods. The line betw
 Because gods are undeniably real, most people on Antir worship gods to some degree. A notable exception are the wizards of [[Zauberei]] - since wizards harness their own magical energy, they cannot provide it to a god, so the gods largely ignore their useless prayers.
 
 ## The Antiran Pantheon
-Most [[Lucentia|Lucentians]], and many outside that kingdom, worship a group of gods known as the [[Antiran Pantheon]]. This pantheon has several major gods and countless minor ones - even ones as small as the household *[[Antiran Pantheon#Lares|Lares]]*.
+Most [[Lucentia|Lucentians]], and many outside that kingdom, worship a group of gods known as the [[Lucentian Pantheon]]. This pantheon has several major gods and countless minor ones - even ones as small as the household *[[Lucentian Pantheon#Lares|Lares]]*.
 
 Almost all who follow the faith pay token respect to the high gods of the pantheon, whose number includes:
 - [[Lumina]], goddess of light and mercy - the leader of the pantheon and patron of the Lucentian royal family

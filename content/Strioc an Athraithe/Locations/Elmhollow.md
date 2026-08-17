@@ -19,7 +19,7 @@ Elmhollow is a small town near the [[Silent Woods]] in the northwest of the [[St
 The [[Ravenwood]] lies just beyond the town's western border.
 
 # Locations
-**The Lucentian chapel** - A church to the [[Antiran Pantheon]], particularly [[Lumina]]. 
+**The Lucentian chapel** - A church to the [[Lucentian Pantheon]], particularly [[Lumina]]. 
 
 # People
 The Lucentian chapel hosts a growing congregation, based around the Beaumont family of missionaries who came to Elmhollow and founded the church around 1350 BR. Many townsfolk have begun blending Lucentian religion with their traditional spirituality, which some see as the first step to the entire town being converted. The most faithful within the congregation denounce the traditional beliefs completely - though many secretly practice the old traditions, which are often necessary for survival in the fae-warped woods of Athraithe.

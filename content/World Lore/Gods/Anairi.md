@@ -10,7 +10,7 @@ tags:
 > | **Titles** | The Soldier's God |
 > | **Domains** | Duty, Sorrow, Toil |
 > | **Region** | [[Lucentia]] |
-> | **Pantheon** | [[Antiran Pantheon]] |
+> | **Pantheon** | [[Lucentian Pantheon]] |
 > | **Symbol** | Red chipped spear |
 > | **Followers** | Soldiers, Martyrs |
 > | **Edicts** | Listen to all voices, Remember the fallen |

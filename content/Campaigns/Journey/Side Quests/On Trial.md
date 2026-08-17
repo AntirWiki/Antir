@@ -11,7 +11,7 @@ The party passes by a knight of the [[Order of the Silver Shield]] (Knight Allia
  
 Taken to court and have to defend themselves.
 
-Courthouse is a cathedral with prominent images of [[Lumina]] and [[Antiran Pantheon#Ceartas]]
+Courthouse is a cathedral with prominent images of [[Lumina]] and [[Lucentian Pantheon#Ceartas]]
 
 A court oracle asks Lumina to show the court evidence - if Willow did any necromancy within Kingdom borders, a vision in light is shown of the event.
 

@@ -16,7 +16,9 @@ The symbol of the Guild is a wolf and a dragon, entwined around a sword. It repr
 The guild's [[Adventurer's Guild Headquarters|headquarters]] are located in [[Dragun Mac Tire]]. It is led by its original founders, elven twins [[Rosaline and Kastenia Valentine]].
 
 ## Ranks
-Guild members are given a badge in a metal that shows their rank: copper, silver, or gold. Most guild quests are posted with a required rank, higher ranked quests being more dangerous but more profitable. These ranks are each further divided into titles, as follows:
+Guild members are given a badge in a metal that shows their rank: copper, silver, or gold. Guild badges have a minor enchantment such that the Guild emblem only appears when the badge is held by its true owner. 
+
+Most guild quests are posted with a required rank, higher ranked quests being more dangerous but more profitable. These ranks are each further divided into titles, as follows:
 
 ### Initiates
 “Pups” / “Sparks” - Bronze clearance

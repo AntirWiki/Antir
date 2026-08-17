@@ -1,6 +1,5 @@
 ---
 tags:
-  - incomplete
   - group
   - creature
 draft: false

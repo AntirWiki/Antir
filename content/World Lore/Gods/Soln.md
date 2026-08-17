@@ -11,7 +11,7 @@ tags:
 > | **Titles** | The Silent Hunter |
 > | **Domains** | Freedom, Nature, Wood |
 > | **Region** | [[Lucentia]] |
-> | **Pantheon** | [[Antiran Pantheon]] |
+> | **Pantheon** | [[Lucentian Pantheon]] |
 > | **Symbol** | ? |
 > | **Followers** | Hunters, Naturalists |
 > | **Edicts** | ? |

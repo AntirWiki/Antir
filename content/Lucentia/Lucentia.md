@@ -16,9 +16,9 @@ aliases:
 > | **Capital** | [[Alturon]] |
 > | **Trades** | Agriculture, Forestry, Artisanry |
 > | **Government** | Monarchy |
-> | **Religion** | [[Antiran Pantheon]] |
+> | **Religion** | [[Lucentian Pantheon]] |
 
-The Holy Kingdom of Antir Lucentia (often referred to as simply "The Holy Kingdom" or "Lucentia") is the largest country in [[Antir]], controlling the northwest and central regions of the continent. It is a religious monarchy, its leaders and the majority of its people faithfully serving the [[Antiran Pantheon]] of gods, especially [[Lumina]], goddess of light. 
+The Holy Kingdom of Antir Lucentia (often referred to as simply "The Holy Kingdom" or "Lucentia") is the largest country in [[Antir]], controlling the northwest and central regions of the continent. It is a religious monarchy, its leaders and the majority of its people faithfully serving the [[Lucentian Pantheon]] of gods, especially [[Lumina]], goddess of light. 
 
 Lucentia, previously referred to only as the Kingdom of Antir, dominated the entire continent during the Great Kingdom era (except for the ungovernable [[Riverlands]]). Political fractures starting in 1100 BR led to a significant reduction in territory until a series of crusades - known collectively as the Shining Crusade - reclaimed the lands they hold today.
 
@@ -49,7 +49,7 @@ The sale of magical goods or services is seen as heresy, and has been banned in 
 %%https://en.wikipedia.org/wiki/Vidame %%
 
 # Culture
-Though the Lucentian government and most of its residents favor the [[Antiran Pantheon]], all faiths are welcome in the Kingdom (so long as they do not break other laws). Even the faith of [[Verita]] has a small presence in Lucentia despite that goddess's antagonistic relationship with other gods, especially [[Lumina]].
+Though the Lucentian government and most of its residents favor the [[Lucentian Pantheon]], all faiths are welcome in the Kingdom (so long as they do not break other laws). Even the faith of [[Verita]] has a small presence in Lucentia despite that goddess's antagonistic relationship with other gods, especially [[Lumina]].
 
 Each major god in the pantheon has an annual festival, with one occurring each month. These multi-day events are celebrated across the kingdom, and might include watching mock battles for [[Ceartas]], attending lectures for [[Raeldan]], donning masks in the night for [[Rhylea]], or many other activities.
 

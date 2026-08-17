@@ -1,7 +1,6 @@
 ---
 tags:
   - private
-  - incomplete
 draft: true
 ---
 # Hook

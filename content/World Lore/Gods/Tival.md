@@ -11,7 +11,7 @@ tags:
 > | **Titles** | ? |
 > | **Domains** | Healing, Repose, Sorrow |
 > | **Region** | [[Lucentia]] |
-> | **Pantheon** | [[Antiran Pantheon]] |
+> | **Pantheon** | [[Lucentian Pantheon]] |
 > | **Symbol** | Closed Eye with Falling Tear |
 > | **Followers** | Healers, Counselors |
 > | **Edicts** | ? |
