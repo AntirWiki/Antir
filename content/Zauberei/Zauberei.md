@@ -55,7 +55,7 @@ The outer city has a magically-built wall of packed earth. There are painted lin
 ## Countryside
 Other notable locations include:
 - [[Luscgard]], a small town south of Zauberei City. 
-- The [[Kazadun Peaks]], a range of floating mountains near the southeastern borer
+- The [[Kazadun Peaks]], a range of floating mountains near the southeastern border
 - [[Carnaan]], a mining and logging town in the south, built on the side of a mountain.
 %%
 # People

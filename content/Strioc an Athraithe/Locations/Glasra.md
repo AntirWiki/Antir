@@ -22,7 +22,7 @@ The "kingdom" is very small, both in territory and the size of its buildings. It
 # People
 Most of the permanent residents are leshies, but others occasionally reside there - particularly halflings, gnomes, and others who share their short stature and love of nature.
 
-**Washu**, a cottonwood leshy, is the current King of Glasra. His skin is dark brown bark, surrounded by white fluff like a dandelion seed. He's even shorter than most leshy, and has small stubby arms and legs.
+**Wanders on Wind**, often just called Wander, is a cottonwood leshy and is the current King of Glasra. His skin is dark brown bark, surrounded by white fluff like a dandelion seed. He's even shorter than most leshy, and has small stubby arms and legs.
 
 # Government
 The kingdom is ostensibly ruled by the eldest resident, who claims the title of monarch once the previous eldest reincarnates. The position is mostly ceremonial - the monarch holds no actual authority over the other residents, who generally only listen to the monarch's commands when they want to.

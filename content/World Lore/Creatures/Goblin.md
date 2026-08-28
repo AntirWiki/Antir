@@ -4,7 +4,9 @@ tags:
 aliases:
   - Goblins
 ---
-![[goblinref.png|right|500]] Goblins are a mortal race hailing from the sprawling cave systems below Antir. Seemingly descended from bats, they have small forms with massive eyes and ears, making them well suited for life in dark, cramped places.
+![[goblinref.png|right|500]] Goblins are a mortal race hailing from the sprawling cave systems below Antir. Seemingly descended from bats, they have small forms with massive eyes and ears, making them well suited for life in dark, cramped places. They tend to bob their heads side to side, presumably a way to enhance their already incredible hearing. 
+
+Goblins have minimal sexual dimorphism 
 
 Goblins have a troubled history within Antir. Goblinoid society first discovered Antir during the age of the [[Dragon|Dragons]], and the dragons and their servants were not kind to any goblins they found - either attempting to kill or enslave them. This led to a generational fear and distrust of surface dwellers.
 
