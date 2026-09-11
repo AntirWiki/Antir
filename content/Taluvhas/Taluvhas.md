@@ -25,7 +25,7 @@ The northern wetlands are mostly inhabited by the insectoid Surki and the floral
 # Government
 Though home to several countries, the entire continent is ruled by the court of the [[Autumn King]].
 
-Each country is overseen by an imperial governor, all of whom are archfae of the Autumn Court. Some of these fae have a nature suited to their post, while others are very ill-fitted to their role.
+Each country is overseen by an imperial governor, all of whom are archfae of the [[Fae#Autumn|The Autumn Court]]. Some of these fae have a nature suited to their post, while others are very ill-fitted to their role.
 
 Countries are largely left to self-govern, except for those with a particularly capricious governor. All must pay taxes to the Autumn Court, and provide troops to the King's army as it recovers from the losses taken during the conquest of the continent.
 

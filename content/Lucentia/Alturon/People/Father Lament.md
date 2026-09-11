@@ -20,7 +20,7 @@ draft: true
 > | ---- | ---- |
 > | [[Irina Varazs]] | Colleague |
 
-Father Lament is a priest who resides in the Invisible Library in [[Alturon]]. He spends his days studying possession, and perfecting new methods of exorcism and spiritual abjuration.
+Father Lament is a priest who resides in the [[Invisible Library]] in [[Alturon]]. He spends his days studying possession, and perfecting new methods of exorcism and spiritual abjuration.
 
 Lament does not dedicate himself to any single god, instead giving worship to the entire [[Lucentian Pantheon]].
 

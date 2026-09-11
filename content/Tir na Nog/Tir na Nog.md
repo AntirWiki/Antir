@@ -19,14 +19,14 @@ Elysium is seen as the opposite of the Hells, embodying order, unity, and devoti
 # The Hells
 The Six Hells each follow a general theme based on a mortal emotion, though their Devil residents and infernal locales can be flexible in their interpretations. They are often seen as three pairs of opposites:
 
-- The hells of Ambition and Sloth %%Virtue of Responsibility?%%
-- The hells of Wrath and Cowardice %%Virtue of Justice?%%
-- And the hells of Zealotry and Betrayal %%Virtue of Trust?%%
+- The hells of Ambition (City of Dis) and Sloth (Sewers of Erebus) %%Virtue of Responsibility?%%
+- The hells of Wrath (Pits of Caina) and Cowardice (Wastes of Cocytus) %%Virtue of Justice?%%
+- And the hells of Zealotry (Plains of Avernus) and Betrayal (Cliffs of Nessus)%%Virtue of Trust?%%
 
 The Hells are seen as the opposite of Elysium, embodying disorder and transactional relationships.
 
 # Arcadia
-The fae realm is the first plane many Antirans think of when they consider Tir na Nog. The realm manifests as a twisted exaggeration of the mortal world. A pine-forested lake may become a vast ocean of sap, a group of green hills an emerald-encrusted mountain range, or a small fissure a great and bottomless ravine.
+The [[Fae]] realm is the first plane many Antirans think of when they consider Tir na Nog. The realm manifests as a twisted exaggeration of the mortal world. A pine-forested lake may become a vast ocean of sap, a group of green hills an emerald-encrusted mountain range, or a small fissure a great and bottomless ravine.
 
 The feywild is seen as the opposite of the Abyss, embodying dreams and grandeur.
 

@@ -9,7 +9,7 @@ draft: true
 This party of silver-rank [[Adventurer|Adventurers]] tried to stop [[Juniper Beaumont|Juniper]] from recovering [[Kyrillos]]' tome in the library of [[Foxfire Academy]]. All but Abrail were slain, and their bodies were never recovered. %%Juniper raised them as servants and took them. Use them as minibosses throughout the Journey.%%
 
 # Abrail
-A brash [[Dwarf]] woman, a fighter who used heavy plate and great sword. Downed during the fight and left for dead.
+A brash [[Dwarf]] woman, a fighter who used heavy plate and great sword. Downed during the fight with Juniper and left for dead.
 
 Emili's sister.
 

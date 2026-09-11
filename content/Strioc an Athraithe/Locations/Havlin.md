@@ -28,9 +28,10 @@ The Havlin Adventurer's Guild
 Brynhill, a small village
 %%
 # People
-
+%%
 # Government
-
+**King Gladstone**, a golden-haired human man, rules over Havlin. He is generally well-liked, but eccentric and somewhat reclusive. His family have been governing Havlin for generations. %%He is a Fortune Dragon in disguise, and all prior Gladstones have just been him in other guises. He views the national economy as his "hoard", and is thus very very reticent to export anything from the kingdom if it is not extremely profitable.%%
+%%
 # Culture
 
 # Geography

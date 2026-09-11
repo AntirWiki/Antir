@@ -9,7 +9,7 @@ tags:
 > |  |  |
 > |  ----|  ----|
 > | **Titles** | ? |
-> | **Domains** | Family, Luck, Wealth |
+> | **Domains** | Family, Luck, Toil, Wealth |
 > | **Region** | [[Lucentia]] |
 > | **Pantheon** | [[Lucentian Pantheon]] |
 > | **Symbol** | Yoked oxen |

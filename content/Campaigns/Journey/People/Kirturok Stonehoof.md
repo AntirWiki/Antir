@@ -3,7 +3,6 @@ tags:
   - character
   - pc
   - journey
-  - incomplete
 draft: false
 aliases:
   - Rock
@@ -28,7 +27,7 @@ aliases:
 > | [[Juniper Beaumont]] | Friend |
 > | [[Otto Von Geist]] | Friend |
 
-Kirturok Stonehoof, also known as Rock, is an [[Adventurer]] known for fighting monsters across Antir.
+Kirturok Stonehoof, also known as Rock, is an [[Adventurer]] known for fighting monsters across Antir. He accompanied the [[Elmhollow Party]] at the beginning of their journey across Antir.
 
 # Description
 Rock is not especially large for a [[Minotaur]], but still towers over most Antirans at 11' 5" (without the horns). Like most of his kin, he has a furred body, large hooves, and a face with a mix of human and bovine features. He has pronounced mutton chops and medium-length brown hair.

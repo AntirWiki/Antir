@@ -23,13 +23,13 @@ Alturon is the capital of Lucentia and the largest city in [[Antir|Antir]]
 **Catsi Quarter** is a mostly residential neighborhood that also features a number of 'rural' trades such as butchers and spinners. It was once populated by refugees from [[Catsi Crossing]] after the town's destruction in 950 BR. Its name and historical connection to the town have given it an association with witches, causing a number of alchemists and healers to set up shop there.
 
 %%
-The **Invisible Library** is a collection of secret knowledge gathered by the Lucentian church, including materials on fiends and fae, theogony and deicide, and more. It is hidden by a blessing of [[Rhylea]], and only approved priests and knights (or those with the Shroud Maiden's favor) are able to locate and enter it.
+The **[[Invisible Library]]** is a collection of secret knowledge gathered by the Lucentian church, hidden from public view by a blessing of Rhylea.
 %%
 
 # People
 The [[Golden Saint]], saint of [[Lumina]] and monarch of Lucentia, resides in the [[Sunlit Palace]].
 
-%% [[Father Lament]] is a priest who resides in the Invisible Library, studying possession and exorcism.%%
+%% [[Father Lament]] is a priest who resides in the [[Invisible Library]], studying possession and exorcism.%%
 
 # History
 In the Great Kingdom era, Alturon was the capital of the unified Kingdom of Antir. 

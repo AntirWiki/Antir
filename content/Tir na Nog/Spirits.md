@@ -9,7 +9,7 @@ The type of spirit it becomes depends on the nature of that impression, as descr
 
 Some spirits blur the lines between realms (see [[#Hybrid Spirits]]). For example, a three-headed wolf that eats children might be both demon and fae. Spirits can also shift between states as mortal perception of them changes - a devil may exist that trades in bones, but when a cult begins worshipping them as a God of Bones, they may become a celestial.
 
-The majority of spirits reside in [[Tir na Nog]], also known as the spirit realm. However, many spirits are frequent visitors to the realm of mortals, and some even reside there permanently.
+The majority of spirits reside in the planes of [[Tir na Nog]], also known as the spirit realm. However, many spirits are frequent visitors to the realm of mortals, and some even reside there permanently.
 
 # Celestials
 If a mortal believes in a being that represents an ideal or a concept, that creates a Celestial. This could be something like a God of Plagues, or a guardian angel. 
@@ -24,13 +24,9 @@ Devils are the embodiments of desperation and bargains.
 Devils originate in the [[Tir na Nog#The Hells|The Six Hells]], where sin and selfishness abound.
 
 # The Fae
-Fae are created by ideas about the natural world and its inhabitants - including sentient beings. Fae often represent twisted or idealized forms of real creatures, like a stag with golden antlers, a tree that sings prophecy, or a personification of a local river. For sentient beings, this could be a person that can swap faces, a great hunter that can never miss a shot, or a woman so beautiful she drives mortals mad. They can also represent forces of nature, like a living storm, a roaring wildfire, or a roaming pack of boulders.
+[[Fae]] are created by ideas about the natural world and its inhabitants - including sentient beings. Fae often represent twisted or idealized forms of real creatures, like a stag with golden antlers, a tree that sings prophecy, or a personification of a local river. For sentient beings, this could be a person that can swap faces, a great hunter that can never miss a shot, or a woman so beautiful she drives mortals mad. They can also represent forces of nature, like a living storm, a roaring wildfire, or a roaming pack of boulders.
 
-The fae are nature spirits, often tricksters or hunters. Despite the fact that many fae resemble mortals, their minds are almost all completely alien to mortal thought processes.
-
-Due to their connection to nature, fae are the most common spirit to inhabit the mortal plane. Some fae - mostly animal and plant spirits - exist fully in the mortal world, never entering Tir na Nog at all. Those that live in the spirit plane are usually found in [[Tir na Nog#The Faewild|The Faewild]].
-
-The High Fae - the most powerful and intelligent - have a series of noble ranks and titles so complex that all mortal attempts at cataloguing it have failed. Mortals typically refer to a High Fae of sufficient rank and power as an "archfey", though this title is rarely used by the fae themselves. 
+Due to their connection to nature, fae are the most common spirit to inhabit the mortal plane. Some fae - mostly animal and plant spirits - exist fully in the mortal world, never entering Tir na Nog at all. Those that live in the spirit plane are usually found in the realm of [[Tir na Nog#Arcadia|Arcadia]].
 
 # Demons
 Thoughts of inhuman and unnatural beings, as well as fears in general, cause Demons to be born. A monster that hides under beds, a floating eye that's always watching you, and a beast that sits on your chest and eats your dreams would all be demons.

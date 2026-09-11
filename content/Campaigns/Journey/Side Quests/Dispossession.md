@@ -11,7 +11,10 @@ A [[Demon Hunter]] named Francesca Ortiz beseeches the party's aid infiltrating 
 %% Maybe
 Francesca is a [[Demon Hunter#Wulvs|Wulf]] host, and warns the party that if she is hurt during the conflict she may "change". She gives the party a passphrase - "May the Font shine golden" - to prove they're allies if a Wulf emerges.
 
-If she is killed, she transforms into a Wulf named Andromeda. Andromeda - or Andy - has dark skin like Francesca, but a slightly heavier build. When she transforms, she picks up Francesca's pistol - and the gun transforms into a hulking shotgun inscribed with golden runes. Andy has no memories of Francesca, and will immediately try to kill the Defied if she isn't stopped.%%
+If she is killed, she transforms into a Wulf named Andromeda. Andromeda - or Andy - has dark skin like Francesca, but a slightly heavier build. When she transforms, she picks up Francesca's pistol - and the gun transforms into a hulking shotgun inscribed with golden runes. Andy has no memories of Francesca, and will immediately try to kill the Defied if she isn't stopped.
+
+Maybe don't do this, might be overcomplicated. Maybe instead, she was ousted from the Wardens because of her research on Astral runes - she was told to stop and refused, not realizing her work could be just as dangerous to the Wulves and Vada as it is to the Defied.
+%%
 
 During the final confrontation, it is revealed that the Defied host was Francesca's father. She wants to provide him with a true and peaceful death, free of demonic corruption.
 
